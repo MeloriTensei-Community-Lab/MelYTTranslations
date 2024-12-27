@@ -1,0 +1,440 @@
+1
+00:00:01,551 --> 00:00:03,667
+She's not really back, is she?
+
+2
+00:00:03,667 --> 00:00:05,834
+That is, by the way of MeloriTensei,
+
+3
+00:00:05,834 --> 00:00:08,667
+who has previously announced hiatus,
+
+4
+00:00:08,667 --> 00:00:11,256
+but has never announced that she's back!
+
+5
+00:00:11,256 --> 00:00:14,460
+Which is pretty evident with her battery replacement stream.
+
+6
+00:00:14,460 --> 00:00:18,373
+Sometimes, we wonder if she really is back!
+
+7
+00:00:18,373 --> 00:00:22,163
+However, we have exclusive information from The Tech Wizardess herself.
+
+8
+00:00:22,163 --> 00:00:24,327
+And thus, we'll hand it over to Mel herself.
+
+9
+00:00:24,327 --> 00:00:25,467
+Take it away!
+
+10
+00:00:25,467 --> 00:00:26,517
+Thanks, FalseMel.
+
+11
+00:00:26,517 --> 00:00:28,785
+First up, I got a brand new logo!
+
+12
+00:00:28,785 --> 00:00:30,864
+What do you think? Do you think it looks good?
+
+13
+00:00:30,864 --> 00:00:33,176
+Do you think it looks good-y good-y good-y?
+
+14
+00:00:33,176 --> 00:00:33,852
+(chuckle)
+
+15
+00:00:33,852 --> 00:00:36,961
+I mean, we got a little, like a circle-y looking thing.
+
+16
+00:00:36,961 --> 00:00:39,172
+and a galaxy in the ring.
+
+17
+00:00:39,172 --> 00:00:41,828
+Kinda give out that Michael Jackson vibe, don't ya think?
+
+18
+00:00:41,828 --> 00:00:43,453
+Lemme know in the (*comments) below.
+(Oops, said "description" by habit XD)
+
+19
+00:00:43,453 --> 00:00:46,975
+And with that aside, I got a brand new links page!
+
+20
+00:00:46,975 --> 00:00:53,960
+Which is currently hosted on https://pincushion.etersia.moe/@MeloriTensei/ The reason why I'm moving out of my Carrd
+
+21
+00:00:53,960 --> 00:00:56,517
+is because I wanna bring up more customizability
+
+22
+00:00:56,517 --> 00:00:59,765
+without having to worry about the element count limit.
+
+23
+00:00:59,765 --> 00:01:04,047
+So with that addition, it has given me more space to add a few social medias.
+(Beep beep, unnecessary NSFW warning)
+
+24
+00:01:04,047 --> 00:01:06,047
+Including PCPartPicker
+
+25
+00:01:06,047 --> 00:01:07,950
+(Ahh~)
+And a steamy social media~
+
+26
+00:01:07,950 --> 00:01:09,950
+Whatever happens there stays there.
+
+27
+00:01:09,950 --> 00:01:11,750
+Don't bring it over to YouTube.
+
+28
+00:01:11,750 --> 00:01:16,249
+And without the limit, allows me to add even more contexts onto each of the sections.
+
+29
+00:01:16,249 --> 00:01:22,615
+Say, for example, the donations section. More on that later. And if you're wondering where I got the template from
+
+30
+00:01:22,615 --> 00:01:27,350
+Do check out LinkStack, it's a whole new server that lets you selfhost this kind of thing.
+
+31
+00:01:27,350 --> 00:01:28,434
+Check it out on GitHub.
+
+32
+00:01:28,434 --> 00:01:33,709
+With that aside, I've also decided to return to Ko-Fi and Throne for my donation platform.
+
+33
+00:01:33,709 --> 00:01:39,338
+And with that said, I've also enabled PayPal as my donation option for PayPal balance users.
+
+34
+00:01:39,338 --> 00:01:44,984
+To those using cards, please use Stripe (the one that is not PayPal) as an option.
+
+35
+00:01:44,984 --> 00:01:51,832
+Because, then more money will get to me. Because PayPal takes a little bit more for transaction fees that will be taken off me.
+
+36
+00:01:51,832 --> 00:01:56,317
+And I've also included that context in the notes section as well, in case you forgot.
+
+37
+00:01:56,317 --> 00:02:02,091
+And with moving back into Ko-Fi, it also mean I'm going to start making some more 3D wallpapers.
+
+38
+00:02:02,091 --> 00:02:03,771
+Very occasionally, however.
+
+39
+00:02:03,771 --> 00:02:06,661
+If you got any ideas, send them down in the (*comments) below.
+(Really Mel, "description" again?)
+
+40
+00:02:06,661 --> 00:02:09,786
+and with more wallpapers, I've also decided to up the quality.
+
+41
+00:02:09,786 --> 00:02:11,761
+Which also means I'm moving out of Blender,
+
+42
+00:02:11,761 --> 00:02:15,290
+and to use Unity to make these wallpapers instead.
+
+43
+00:02:15,290 --> 00:02:20,267
+Because I think Unity is much more close to the aesthetics that my current model is.
+
+44
+00:02:20,267 --> 00:02:23,189
+However, I got plans to do something even more exciting.
+
+45
+00:02:23,189 --> 00:02:32,057
+Which is Unreal Engine 5. However, I'm waiting for colliders for this model to be fixed on in UE5 first before I can make wallpapers out of UE5.
+
+46
+00:02:32,057 --> 00:02:33,182
+More on that in the future.
+
+47
+00:02:33,182 --> 00:02:37,431
+And speaking of fixing my model, I've added a couple of additions to my model
+
+48
+00:02:37,431 --> 00:02:42,000
+that are very minute. You might have seen this in my [Got Impatient] video
+
+49
+00:02:42,000 --> 00:02:44,949
+Where my mouth can puff, and I can stick my tongue out.
+
+50
+00:02:44,949 --> 00:02:48,193
+In addition to that, I could also move my mouth sideways.
+
+51
+00:02:48,193 --> 00:02:49,801
+Although, very very little.
+
+52
+00:02:49,801 --> 00:02:52,866
+Now onto a different topic, I've heard your concerns.
+
+53
+00:02:52,866 --> 00:02:57,857
+"Uhh Mel? When's your Discord server? Do you have a Discord server? I wanna keep in touch with you."
+
+54
+00:02:57,857 --> 00:03:02,470
+While I understand, however moderation is a daunting task for me.
+
+55
+00:03:02,470 --> 00:03:07,799
+Especially for someone who's doing everything on the channel, from top to bottom, all by myself.
+
+56
+00:03:07,799 --> 00:03:11,497
+So, I've been waiting for a moderator to be able to assist me on that.
+
+57
+00:03:11,497 --> 00:03:14,326
+However, if you've watched the recent streams,
+
+58
+00:03:14,326 --> 00:03:17,194
+you might have noticed that I may have found a moderator.
+
+59
+00:03:17,194 --> 00:03:21,155
+And I'm going to appoint them as my moderator for my Discord server.
+
+60
+00:03:21,155 --> 00:03:24,992
+And I'll eventually work on the Discord server when I finally have time to work on it.
+
+61
+00:03:24,992 --> 00:03:28,031
+While it doesn't mean that the Discord server is coming instantly,
+
+62
+00:03:28,031 --> 00:03:31,014
+it may take months, it may take even half a year.
+
+63
+00:03:31,014 --> 00:03:33,682
+But rest assured it is going to be in the works.
+
+64
+00:03:33,682 --> 00:03:38,241
+And speaking of "being in the works", I've decided to step out of Twitter and Instagram.
+
+65
+00:03:38,241 --> 00:03:42,997
+Because of great concerns of the wildly changed TOS on Twitter.
+
+66
+00:03:42,997 --> 00:03:47,415
+While it would be quite devastating to lose network on the community on Twitter,
+
+67
+00:03:47,415 --> 00:03:52,780
+I've also decided to step out of it for various other reasons, to which I wish to not disclose.
+
+68
+00:03:52,780 --> 00:03:55,634
+"Uhh, Mel. Where would the updates come (from) then?"
+
+69
+00:03:55,634 --> 00:03:56,523
+Glad you asked.
+
+70
+00:03:56,523 --> 00:04:01,845
+The updates are going to be now on YouTube Community Post and Bluesky for English.
+
+71
+00:04:01,845 --> 00:04:04,907
+And I also wanted to practice my Japanese skills a little bit.
+
+72
+00:04:04,907 --> 00:04:11,334
+So, I've also started writing a couple of important update posts, in full Japanese, on Misskey as well.
+
+73
+00:04:11,334 --> 00:04:13,854
+Do check those out on the page I mentioned earlier.
+
+74
+00:04:13,854 --> 00:04:18,087
+And on top of that, I've also decided to start mainly streaming on YouTube.
+
+75
+00:04:18,087 --> 00:04:22,845
+Albeit now that I'm on YouTube, I'm gonna be making lesser streams and more videos.
+
+76
+00:04:22,845 --> 00:04:26,471
+Because I honestly think making streams are quite taxing on me.
+
+77
+00:04:26,471 --> 00:04:29,337
+Especially for someone who has been doing everything alone.
+
+78
+00:04:29,337 --> 00:04:32,259
+While I'm not going to fall behind on the stream quality,
+
+79
+00:04:32,259 --> 00:04:36,369
+I am going to drop the frequency (*and) keep focusing on videos.
+
+80
+00:04:36,369 --> 00:04:39,644
+So hopefully you would keep in touch with me for future videos.
+
+81
+00:04:39,644 --> 00:04:42,395
+But it's not like I'm gonna stream once in a long while either,
+
+82
+00:04:42,395 --> 00:04:45,803
+I'm gonna try to keep the stream frequency of once a week,
+
+83
+00:04:45,803 --> 00:04:47,505
+Hopefully most of the time.
+
+84
+00:04:47,505 --> 00:04:50,549
+And with that said, I wanted to also expand my coverage
+
+85
+00:04:50,549 --> 00:04:53,461
+for certain interesting communities I may reach out to.
+
+86
+00:04:53,461 --> 00:04:57,702
+So, I've added localization to my channel in Chinese and Japanese.
+
+87
+00:04:57,702 --> 00:05:00,596
+Though, I won't be adding subtitles to those languages just yet.
+
+88
+00:05:00,596 --> 00:05:05,471
+But they are in consideration, someday when I do have a translator that could help me on that.
+
+89
+00:05:05,471 --> 00:05:06,892
+And with all the changes mentioned,
+
+90
+00:05:06,892 --> 00:05:09,001
+I'm gonna take a short management hiatus
+
+91
+00:05:09,001 --> 00:05:12,859
+so I can rebuild my PC and actually get certain actual parts in (to the PC).
+
+92
+00:05:12,859 --> 00:05:16,886
+and tidy up the spaghetti town level cable management on my desk setup.
+
+93
+00:05:16,886 --> 00:05:19,954
+I'm really really sorry for more delays but this is gonna take
+
+94
+00:05:19,954 --> 00:05:22,104
+probably two to three weeks.
+
+95
+00:05:22,104 --> 00:05:25,354
+I'm gonna be managing more than just what I mentioned of the two.
+
+96
+00:05:25,354 --> 00:05:29,998
+I'll probably be taking care of tidying up my channels and everything, and my OBS.
+
+97
+00:05:29,998 --> 00:05:34,685
+To make sure everything stays up to date and none of which are abandoned.
+
+98
+00:05:34,685 --> 00:05:38,324
+And after all that, I'm really really sorry for the constant delays.
+
+99
+00:05:38,324 --> 00:05:42,582
+I hope to manage way better in the coming future and push more content out.
+
+100
+00:05:42,582 --> 00:05:46,643
+Though, with that said, while I'm gone, there's gonna be one video that I'm gonna be pushing out.
+
+101
+00:05:46,643 --> 00:05:51,705
+It's gonna be my very very first video that I've properly edited in 2024.
+
+102
+00:05:51,705 --> 00:05:53,663
+Here's a trailer, check it out!
+
+103
+00:06:33,864 --> 00:06:38,304
+So, how do you think? Do you think it looks good? Lemme know in the comments below.
+
+104
+00:06:38,304 --> 00:06:39,595
+Back to you, FalseMel!
+
+105
+00:06:39,595 --> 00:06:41,001
+Thank you so much, Mel!
+
+106
+00:06:41,001 --> 00:06:43,413
+And that is all for today's episode!
+
+107
+00:06:43,413 --> 00:06:46,757
+As always, press like and subscribe if you want more content out of me.
+
+108
+00:06:46,757 --> 00:06:47,917
+And there'll be more.
+
+109
+00:06:47,917 --> 00:06:50,866
+MeloriTensei 2024 for you, soon!
+

@@ -1,0 +1,32 @@
+﻿1
+00:00:00,550 --> 00:00:04,446
+Player Chatter: Why am I using the Bad To The Blood?
+
+2
+00:00:04,446 --> 00:00:05,780
+Oh!
+
+3
+00:00:05,783 --> 00:00:08,160
+Oh damn, okay.
+
+4
+00:00:10,500 --> 00:00:13,710
+Wait, what the?
+
+5
+00:00:13,716 --> 00:00:14,690
+Wait, what?
+
+6
+00:00:14,699 --> 00:00:19,345
+What's going on with the bots?
+
+7
+00:00:19,345 --> 00:00:21,930
+Player Chatter: The game bugged, bro.
+
+8
+00:00:22,366 --> 00:00:25,680
+Okay, we have to restart this event.
+

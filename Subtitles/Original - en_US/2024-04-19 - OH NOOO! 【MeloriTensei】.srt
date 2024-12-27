@@ -1,0 +1,56 @@
+﻿1
+00:00:00,600 --> 00:00:03,260
+Alejandra: Great, how about a personalized number plate?
+
+2
+00:00:03,266 --> 00:00:04,530
+Alright, here we go.
+
+3
+00:00:04,533 --> 00:00:05,260
+Hmm.
+
+4
+00:00:05,266 --> 00:00:07,080
+What can I do?
+
+5
+00:00:07,083 --> 00:00:10,000
+Hmmmmmmm.
+
+6
+00:00:15,716 --> 00:00:19,250
+Should we go for that?
+
+7
+00:00:21,649 --> 00:00:23,360
+Controller disagrees
+
+8
+00:00:23,366 --> 00:00:24,350
+Alejandra: ¡Ay! no manches. (Ah! No way.)
+
+9
+00:00:24,350 --> 00:00:27,310
+Come on, you know I can't let you use that.
+
+10
+00:00:28,333 --> 00:00:30,000
+Oh, no.
+
+11
+00:00:30,000 --> 00:00:31,760
+I was not expecting that.
+
+12
+00:00:31,766 --> 00:00:35,260
+Wait, there's a filter!
+
+13
+00:00:39,233 --> 00:00:43,460
+Okay, we can't do YOURMOM apparently.
+
+14
+00:00:44,016 --> 00:00:47,200
+For now, we'll put this as a placeholder.
+
