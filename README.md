@@ -12,7 +12,7 @@ TBA
 Step 1: Fork this repo
 Step 2: Inside (folder name), create a new folder with your language code.
 Step 3: Upload your translated subs there.
-Step 4: Send a PR to upstream.
+Step 4: Send a PR to upstream (MeloriTensei).
 Step 5: ???
 Step 6: PROFIT!
 
