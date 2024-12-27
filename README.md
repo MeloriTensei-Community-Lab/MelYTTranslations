@@ -37,12 +37,12 @@ First line: subtitle
 It's best to space the context of the sentence accordingly to a new line/next track if it helps the sentence. This allows the views to see each line of text for nearly equal amount of time and have contexts in one line should viewers look away for a split second. There are not exact character limits due to the way subs are rendered on the YouTube Player ([Reference: Reddit](https://www.reddit.com/r/youtube/comments/3peq4x/maximum_character_length_for_subtitles/ "Referrence: Reddit")).
 
 **Note: The "next line" here refers to the next track/clip in timeline.**
-##### **Correct**
+##### **✅Correct✅**
 >So one of the fatal problems it has right now
 >
 >is battery related issues.
 
-##### **Incorrect**
+##### **❌Incorrect❌**
 >So one of the fatal problems it has right now is battery
 >
 >related issues.
