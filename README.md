@@ -3,7 +3,7 @@
 Welcome to the GitHub repo where Mel hosts her subtitles in hopes to further ease the process of getting volunteer subtitlers to subtitle her videos. At this moment, it serves as a repo for translations as the base English subtitles are still made in house by Mel.
 
 ## Languages covering
-Base Language: English (en_US)
+Base Language: English - United States (`en_US`)
 
 #### Languages available
 TBA
@@ -17,7 +17,7 @@ This section serves the purpose to teach people on how to neatly space sentences
 The usual format goes as follows
 First line: subtitle
 > First line: subtitle
-Second line: (On screen text)
+> Second line: (On screen text)
 
 ------------
 
@@ -28,11 +28,11 @@ It's best to space the context of the sentence accordingly to a new line/next tr
 **Note: The "next line" here refers to the next track/clip in timeline.**
 ##### **Correct**
 >So one of the fatal problems it has right now
-is battery related issues.
+>is battery related issues.
 
 ##### **Incorrect**
 >So one of the fatal problems it has right now is battery
-related issues.
+>related issues.
 
 ------------
 
