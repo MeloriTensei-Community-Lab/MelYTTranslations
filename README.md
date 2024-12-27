@@ -50,4 +50,4 @@ It's best to space the context of the sentence accordingly to a new line/next tr
 ------------
 
 #### Rule 2:
-Test
+Only push when you're fully done with each video. Because I would only just do some minor checks and upload the file straight to YT.
