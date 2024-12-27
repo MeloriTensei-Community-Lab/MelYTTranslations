@@ -17,6 +17,7 @@ This section serves the purpose to teach people on how to neatly space sentences
 The usual format goes as follows
 First line: subtitle
 > First line: subtitle
+> 
 > Second line: (On screen text)
 
 ------------
@@ -28,10 +29,12 @@ It's best to space the context of the sentence accordingly to a new line/next tr
 **Note: The "next line" here refers to the next track/clip in timeline.**
 ##### **Correct**
 >So one of the fatal problems it has right now
+>
 >is battery related issues.
 
 ##### **Incorrect**
 >So one of the fatal problems it has right now is battery
+>
 >related issues.
 
 ------------
