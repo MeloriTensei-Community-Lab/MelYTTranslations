@@ -9,7 +9,12 @@ Base Language: English - United States (`en_US`)
 TBA
 
 # Guide to contributing
-TBA
+Step 1: Fork this repo
+Step 2: Inside (folder name), create a new folder with your language code.
+Step 3: Upload your translated subs there.
+Step 4: Send a PR to upstream.
+Step 5: ???
+Step 6: PROFIT!
 
 # Sentence spacing guidelines
 This section serves the purpose to teach people on how to neatly space sentences within the two line limit of YouTube's subtitle system.
@@ -17,7 +22,7 @@ This section serves the purpose to teach people on how to neatly space sentences
 The usual format goes as follows
 First line: subtitle
 > First line: subtitle
-> 
+>
 > Second line: (On screen text)
 
 ------------
