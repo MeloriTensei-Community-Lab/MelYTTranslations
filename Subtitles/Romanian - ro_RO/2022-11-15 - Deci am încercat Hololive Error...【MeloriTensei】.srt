@@ -1,6 +1,6 @@
 1
 00:00:00,351 --> 00:00:01,141
-Buna~
+Bună~
 
 2
 00:00:01,189 --> 00:00:02,610
@@ -24,7 +24,7 @@ pur si simplu din interes
 
 7
 00:00:09,300 --> 00:00:10,909
-De ce sa nu fac un stream din el?
+De ce să nu fac un stream din el?
 
 8
 00:00:10,909 --> 00:00:12,089
@@ -32,7 +32,7 @@ Eyy~
 
 9
 00:00:12,759 --> 00:00:14,178
-Buna, buna!
+Bună, bună!
 
 10
 00:00:14,404 --> 00:00:16,214
@@ -44,7 +44,7 @@ Nu sunt sigură despre mine.
 
 12
 00:00:18,204 --> 00:00:19,834
-Voi inchide luminile.
+Voi închide luminile.
 
 13
 00:00:19,964 --> 00:00:22,152
@@ -52,7 +52,7 @@ Nu am transmis niciun joc horror inainte,
 
 14
 00:00:22,182 --> 00:00:24,284
-dar vreau sa incep undeva.
+dar vreau să încep undeva.
 
 15
 00:00:24,284 --> 00:00:25,544
@@ -60,11 +60,11 @@ Totul ori nimic.
 
 16
 00:00:25,550 --> 00:00:26,010
-Incepe
+Începe
 
 17
 00:00:26,010 --> 00:00:28,773
-Pentru cineva care nu prea a jucat jocuri horror inaine
+Pentru cineva care nu prea a jucat jocuri horror înainte
 
 18
 00:00:28,773 --> 00:00:30,323
