@@ -14,11 +14,11 @@ TBA
 # Guide to contributing
 Step 1: Grab your favorite subtitling suite ([Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit) and [Aegisub](https://aegisub.org/) are good options if you're someone just starting out but anything works!).
 
-Step 2: Subtitle and translate any video(s) that you would like and export it (or them) as one of the accepted filetypes by Youtube, as listed in the link attached to the „Contributors Guidelines” section.
+Step 2: Subtitle and translate any video(s) that you would like and export it (or them) as one of the accepted filetypes by YouTube, as listed in the link attached to the `Contributors Guidelines` section.
 
 Step 3: Fork this repo.
 
-Step 4: Create a folder for your language in the „Subtitles” folder following this template: ISO3166-1_Code - [Translation] LanguageName (Country). Real world example: ro_RO - [Translation] Romanian (Romania).
+Step 4: Create a folder for your language in the `Subtitles` folder following this template: ISO3166-1_Code - [Translation] LanguageName (Country). Real world example: ro_RO - [Translation] Romanian (Romania).
 
 Step 5: Add your translations to said folder. Although optional, it would be ideal to include a link to the translated video in the commit description. Tracking what has already been translated is easier this way and will make it clear to future contributors that those subtitles don't need to be done again.
 
@@ -64,7 +64,7 @@ It's best to space the context of the sentence accordingly to a new line/next tr
 #### Rule 3: While AI assisted translations are not forbidden, submissions which ONLY use AI will be rejected. This will help keep the translations coherent and in a quality manner.
 ------------
 
-#### Rule 4: Be respectful of other contributors. It is encouraged for translators and subtitlers of the same language to come together and solve conflicts relating to the project(s) if they arise. Disagree with something? Point out the flaw(s) in a comment on the pull request!
+#### Rule 4: Be respectful of other contributors. It is encouraged for translators and subtitlers of the same language to come together and solve conflicts relating to the project(s) if they arise. Disagree with something? Point out the flaw(s) in a comment on the pull request or Issues ticket!
 
 ------------
 
@@ -72,11 +72,11 @@ It's best to space the context of the sentence accordingly to a new line/next tr
 
 ------------
 
-#### Rule 5: Follow common subtitling guidelines, such as: sound effects in ALL CAPS inside square brackets, avoiding capital letters when emphasising (something *like this* should be used).
+#### Rule 5: Sound effects are occasionally missed out in some videos, just translate accordingly whether there are SFX or not.
 
 ------------
 
-#### Rule 6: No shameless promoting in the subtitles.
+#### Rule 6: No shameless promoting in the subtitles file, your name will be credited accordingly in the subtitle name itself.
 
 ------------
 
