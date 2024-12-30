@@ -1,0 +1,2 @@
+# About original
+This folder stores all the subtitles of videos in it's original language. The reason why the folder structure is stored this way was because I realized some videos were originally in Japanese and Korean. So, to prevent confusion. Translators should only be contributing to the `Translated` folder.
