@@ -25,7 +25,7 @@ Example:
     
      - List of vids contributed
 
-###### Members:
+##### Members:
 
 `MeloriTensei - @MeloriTensei.Etersia.moe`
 
