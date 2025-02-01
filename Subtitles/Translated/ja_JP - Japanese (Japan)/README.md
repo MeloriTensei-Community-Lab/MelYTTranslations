@@ -33,7 +33,7 @@ Anthrophic Claude AI 3.5 Sonnet & Haiku
 
  - Returning to PixelOS!
 
-Google Gemini 1.5 Flash
+Google Gemini 1.5 Flash & DeepL Free API (Through Crowdin)
 
  - So I tried Hololive Error...【MeloriTensei】 
  - I need answers!【MeloriTensei】
