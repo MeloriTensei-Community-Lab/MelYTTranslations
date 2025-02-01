@@ -1,0 +1,1181 @@
+1
+00:00:00,000 --> 00:00:00,949
+Imagine this,
+
+2
+00:00:00,949 --> 00:00:01,933
+you're a technician,
+
+3
+00:00:01,933 --> 00:00:06,300
+and you got a whole lot of computers to completely reinstall operating systems.
+
+4
+00:00:06,300 --> 00:00:09,166
+but they all vary from one operating system to another.
+
+5
+00:00:09,166 --> 00:00:12,400
+Say one guy wants Windows 10 and the other guy wants Windows 11.
+
+6
+00:00:12,400 --> 00:00:14,866
+And then this other dude wants Ubuntu Linux.
+
+7
+00:00:14,866 --> 00:00:17,666
+And then some weirdo wanna install RedStar OS!
+(North Korean Anthem Intensifies)
+
+8
+00:00:17,666 --> 00:00:21,166
+Now you won't have to format your USB drive again and again and again
+
+9
+00:00:21,166 --> 00:00:23,083
+because this is where Ventoy comes in.
+
+10
+00:00:23,083 --> 00:00:25,683
+It is basically a bootloader that loads up
+
+11
+00:00:25,683 --> 00:00:29,016
+ISOs that you can save in bulk in that same USB.
+(Windows noises)
+
+12
+00:00:29,016 --> 00:00:32,516
+Potentially saving you time, saving you space, whatnot.
+
+13
+00:00:32,516 --> 00:00:35,500
+We're just gonna cut the crap and get straight to it because...
+
+14
+00:00:35,500 --> 00:00:36,283
+there you have it!
+
+15
+00:00:36,283 --> 00:00:36,983
+That's the video.
+
+16
+00:00:36,983 --> 00:00:39,800
+(Outro Music)
+
+17
+00:00:39,800 --> 00:00:40,383
+(Sike)
+
+18
+00:00:40,383 --> 00:00:40,816
+What?
+
+19
+00:00:40,816 --> 00:00:41,733
+You're expecting more?
+
+20
+00:00:41,733 --> 00:00:42,650
+Alright, fine.
+
+21
+00:00:42,650 --> 00:00:44,716
+I'm recording this in daytime anyways,
+
+22
+00:00:44,716 --> 00:00:46,449
+there's gonna be lots of noise in the background.
+
+23
+00:00:46,449 --> 00:00:48,933
+But yeah, here are all the features that you'll be expecting.
+
+24
+00:00:48,933 --> 00:00:53,099
+but to put it in layman's terms: Very flexible, very customizable.
+
+25
+00:00:53,099 --> 00:00:53,849
+Simple as that.
+
+26
+00:00:53,849 --> 00:00:55,066
+How about we get straight into it?
+
+27
+00:00:55,066 --> 00:00:57,750
+So first thing what you got to do is click on Downloads,
+
+28
+00:00:57,750 --> 00:01:00,599
+and based on the operating system that you're currently on, pick them.
+
+29
+00:01:00,599 --> 00:01:02,916
+If you're on Windows, then you you gotta be on Windows,
+
+30
+00:01:02,916 --> 00:01:03,366
+duh.
+
+31
+00:01:03,366 --> 00:01:05,050
+And you should expect your files right here.
+
+32
+00:01:05,050 --> 00:01:07,716
+And the first thing you want to load up is Ventoy2Disk.
+
+33
+00:01:07,716 --> 00:01:09,300
+This will need your admin permissions.
+
+34
+00:01:09,300 --> 00:01:11,266
+So obviously you're going to need it on,
+
+35
+00:01:11,266 --> 00:01:12,916
+and then you get yourself this thing.
+
+36
+00:01:12,916 --> 00:01:15,266
+This is where you plug in your USB of choice.
+
+37
+00:01:15,266 --> 00:01:18,466
+Back up everything on your USB because you're gonna lose it all.
+
+38
+00:01:18,466 --> 00:01:20,116
+It's going to erase everything in the drive.
+
+39
+00:01:20,116 --> 00:01:21,233
+Now we got it plugged in.
+
+40
+00:01:21,233 --> 00:01:23,966
+Let's refresh and we get ourselves the USB that we want.
+
+41
+00:01:23,966 --> 00:01:25,816
+And now what you want to do is look into the options
+
+42
+00:01:25,816 --> 00:01:27,900
+because there may be some things that you might want.
+
+43
+00:01:27,900 --> 00:01:31,633
+So say for example: you want secure boot because you already had secure boot on,
+
+44
+00:01:31,633 --> 00:01:34,516
+for say, the motherboard or the chipset you're on.
+
+45
+00:01:34,516 --> 00:01:35,900
+Then you would want to have that.
+
+46
+00:01:35,900 --> 00:01:39,116
+Otherwise, you're gonna need to turn it off whenever you use it.
+
+47
+00:01:39,116 --> 00:01:40,949
+And then on to partition style.
+
+48
+00:01:40,949 --> 00:01:44,633
+This would be very dependent on the type of computers that you usually service.
+
+49
+00:01:44,633 --> 00:01:47,283
+If you're maintaining devices that are primarily really really old
+
+50
+00:01:47,283 --> 00:01:50,066
+that are some time around 2013's and earlier,
+
+51
+00:01:50,066 --> 00:01:53,966
+you would want the older style of partition called Master Boot Record (MBR).
+
+52
+00:01:53,966 --> 00:01:58,650
+Otherwise modern devices would be fine with GPT aka GUID partition table.
+
+53
+00:01:58,650 --> 00:02:00,233
+I'm not gonna elaborate into that
+
+54
+00:02:00,233 --> 00:02:00,966
+Eheheh~
+
+55
+00:02:00,966 --> 00:02:03,349
+And then when you get into partition configuration,
+
+56
+00:02:03,349 --> 00:02:07,150
+this is where you can customize the file system that you want for for the USB.
+
+57
+00:02:07,150 --> 00:02:10,150
+I highly recommend, if possible, avoid FAT32
+
+58
+00:02:10,150 --> 00:02:14,966
+because FAT32 as a file system has a 4GB limit per file.
+
+59
+00:02:14,966 --> 00:02:17,716
+And some installers these days are larger than it
+
+60
+00:02:17,716 --> 00:02:21,449
+Say for example a particular ISO of Windows
+
+61
+00:02:21,449 --> 00:02:26,816
+that has both 32-bit 64-bit Home, Pro, Home N, Pro N...
+
+62
+00:02:26,816 --> 00:02:29,766
+Pro K, Home K and so forth.
+(Basically all the variants of Windows)
+
+63
+00:02:29,766 --> 00:02:32,683
+So in those cases you would prefer exFAT or NTFS
+
+64
+00:02:32,683 --> 00:02:34,133
+Though, I would recommend exFAT
+
+65
+00:02:34,133 --> 00:02:36,283
+But I'm going to use NTFS for my own case.
+
+66
+00:02:36,283 --> 00:02:38,266
+And then you gotta press OK to confirm that obviously.
+
+67
+00:02:38,266 --> 00:02:41,116
+And double check the settings that you have for Ventoy in package
+
+68
+00:02:41,116 --> 00:02:43,150
+ to make sure that this is exactly what you want.
+
+69
+00:02:43,150 --> 00:02:45,599
+Because when you click install, there's no turning back.
+
+70
+00:02:45,599 --> 00:02:48,900
+Warning: The device will be formatted and all the data will be lost.
+
+71
+00:02:48,900 --> 00:02:49,566
+Continue?
+
+72
+00:02:49,566 --> 00:02:50,116
+Yes.
+
+73
+00:02:50,116 --> 00:02:50,983
+Double check.
+
+74
+00:02:50,983 --> 00:02:51,633
+Yes.
+
+75
+00:02:51,633 --> 00:02:52,583
+Now it's doing its job.
+
+76
+00:02:52,583 --> 00:02:53,633
+We're gonna give it some time
+
+77
+00:02:53,633 --> 00:02:56,683
+Congratulations: Ventoy has been successfully installed to the device.
+
+78
+00:02:56,683 --> 00:02:57,150
+Great
+
+79
+00:02:57,150 --> 00:02:59,616
+So in the future if there's a new Ventoy version,
+
+80
+00:02:59,616 --> 00:03:02,666
+you can just download the same installer and click update instead 
+
+81
+00:03:02,666 --> 00:03:05,716
+and this would just update the Ventoy bootloader
+
+82
+00:03:05,716 --> 00:03:07,750
+ into the USB without affecting your settings
+
+83
+00:03:07,750 --> 00:03:11,416
+Right before we get into the drives, we're gonna figure out what's going on
+
+84
+00:03:11,416 --> 00:03:14,583
+So we're gonna need Disk Management.
+
+85
+00:03:14,583 --> 00:03:18,883
+And what's really going on is that Ventoy has created two different partition,
+
+86
+00:03:18,883 --> 00:03:21,783
+one is particularly for for the for the motherboard to boot into,
+
+87
+00:03:21,783 --> 00:03:25,683
+and a separate one that is specifically where you store all the ISOs,
+
+88
+00:03:25,683 --> 00:03:28,433
+and this is currently visible right now as it is mounted.
+
+89
+00:03:28,433 --> 00:03:29,516
+So we're gonna get into that.
+
+90
+00:03:29,516 --> 00:03:31,349
+Now that we're here on the Ventoy folder,
+
+91
+00:03:31,349 --> 00:03:34,033
+as you can see it's currently deserted and really empty.
+
+92
+00:03:34,033 --> 00:03:36,783
+This is where you start piling up your ISOs.
+
+93
+00:03:36,783 --> 00:03:38,300
+You can do it however you like.
+
+94
+00:03:38,300 --> 00:03:40,616
+The same way as how you keep them in your hard drive.
+
+95
+00:03:40,616 --> 00:03:43,250
+It supports any kind of directory style.
+
+96
+00:03:43,250 --> 00:03:47,283
+Just do it and just go ham until you run out of storage.
+
+97
+00:03:47,283 --> 00:03:48,066
+Now, with that said,
+
+98
+00:03:48,066 --> 00:03:51,416
+We're gonna get into the second program that we can see right here
+
+99
+00:03:51,416 --> 00:03:53,199
+It's called VentoyPlugson.
+
+100
+00:03:53,199 --> 00:03:58,433
+Basically Ventoy comes with a plug-in system that you can customize your Ventoy installation with
+
+101
+00:03:58,433 --> 00:03:59,483
+So we're gonna run that.
+
+102
+00:03:59,483 --> 00:04:00,733
+And just before anything starts,
+
+103
+00:04:00,733 --> 00:04:05,416
+It's going to ask which drive that you want Ventoy Plugson to connect to
+
+104
+00:04:05,416 --> 00:04:06,266
+Then you start it,
+
+105
+00:04:06,266 --> 00:04:08,699
+And then your browser will open up a new tab
+
+106
+00:04:08,699 --> 00:04:10,766
+that takes you to the Ventoy Plugson UI.
+
+107
+00:04:10,766 --> 00:04:12,633
+This is where you start customizing.
+
+108
+00:04:12,633 --> 00:04:16,333
+So the first page starts with everything about the information about your drive,
+
+109
+00:04:16,333 --> 00:04:19,183
+ and then following next is the Global Control plugin.
+
+110
+00:04:19,183 --> 00:04:22,933
+Basically, what this does is that you can change the default settings
+
+111
+00:04:22,933 --> 00:04:25,733
+of how Ventoy behaves on the menu.
+
+112
+00:04:25,733 --> 00:04:27,500
+So you can change the menu language.
+
+113
+00:04:27,500 --> 00:04:30,216
+You can also change where it starts to search from
+
+114
+00:04:30,216 --> 00:04:33,866
+and tell it whether to bypass Windows 11's check by default
+
+115
+00:04:33,866 --> 00:04:37,566
+same goes to NRO aka network requirements in case you don't know.
+
+116
+00:04:37,566 --> 00:04:39,349
+And you can also set menu mode.
+
+117
+00:04:39,349 --> 00:04:42,466
+ Say for example, you have a cascade of folders.
+
+118
+00:04:42,466 --> 00:04:46,800
+Then you can set it to tree mode so you can go in by by the way you do your folders.
+
+119
+00:04:46,800 --> 00:04:50,933
+Rather than list view mode which lists everything it sees from top to bottom.
+
+120
+00:04:50,933 --> 00:04:52,099
+And then for menu timeout,
+
+121
+00:04:52,099 --> 00:04:54,566
+basically, what it does is it boots automatically
+
+122
+00:04:54,566 --> 00:04:57,366
+to your currently selected image in that said countdown.
+
+123
+00:04:57,366 --> 00:05:00,583
+Should be pretty much the same as when you dual-boot stuff or
+
+124
+00:05:00,583 --> 00:05:04,016
+when you're loading into some operating system in some way.
+
+125
+00:05:04,016 --> 00:05:06,716
+And there's a whole slew of of different settings that you can set,
+
+126
+00:05:06,716 --> 00:05:09,750
+And they all have descriptions that explain to you what it does.
+
+127
+00:05:09,750 --> 00:05:10,699
+So that's pretty cool
+
+128
+00:05:10,699 --> 00:05:14,016
+Now following next is my absolute favorite: the theme plug-in
+
+129
+00:05:14,016 --> 00:05:18,800
+So in case you don't know, Ventoy is based on grub, a bootloader made for Linux.
+
+130
+00:05:18,800 --> 00:05:19,883
+Well, mostly Linux.
+
+131
+00:05:19,883 --> 00:05:22,516
+So since it's based on grub, you could in theory
+
+132
+00:05:22,516 --> 00:05:25,416
+just look for themes through gnome-look.org
+
+133
+00:05:25,416 --> 00:05:27,566
+and look specifically for grub themes
+
+134
+00:05:27,566 --> 00:05:31,400
+and there there will be a whole lot of choices of amazing themes
+
+135
+00:05:31,400 --> 00:05:33,966
+that you can customize the look of your Ventoy with.
+
+136
+00:05:33,966 --> 00:05:35,933
+You can also do the same with the normal grub
+
+137
+00:05:35,933 --> 00:05:37,800
+because they're technically the same thing anyways.
+
+138
+00:05:37,800 --> 00:05:39,949
+However, we're not gonna follow whatever's over here
+
+139
+00:05:39,949 --> 00:05:41,333
+because that's for normal grub.
+
+140
+00:05:41,333 --> 00:05:42,349
+We're using Ventoy,
+
+141
+00:05:42,349 --> 00:05:44,400
+so this is going to be a special case for us.
+
+142
+00:05:44,400 --> 00:05:46,750
+Say for example, you have found a theme that you wanted
+
+143
+00:05:46,750 --> 00:05:49,333
+and then you want to apply it to your Ventoy.
+
+144
+00:05:49,333 --> 00:05:50,166
+How do we do that?
+
+145
+00:05:50,166 --> 00:05:51,333
+It's really really simple
+
+146
+00:05:51,333 --> 00:05:53,383
+First up you got to download the theme file.
+
+147
+00:05:53,383 --> 00:05:56,166
+Now different themes would have different file structures.
+
+148
+00:05:56,166 --> 00:05:58,849
+Say for example, you want it on 1080p 
+
+149
+00:05:58,849 --> 00:06:00,533
+then they will call it fullHD.tar.
+
+150
+00:06:00,533 --> 00:06:04,216
+But it is the creators choice to how they sort out their files.
+
+151
+00:06:04,216 --> 00:06:06,666
+So you're going to need to pay attention on the file name
+
+152
+00:06:06,666 --> 00:06:08,099
+Right, let's get straight to downloading.
+
+153
+00:06:08,099 --> 00:06:09,116
+Once you're done downloading
+
+154
+00:06:09,116 --> 00:06:11,783
+we're gonna need to start extracting the archive.
+
+155
+00:06:11,783 --> 00:06:14,733
+Choose your favorite archive manager and extract the file.
+
+156
+00:06:14,733 --> 00:06:18,750
+If possible, go even deeper into the .tar file as well
+
+157
+00:06:18,750 --> 00:06:20,533
+Because what we need is the folder.
+
+158
+00:06:20,533 --> 00:06:22,650
+Following everything that it has
+
+159
+00:06:22,650 --> 00:06:26,033
+and the most important one: the theme.txt file.
+
+160
+00:06:26,033 --> 00:06:29,016
+Because the theme.txt file consist of information
+
+161
+00:06:29,016 --> 00:06:31,183
+that grub needs to apply as a theme.
+
+162
+00:06:31,183 --> 00:06:33,216
+So what we need to do is take this out
+
+163
+00:06:33,216 --> 00:06:35,716
+and if you feel like it, for organization purposes,
+
+164
+00:06:35,716 --> 00:06:38,833
+create a folder called themes
+
+165
+00:06:38,833 --> 00:06:41,083
+That way it's much neater for you
+
+166
+00:06:41,083 --> 00:06:43,800
+You can put it anywhere even in Ventoy's own folder
+
+167
+00:06:43,800 --> 00:06:46,116
+and put the entire theme folder into this.
+
+168
+00:06:46,116 --> 00:06:49,083
+So now we got the theme and the theme.txt file.
+
+169
+00:06:49,083 --> 00:06:51,099
+What we need to do is get back to Plugson
+
+170
+00:06:51,099 --> 00:06:54,099
+and add the directory to the theme as an option.
+
+171
+00:06:54,099 --> 00:06:56,000
+So we paste it here...
+
+172
+00:06:56,000 --> 00:07:00,150
+and you gotta make sure you have theme.txt on as well.
+
+173
+00:07:00,150 --> 00:07:02,449
+Now it has found the theme it should apply on its own.
+
+174
+00:07:02,449 --> 00:07:04,699
+You can also add different types of font that you like,
+
+175
+00:07:04,699 --> 00:07:06,750
+and you can also set the graphics settings for this.
+
+176
+00:07:06,750 --> 00:07:09,083
+For which default resolution grub should run on,
+
+177
+00:07:09,083 --> 00:07:11,400
+I'm gonna set mine to 1080p for convenience.
+
+178
+00:07:11,400 --> 00:07:13,416
+But hey, it's your choice and theme's choice
+
+179
+00:07:13,416 --> 00:07:16,366
+Now below here are all different types of plugins
+
+180
+00:07:16,366 --> 00:07:18,616
+that personally I have not really used.
+
+181
+00:07:18,616 --> 00:07:20,900
+But they do seem really really useful
+
+182
+00:07:20,900 --> 00:07:23,533
+Especially with particularly auto install.
+
+183
+00:07:23,533 --> 00:07:25,866
+Say, you have a lot of different machines
+
+184
+00:07:25,866 --> 00:07:27,466
+that you want to install at bulk
+
+185
+00:07:27,466 --> 00:07:28,816
+but you don't want to go through the setup
+
+186
+00:07:28,816 --> 00:07:30,016
+because you're getting really lazy.
+
+187
+00:07:30,016 --> 00:07:32,866
+So, auto install just does the whole installation process completely unattended
+
+188
+00:07:32,866 --> 00:07:35,666
+completely unattended so things gets faster for you.
+
+189
+00:07:35,666 --> 00:07:38,166
+And then you also got the password plugin
+
+190
+00:07:38,166 --> 00:07:41,233
+where you can lock your ventoy with specific passwords.
+
+191
+00:07:41,233 --> 00:07:43,750
+So when people end up stealing your drive
+
+192
+00:07:43,750 --> 00:07:45,033
+They can't get into it,
+
+193
+00:07:45,033 --> 00:07:47,833
+or at least get into booting it to say the least.
+
+194
+00:07:47,833 --> 00:07:49,066
+Right. Now with that said.
+
+195
+00:07:49,066 --> 00:07:50,333
+We're gonna close Plugson.
+
+196
+00:07:50,333 --> 00:07:52,366
+And don't forget to stop it as well, and exit.
+
+197
+00:07:52,366 --> 00:07:54,816
+And now it's the matter of populating your drive.
+
+198
+00:07:54,816 --> 00:07:57,900
+So I may kind of be a data hoarder in some sense,
+
+199
+00:07:57,900 --> 00:08:02,250
+where I collect a massive size of ISOs
+
+200
+00:08:02,250 --> 00:08:06,716
+ so huge that it piles up to the hundreds
+
+201
+00:08:06,716 --> 00:08:09,766
+So I'm probably gonna copy a small handful of them
+
+202
+00:08:09,766 --> 00:08:11,650
+just to illustrate an example
+
+203
+00:08:11,650 --> 00:08:14,133
+Let's see... I'm gonna copy Ubuntu.
+
+204
+00:08:14,133 --> 00:08:16,449
+Maybe a bit of Manjaro.
+
+205
+00:08:16,833 --> 00:08:17,583
+Oh, oh ,oh.
+
+206
+00:08:17,583 --> 00:08:19,916
+Maybe maybe a bit of Windows 11
+
+207
+00:08:19,916 --> 00:08:23,050
+Maybe one of my favorite toolbox ever HirenBoot (Hiren's Boot CD).
+
+208
+00:08:23,050 --> 00:08:25,733
+Basically, it's kind of like system rescue (on Linux) but Windows
+
+209
+00:08:25,733 --> 00:08:29,433
+Maybe even memtest64+ just to illustrate
+
+210
+00:08:29,433 --> 00:08:33,083
+that I may be that one technician that might want to do some testings
+
+211
+00:08:33,083 --> 00:08:35,166
+And of course with every USB drive
+
+212
+00:08:35,166 --> 00:08:37,433
+they always take centuries to transfer.
+
+213
+00:08:37,433 --> 00:08:39,600
+So we're gonna sit right here and wait
+
+214
+00:08:39,783 --> 00:08:42,033
+Narrator: Two hours later~
+
+215
+00:08:42,366 --> 00:08:46,033
+Right, now that I've populated with the ISOs that I want to bring in.
+
+216
+00:08:46,033 --> 00:08:49,883
+We can now just unplug the USB and boot off from that USB.
+
+217
+00:08:49,883 --> 00:08:50,550
+Let's do it
+
+218
+00:08:50,683 --> 00:08:52,333
+ERGH!!!
+(Windows Disconnect sound)
+
+219
+00:08:52,899 --> 00:08:54,616
+Just get 'er plugged in...
+
+220
+00:08:54,616 --> 00:08:57,283
+With Ventor now plugged in, we're gonna power it on.
+
+221
+00:08:57,283 --> 00:08:58,800
+And get straight to the BIOS
+
+222
+00:08:59,033 --> 00:09:00,016
+Awh, drat.
+
+223
+00:09:00,816 --> 00:09:02,500
+And we're gonna boot into the BIOS.
+
+224
+00:09:03,050 --> 00:09:06,449
+Now that we're in the BIOS, you can see that in the list of boot devices
+
+225
+00:09:06,449 --> 00:09:09,449
+There is my USB so we're gonna try to boot into that.
+
+226
+00:09:09,449 --> 00:09:10,716
+And there you have it
+
+227
+00:09:10,716 --> 00:09:14,100
+If you remember that we have previously set a theme
+
+228
+00:09:14,100 --> 00:09:15,516
+This is the theme that we got.
+
+229
+00:09:15,516 --> 00:09:18,066
+If you do not wish to have a theme momentarily
+
+230
+00:09:18,066 --> 00:09:21,100
+and you wanted more clearer view of the grub controls.
+
+231
+00:09:21,100 --> 00:09:22,533
+You could just press F7,
+
+232
+00:09:22,533 --> 00:09:24,883
+and it should give you the plain version of grub again.
+
+233
+00:09:24,883 --> 00:09:27,466
+And as you can see it shows everything that I have.
+
+234
+00:09:27,466 --> 00:09:29,850
+And there's a whole slew of options that you can use
+
+235
+00:09:29,850 --> 00:09:32,783
+such as you can you can shut it back down as well,
+
+236
+00:09:32,783 --> 00:09:34,483
+you can also look at look into your hardware info,
+
+237
+00:09:34,483 --> 00:09:37,783
+set resolutions, set your display modes and so forth.
+
+238
+00:09:37,783 --> 00:09:39,666
+This is all what we've been coming for.
+
+239
+00:09:39,666 --> 00:09:45,016
+The ability to enter any of these OSes without having to format your USB
+
+240
+00:09:45,016 --> 00:09:46,783
+That's where the convenience comes in.
+
+241
+00:09:46,783 --> 00:09:49,116
+So say for example, I'm in the mood of Manjaro.
+
+242
+00:09:49,116 --> 00:09:50,616
+Let's just boot it in right now
+
+243
+00:09:50,616 --> 00:09:51,616
+And here we are.
+
+244
+00:09:51,616 --> 00:09:53,533
+We're in we're kind of in Manjaro's bootloader.
+
+245
+00:09:53,533 --> 00:09:56,266
+And we can just pick our usual choices and stuff 
+
+246
+00:09:56,266 --> 00:09:58,416
+and install the operating system as we please,
+
+247
+00:09:58,416 --> 00:10:00,483
+just like a normal operating system installer.
+
+248
+00:10:00,483 --> 00:10:03,083
+Say for example, I'm not feeling like Manjaro
+
+249
+00:10:03,516 --> 00:10:05,033
+How about Windows?
+
+250
+00:10:05,850 --> 00:10:06,833
+Yes, you can.
+
+251
+00:10:06,833 --> 00:10:09,199
+And there we have it, a Windows installation media.
+
+252
+00:10:09,199 --> 00:10:12,666
+So like I said, Ventoy is a very versatile bootloader.
+
+253
+00:10:12,666 --> 00:10:16,683
+So, I have my own USB stick that I'm actually actively using
+
+254
+00:10:16,683 --> 00:10:20,300
+as my utility toolkit for these kinds of things.
+
+255
+00:10:20,300 --> 00:10:22,133
+So I'm gonna show you how mine looks like
+
+256
+00:10:24,283 --> 00:10:28,316
+So I basically set mine to have a theme of Honkai Star Rail 
+
+257
+00:10:28,316 --> 00:10:31,166
+and a whole slew of different kinds of themes.
+
+258
+00:10:31,166 --> 00:10:33,250
+And I've also have tree-mode enabled,
+
+259
+00:10:33,250 --> 00:10:35,399
+so it'd be sorted by the folders I've set.
+
+260
+00:10:35,399 --> 00:10:38,316
+So like say, I've sorted it by Linux and Windows.
+
+261
+00:10:38,316 --> 00:10:40,466
+So, if I want Linux I go in there.
+
+262
+00:10:40,466 --> 00:10:42,750
+Just like how you usually navigate a folder with...
+
+263
+00:10:42,750 --> 00:10:45,850
+Say I want... I want Ubuntu but Ubuntu is based on Debian.
+
+264
+00:10:45,850 --> 00:10:50,816
+So I sorted it that way, [Debian] and then [Ubuntu].
+
+265
+00:10:50,816 --> 00:10:55,083
+And then all my Ubuntu is over here and so forth, that kind of way.
+
+266
+00:10:55,083 --> 00:10:57,833
+and then we got Windows, we got Windows 10, Windows 11...
+
+267
+00:10:57,833 --> 00:10:58,983
+It's all pretty simple
+
+268
+00:10:58,983 --> 00:11:01,100
+Now say I still don't want this kind of theme.
+
+269
+00:11:01,100 --> 00:11:02,116
+I could just do that
+
+270
+00:11:02,116 --> 00:11:03,866
+See, now everything's simple again.
+
+271
+00:11:03,866 --> 00:11:06,050
+Now say I don't like the current theme I'm on.
+
+272
+00:11:06,050 --> 00:11:07,233
+You could just select the theme
+
+273
+00:11:07,233 --> 00:11:10,166
+and this is all the installed themes I've currently got.
+
+274
+00:11:10,166 --> 00:11:13,466
+Say I'd say I'm not in the mode of Black Swan from Honkai Star Rail at the moment
+
+275
+00:11:13,466 --> 00:11:15,149
+I'm more of a Sparkle simp.
+
+276
+00:11:15,149 --> 00:11:16,533
+We can turn on Sparkle,
+
+277
+00:11:16,533 --> 00:11:19,466
+re-enable my theme and there we have it. We got Sparkle.
+
+278
+00:11:19,466 --> 00:11:21,116
+Now say if I'm not into Sparkle
+
+279
+00:11:21,116 --> 00:11:22,949
+and I'm not into Honkai Star Rail at the moment.
+
+280
+00:11:22,949 --> 00:11:24,449
+I can just pick any other theme.
+
+281
+00:11:24,449 --> 00:11:26,633
+Like say a simple just black theme, you know.
+
+282
+00:11:26,633 --> 00:11:29,183
+A very very simple one, nothing too complex.
+
+283
+00:11:29,183 --> 00:11:31,966
+Or a very 8-bit looking style kind of theme.
+
+284
+00:11:31,966 --> 00:11:32,616
+But yeah.
+
+285
+00:11:32,616 --> 00:11:36,000
+With that said, that's pretty much all I can show you about Ventoy.
+
+286
+00:11:36,000 --> 00:11:38,899
+But if you do know better use cases for all the other plugins,
+
+287
+00:11:38,899 --> 00:11:40,100
+let me know in the comments below.
+
+288
+00:11:40,100 --> 00:11:43,083
+and hopefully more people can understand what you can do with Ventoy.
+
+289
+00:11:43,083 --> 00:11:43,633
+And with that said,
+
+290
+00:11:43,633 --> 00:11:46,050
+I'm gonna link the resources in the description below.
+
+291
+00:11:46,050 --> 00:11:49,116
+And thanks for watching and I'll see you guys next time.
+
+292
+00:11:49,116 --> 00:11:50,266
+OtsuMelo deshita (It's been ya girl Mel).
+
+293
+00:11:50,266 --> 00:11:52,699
+See ya~
+
+294
+00:12:12,800 --> 00:12:14,050
+ERGH!!!
+(Windows Disconnect sound)
+

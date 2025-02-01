@@ -1,0 +1,1342 @@
+﻿1
+00:00:03,933 --> 00:00:07,280
+Oh, you know we're going to be talking about a very ancient phone.
+
+2
+00:00:07,283 --> 00:00:08,150
+Kon-Melo!
+
+3
+00:00:08,150 --> 00:00:10,300
+It's ya Tech Wizardess girl, MeloriTensei.
+
+4
+00:00:10,300 --> 00:00:13,280
+Once again, we're at a very, very old phone this time.
+
+5
+00:00:13,283 --> 00:00:17,610
+This time around, it's ye olde classic Google Nexus 6P.
+
+6
+00:00:21,800 --> 00:00:22,610
+Really?
+
+7
+00:00:22,616 --> 00:00:24,630
+Now if you're wondering why I'm constantly getting
+
+8
+00:00:24,633 --> 00:00:28,510
+this tethered right now and constantly connected to power,
+
+9
+00:00:28,516 --> 00:00:30,880
+that's because this phone's battery is more or less
+
+10
+00:00:30,883 --> 00:00:31,960
+very, very dead.
+
+11
+00:00:31,966 --> 00:00:34,030
+But we'll get into the story of that in a moment.
+
+12
+00:00:34,033 --> 00:00:36,410
+But here's something a little different about this phone.
+
+13
+00:00:36,416 --> 00:00:38,290
+The touchscreen is barely working
+
+14
+00:00:38,299 --> 00:00:41,280
+and the screen is kind of coming off.
+
+15
+00:00:41,283 --> 00:00:42,880
+But I'm not going to bother repairing this.
+
+16
+00:00:42,883 --> 00:00:44,390
+This is really, really old now.
+
+17
+00:00:44,399 --> 00:00:47,880
+So currently the ROM it's currently having is LineageOS.
+
+18
+00:00:47,883 --> 00:00:51,780
+There really isn't much because I don't really use this phone anymore.
+
+19
+00:00:51,783 --> 00:00:53,830
+So I was using it for some experiments,
+
+20
+00:00:53,833 --> 00:00:55,560
+but the battery died too quickly.
+
+21
+00:00:55,566 --> 00:00:59,210
+So I kind of bailed out on this whole thing.
+
+22
+00:00:59,216 --> 00:01:02,930
+So what's the story behind me getting a Nexus 6P?
+
+23
+00:01:02,933 --> 00:01:04,510
+Well the story was pretty simple.
+
+24
+00:01:04,516 --> 00:01:06,000
+So I was on the iPhone 6
+
+25
+00:01:06,000 --> 00:01:09,700
+and I wanted to try out the Android space because when I was having
+
+26
+00:01:09,700 --> 00:01:11,210
+an iPhone and I thought to myself,
+
+27
+00:01:11,216 --> 00:01:14,430
+okay, maybe I should probably give Android a try.
+
+28
+00:01:14,433 --> 00:01:16,960
+So this is set before the Razer phone, by the way.
+
+29
+00:01:16,966 --> 00:01:21,660
+So you're hearing a prequel of the previous video.
+
+30
+00:01:21,666 --> 00:01:26,080
+So I live in a world where it's kind of predominantly Android.
+
+31
+00:01:26,083 --> 00:01:29,960
+So of course comes with a very, very weird
+
+32
+00:01:29,966 --> 00:01:33,780
+social toxicity of people going against iPhone users
+
+33
+00:01:33,783 --> 00:01:36,680
+saying that iPhone users are elitist and stuff.
+
+34
+00:01:36,683 --> 00:01:39,610
+I didn't quite like that because I don't really see myself as one.
+
+35
+00:01:39,616 --> 00:01:42,880
+I'm just an average middle-class person
+
+36
+00:01:42,883 --> 00:01:46,230
+that just chose iPhone because they just worked out for me.
+
+37
+00:01:46,233 --> 00:01:49,080
+And they're not all that expensive because at that time,
+
+38
+00:01:49,083 --> 00:01:50,930
+Android phones were just as expensive
+
+39
+00:01:50,933 --> 00:01:53,400
+so it's a matter of choice most of the time.
+
+40
+00:01:53,400 --> 00:01:55,310
+So I thought to myself, okay, maybe I should probably
+
+41
+00:01:55,316 --> 00:01:58,260
+give Android a try and maybe discover everything that I have
+
+42
+00:01:58,266 --> 00:02:00,210
+already discovered prior on iOS.
+
+43
+00:02:00,216 --> 00:02:02,840
+So like I've discovered jailbreaking on iOS
+
+44
+00:02:02,849 --> 00:02:04,980
+and discovered Cydia and repos
+
+45
+00:02:04,983 --> 00:02:07,790
+and a whole lot of different stuff that were on jailbreaking
+
+46
+00:02:07,799 --> 00:02:11,530
+and figured out how I can customize my phone that way
+
+47
+00:02:11,533 --> 00:02:12,880
+and stuff like that.
+
+48
+00:02:12,883 --> 00:02:16,830
+So why not I try doing, well, not exactly the same,
+
+49
+00:02:16,833 --> 00:02:20,300
+but do a lot of discoveries on the Android
+
+50
+00:02:20,300 --> 00:02:22,860
+and put the same amount of efforts of discovery
+
+51
+00:02:22,866 --> 00:02:24,310
+onto the Android space.
+
+52
+00:02:24,316 --> 00:02:28,110
+And this is the phone I started with, the Google Nexus 6P.
+
+53
+00:02:28,116 --> 00:02:31,060
+Well, the reason why I went for the Nexus 6P
+
+54
+00:02:31,066 --> 00:02:33,730
+was because a lot of YouTubers were using it at a time
+
+55
+00:02:33,733 --> 00:02:36,880
+when the world was really predominantly Android.
+
+56
+00:02:36,883 --> 00:02:41,310
+Where like say someone going on the lines of Lew from Unbox Therapy
+
+57
+00:02:41,316 --> 00:02:47,630
+and if I'm not mistaken, maybe even Linus Tech Tips was also using the 6P.
+(I was dead wrong, he reviewed the Nexus 6, not 6P)
+
+58
+00:02:47,633 --> 00:02:50,690
+So I thought, okay, it's coming from Google, right?
+
+59
+00:02:50,699 --> 00:02:52,610
+So let's give it a try because
+
+60
+00:02:52,616 --> 00:02:55,980
+surely Google would provide the cleanest Android experience
+
+61
+00:02:55,983 --> 00:03:01,010
+that is kind of to their vision of what's a stock Android, I guess.
+
+62
+00:03:01,016 --> 00:03:03,760
+So I went with it and it was pretty good.
+
+63
+00:03:03,766 --> 00:03:08,130
+The phone was pretty, well, serviceable is a way just to put it
+
+64
+00:03:08,133 --> 00:03:12,030
+because the processor it has was, well, a little,
+
+65
+00:03:12,033 --> 00:03:14,560
+hmm, leaves a lot to be desired.
+(Possibly due to the background processes chugging the entire experience)
+
+66
+00:03:14,566 --> 00:03:17,830
+I was playing Honkai Impact, but the frame rates were kind of bad.
+
+67
+00:03:17,833 --> 00:03:21,840
+It was like 20-ish frames at a time, even on the lowest settings.
+
+68
+00:03:21,849 --> 00:03:28,030
+It was, well, I could do passive grinds with it, but not enough to do major story grinds.
+
+69
+00:03:28,033 --> 00:03:31,010
+So I kind of went back to the iPhone for those games.
+
+70
+00:03:31,016 --> 00:03:31,680
+That's fine.
+
+71
+00:03:31,683 --> 00:03:35,060
+That's perfectly fine because security updates were consistent,
+
+72
+00:03:35,066 --> 00:03:37,110
+bank apps work as expected,
+
+73
+00:03:37,116 --> 00:03:39,750
+and pictures, I wouldn't say they're amazing,
+
+74
+00:03:39,750 --> 00:03:41,910
+but they were great for their time.
+
+75
+00:03:41,916 --> 00:03:44,430
+And there were just a whole lot of things that went right
+
+76
+00:03:44,433 --> 00:03:48,630
+with the Nexus 6P until the hardware strikes.
+
+77
+00:03:48,633 --> 00:03:52,030
+So if you didn't understand, you might want to do a little bit of research
+
+78
+00:03:52,033 --> 00:03:56,510
+about the lawsuit that hit Huawei, which is the manufacturer of the phone,
+
+79
+00:03:56,516 --> 00:04:02,660
+and Google over the premature degration of the battery on all Nexus 6P devices.
+
+80
+00:04:02,666 --> 00:04:04,510
+You might want to read up on the whole story about it
+
+81
+00:04:04,516 --> 00:04:05,630
+and the whole timeline a little bit,
+
+82
+00:04:05,633 --> 00:04:09,510
+but here's how I shorten it in my perspective as a user.
+
+83
+00:04:09,516 --> 00:04:13,510
+The battery died sooner than I thought, particularly within a year and a half.
+
+84
+00:04:13,516 --> 00:04:18,960
+And the way it died is the same as how a four-year-old iPhone would,
+
+85
+00:04:18,966 --> 00:04:22,710
+which is that the battery health has gone down to like probably 60-ish percent,
+
+86
+00:04:22,716 --> 00:04:23,800
+50-ish percent,
+
+87
+00:04:23,800 --> 00:04:27,080
+but this one had a more serious case of death.
+
+88
+00:04:27,083 --> 00:04:29,660
+It died prematurely as I just used it,
+
+89
+00:04:29,666 --> 00:04:30,810
+and then the screen just blacked out.
+
+90
+00:04:30,816 --> 00:04:31,390
+Boop.
+
+91
+00:04:31,399 --> 00:04:33,130
+And then when you try to power it on,
+
+92
+00:04:33,133 --> 00:04:35,360
+it suddenly shows 50-ish percent battery,
+
+93
+00:04:35,366 --> 00:04:36,980
+and then it dies in another minute.
+
+94
+00:04:36,983 --> 00:04:39,630
+And then I turn it back on, 20 percent, boop, dies again.
+
+95
+00:04:39,633 --> 00:04:42,350
+Turn it back on, 10 percent, 5, gone.
+
+96
+00:04:42,350 --> 00:04:43,440
+What is going on?
+
+97
+00:04:43,449 --> 00:04:45,110
+I did not understand what was going on.
+
+98
+00:04:45,116 --> 00:04:47,760
+For all I know, I figured it would be another battery death.
+
+99
+00:04:47,766 --> 00:04:50,250
+It's probably just poor battery quality, I guess.
+
+100
+00:04:50,250 --> 00:04:54,680
+So I took it to a nearby service center, an official service center.
+
+101
+00:04:54,683 --> 00:04:57,710
+I don't quite remember if it was Huawei or Google,
+
+102
+00:04:57,716 --> 00:05:00,850
+but I did go to a service center for either of them,
+
+103
+00:05:00,850 --> 00:05:04,130
+and I didn't like what they told me.
+
+104
+00:05:04,133 --> 00:05:06,210
+They told me it was a motherboard issue,
+
+105
+00:05:06,216 --> 00:05:09,110
+and that the motherboard's power IC is having issues
+
+106
+00:05:09,116 --> 00:05:10,690
+detecting the battery properly.
+
+107
+00:05:10,699 --> 00:05:17,280
+And they charged me $300 for the replacement of the said motherboard.
+
+108
+00:05:17,283 --> 00:05:18,460
+$300!
+
+109
+00:05:18,466 --> 00:05:19,110
+No!
+
+110
+00:05:19,116 --> 00:05:23,360
+I don't pay $600 just to get that kind of experience.
+
+111
+00:05:23,366 --> 00:05:25,750
+So I told them no, took my device back,
+
+112
+00:05:25,750 --> 00:05:27,830
+and it's been like this, this way.
+
+113
+00:05:27,833 --> 00:05:30,500
+It has never been swapped, nothing has been swapped,
+
+114
+00:05:30,500 --> 00:05:32,930
+the battery has really not changed at all.
+
+115
+00:05:32,933 --> 00:05:36,680
+And today, I wouldn't say today, but more like recently, these days,
+
+116
+00:05:36,683 --> 00:05:42,660
+as you can see, judging by the screen behaving like that,
+
+117
+00:05:42,666 --> 00:05:45,430
+yeah, um, the battery bloated finally.
+
+118
+00:05:45,433 --> 00:05:48,160
+Or more like it bloated enough to pop the screen off.
+
+119
+00:05:48,166 --> 00:05:49,180
+And you may think,
+
+120
+00:05:49,183 --> 00:05:52,610
+Mel, you're charging a bloated device, stop doing that!
+
+121
+00:05:52,616 --> 00:05:53,880
+Yes, I get you, I get you.
+
+122
+00:05:53,883 --> 00:05:56,010
+This will be the last time that I'll be doing that.
+
+123
+00:05:56,016 --> 00:05:58,010
+I'm doing that because I wanted to show you
+
+124
+00:05:58,016 --> 00:06:01,110
+what was on the screen for its very last life,
+
+125
+00:06:01,116 --> 00:06:03,660
+before I give it a quiet down moment, I guess.
+
+126
+00:06:03,666 --> 00:06:06,560
+So let's demonstrate how quickly it dies.
+
+127
+00:06:06,566 --> 00:06:08,940
+But first, we have to head down to the settings,
+
+128
+00:06:08,949 --> 00:06:11,310
+and we're gonna get into display,
+
+129
+00:06:11,316 --> 00:06:13,980
+and set screen time out to 30 minutes.
+
+130
+00:06:13,983 --> 00:06:17,080
+Right, let's have a moment, let's sit down,
+
+131
+00:06:17,083 --> 00:06:19,000
+and see how quickly it dies, I guess.
+
+132
+00:06:19,000 --> 00:06:20,310
+You guys ready?
+
+133
+00:06:20,316 --> 00:06:22,000
+Boop!
+
+134
+00:06:22,166 --> 00:06:23,230
+The cable's off.
+
+135
+00:06:23,233 --> 00:06:25,110
+Now let's see how quickly it dies,
+
+136
+00:06:25,116 --> 00:06:27,230
+just by standing by on this screen.
+
+137
+00:06:27,233 --> 00:06:29,850
+So while we wait, I'm gonna talk about how I was feeling
+
+138
+00:06:29,850 --> 00:06:32,180
+when I bought this phone in the first place.
+
+139
+00:06:32,183 --> 00:06:35,660
+So, I thought to myself, it's kind of a cool concept
+
+140
+00:06:35,666 --> 00:06:39,280
+because I've already touched Androids for like, quite a long time now,
+
+141
+00:06:39,283 --> 00:06:41,480
+this is not my first Android phone, honestly.
+
+142
+00:06:41,483 --> 00:06:44,550
+If anything, it's my first modern Android phone,
+
+143
+00:06:44,550 --> 00:06:46,810
+because I have historically touched older phones,
+
+144
+00:06:46,816 --> 00:06:50,410
+and to those OGs who are in the millennial era,
+
+145
+00:06:50,416 --> 00:06:52,600
+I know you feel me, because
+
+146
+00:06:52,600 --> 00:06:58,380
+what if I tell you that my first Android phone was a Sony Xperia X10 Mini.
+
+147
+00:06:58,383 --> 00:07:03,510
+That's right, it's that Android 2 phone, that one Jelly Bean phone.
+(*Not Jelly Bean, it's Eclair)
+
+148
+00:07:03,516 --> 00:07:05,810
+That was my first Android phone.
+
+149
+00:07:05,816 --> 00:07:09,390
+In fact, I had this phone before I had my first iPhone,
+
+150
+00:07:09,399 --> 00:07:11,010
+which was the iPhone 4S.
+
+151
+00:07:11,016 --> 00:07:16,180
+So technically, I am not really, "have not tried Android", ever.
+
+152
+00:07:16,183 --> 00:07:17,940
+I have used Android prior,
+
+153
+00:07:17,949 --> 00:07:22,210
+and I just simply don't give a shit about the operating systems.
+
+154
+00:07:22,216 --> 00:07:23,800
+What I really care about is
+
+155
+00:07:23,800 --> 00:07:27,310
+how companies maintain the operating systems.
+
+156
+00:07:27,316 --> 00:07:31,440
+But with that aside, my modern Android experience has been kind of pleasant
+
+157
+00:07:31,449 --> 00:07:33,660
+because I have sideloaded some applications,
+
+158
+00:07:33,666 --> 00:07:37,100
+but it's mostly just small little cosmetic things that,
+
+159
+00:07:37,100 --> 00:07:41,180
+because for someone who formats phones quite often,
+
+160
+00:07:41,183 --> 00:07:44,410
+because I'm the kind of person who's like,
+
+161
+00:07:44,416 --> 00:07:47,140
+throws a lot of junk on the Files app,
+
+162
+00:07:47,149 --> 00:07:49,800
+and then at some point we just thought to ourselves,
+
+163
+00:07:49,800 --> 00:07:52,630
+why the hell did we run out of space?
+
+164
+00:07:52,633 --> 00:07:56,250
+And usually I just have this tendency to just get lazy
+
+165
+00:07:56,250 --> 00:07:57,410
+and purge everything.
+
+166
+00:07:57,416 --> 00:07:59,180
+Well, at least that's what the past me does.
+
+167
+00:07:59,183 --> 00:08:03,230
+But now, nowadays, I kind of just try to reduce the amount of clutter
+
+168
+00:08:03,233 --> 00:08:06,480
+and try to keep an eye on my storage usage
+
+169
+00:08:06,483 --> 00:08:09,850
+and actually take these files out, like say my photos and stuff,
+
+170
+00:08:09,850 --> 00:08:12,890
+take it out when it has been sitting there for a very long time.
+
+171
+00:08:12,899 --> 00:08:15,510
+So if anything's lost, it's not really lost.
+
+172
+00:08:15,516 --> 00:08:16,800
+You know, you get what I mean.
+
+173
+00:08:16,800 --> 00:08:18,830
+Just preserving the data, I guess.
+
+174
+00:08:18,833 --> 00:08:22,230
+But in the past, I was pretty much a data destroyer.
+
+175
+00:08:22,233 --> 00:08:25,480
+Because get this, Honkai Impact takes a lot of space.
+
+176
+00:08:25,483 --> 00:08:27,880
+Because if you pre-cache or pre-download
+
+177
+00:08:27,883 --> 00:08:30,610
+all the assets that the game has,
+
+178
+00:08:30,616 --> 00:08:31,830
+it's going to start bulking up.
+
+179
+00:08:31,833 --> 00:08:34,040
+Like even right now, you could probably bulk it up
+
+180
+00:08:34,049 --> 00:08:38,280
+to like probably some 30, 40 gigs for just the whole game
+
+181
+00:08:38,283 --> 00:08:39,180
+top to bottom.
+
+182
+00:08:39,183 --> 00:08:42,950
+So, but fortunate for me, at that time I only played, well,
+
+183
+00:08:42,950 --> 00:08:44,460
+a small handful of games, I guess.
+
+184
+00:08:44,466 --> 00:08:49,230
+Namely, Love Live! School Idol Festival 1 and Honkai Impact.
+
+185
+00:08:49,233 --> 00:08:51,890
+And I think that's pretty much the only games I played.
+
+186
+00:08:51,899 --> 00:08:56,280
+I did not really pick up Azur Lane until I had the Razer Phone.
+
+187
+00:08:56,283 --> 00:08:58,580
+But yeah, I'm not really a gamer personally.
+
+188
+00:08:58,583 --> 00:09:02,390
+But yeah, I mean, LittleMel wasn't really a gamer at all.
+
+189
+00:09:02,399 --> 00:09:05,230
+She just wants a game that she can just play along, chill,
+
+190
+00:09:05,233 --> 00:09:06,450
+and not think at all.
+
+191
+00:09:06,450 --> 00:09:08,880
+But yeah, I honestly think this is a pretty cool device
+
+192
+00:09:08,883 --> 00:09:10,410
+because, look at this.
+
+193
+00:09:10,416 --> 00:09:13,130
+This, this, these two are speakers.
+
+194
+00:09:13,133 --> 00:09:16,880
+And if you play them on stereo, they sound seriously amazing.
+
+195
+00:09:16,883 --> 00:09:19,060
+Like, you don't even need Dolby Atmos.
+
+196
+00:09:19,066 --> 00:09:22,360
+They sound just wonderful on the default tune.
+
+197
+00:09:22,366 --> 00:09:24,850
+But things just did not feel right sometimes.
+
+198
+00:09:24,850 --> 00:09:27,060
+Although this phone is pretty customizable,
+
+199
+00:09:27,066 --> 00:09:30,350
+you can have AOSPs on it because a lot of ROMs support it
+
+200
+00:09:30,350 --> 00:09:33,430
+because it was the easiest to support because it's coming from Google.
+
+201
+00:09:33,433 --> 00:09:36,790
+I just feel like something felt really, really missing
+
+202
+00:09:36,799 --> 00:09:38,410
+in the heart of the Nexus 6P.
+
+203
+00:09:38,416 --> 00:09:40,410
+And that's when the Google Pixels came out.
+
+204
+00:09:40,416 --> 00:09:42,980
+Unfortunately, I did not get my hands on a Pixel.
+
+205
+00:09:42,983 --> 00:09:45,360
+So yeah, I kind of missed the opportunity.
+
+206
+00:09:45,366 --> 00:09:49,780
+The reason why I had the Samsung Galaxy S10 or the Note 10 today
+
+207
+00:09:49,783 --> 00:09:53,910
+is because at the time, Google Pixels were not shipped to where I'm at.
+
+208
+00:09:53,916 --> 00:09:57,560
+So, Pixels were not available and I could not get a Pixel.
+
+209
+00:09:57,566 --> 00:10:00,080
+I really, really would have picked up a Pixel.
+
+210
+00:10:00,083 --> 00:10:03,210
+But unfortunately, as luck struck, it did not come.
+
+211
+00:10:03,216 --> 00:10:05,790
+So the Samsung Galaxy Note 10 was kind of like
+
+212
+00:10:05,799 --> 00:10:08,060
+the next best choice, if anything.
+
+213
+00:10:08,066 --> 00:10:10,500
+Because there was no flagship on Nokia yet.
+
+214
+00:10:10,500 --> 00:10:14,330
+I really want to try out Nokia because of their, their Android,
+
+215
+00:10:14,333 --> 00:10:14,880
+what was it?
+
+216
+00:10:14,883 --> 00:10:15,860
+Android certified?
+
+217
+00:10:15,866 --> 00:10:17,130
+Android One program?
+
+218
+00:10:17,133 --> 00:10:19,510
+Which is one of the coolest ideas I've ever seen in my life.
+
+219
+00:10:19,516 --> 00:10:22,380
+Unfortunately again, they don't have flagships.
+
+220
+00:10:22,383 --> 00:10:23,930
+They got mid-range phones only.
+
+221
+00:10:23,933 --> 00:10:26,640
+And my budget was for flagships, unfortunately.
+
+222
+00:10:26,649 --> 00:10:31,060
+So the only flagship I could think of was simply the Samsung Galaxy S10,
+
+223
+00:10:31,066 --> 00:10:32,130
+I mean Note 10+.
+
+224
+00:10:32,133 --> 00:10:33,010
+So, meh.
+
+225
+00:10:33,016 --> 00:10:35,930
+But regardless, you could tell me to pick up a gaming phone
+
+226
+00:10:35,933 --> 00:10:39,880
+like the ASUS ROG phone or the Red Magic.
+
+227
+00:10:39,883 --> 00:10:44,230
+But I have a hard time trusting them when it comes to update consistency.
+
+228
+00:10:44,233 --> 00:10:46,760
+But if you think their updates are consistent,
+
+229
+00:10:46,766 --> 00:10:50,510
+like say at least quarterly, please let me know in the comments below.
+
+230
+00:10:50,516 --> 00:10:51,880
+And let me know of your experience.
+
+231
+00:10:51,883 --> 00:10:52,410
+Is it good?
+
+232
+00:10:52,416 --> 00:10:52,930
+Is it bad?
+
+233
+00:10:52,933 --> 00:10:53,700
+Please let me know.
+
+234
+00:10:53,700 --> 00:10:57,130
+Because that's probably the only barrier for me
+
+235
+00:10:57,133 --> 00:10:59,180
+from ever choosing those phones.
+
+236
+00:10:59,183 --> 00:11:02,430
+So that's kind of what matters to me at the moment.
+
+237
+00:11:02,433 --> 00:11:04,950
+However, the second nature that mattered to me
+
+238
+00:11:04,950 --> 00:11:07,860
+is whether you can install AOSPs on it.
+
+239
+00:11:07,866 --> 00:11:11,610
+Because recently, some companies started restricting
+
+240
+00:11:11,616 --> 00:11:15,680
+unlocking the bootloader for quote-unquote security reasons.
+
+241
+00:11:15,683 --> 00:11:19,060
+And I don't quite appreciate that behavior.
+
+242
+00:11:19,066 --> 00:11:21,350
+Like what security reasons?
+
+243
+00:11:21,350 --> 00:11:23,610
+If you're going to open the bootloader,
+
+244
+00:11:23,616 --> 00:11:26,930
+there is a flag that checks for bootloader enablement.
+
+245
+00:11:26,933 --> 00:11:29,790
+So, why are companies going out of their way,
+
+246
+00:11:29,799 --> 00:11:32,280
+blocking the unlocking of bootloader?
+
+247
+00:11:32,283 --> 00:11:33,700
+I don't quite understand.
+
+248
+00:11:33,700 --> 00:11:35,130
+Somebody should explain that to me.
+
+249
+00:11:35,133 --> 00:11:37,430
+Be it on the Discord server or in the comments.
+
+250
+00:11:37,433 --> 00:11:38,830
+Damn, it's been 4 minutes.
+
+251
+00:11:38,833 --> 00:11:40,410
+It lasted pretty well, didn't it?
+
+252
+00:11:40,416 --> 00:11:44,030
+A moment of silence for the Nexus 6P.
+
+253
+00:11:46,816 --> 00:11:47,980
+Alright, where was I?
+
+254
+00:11:47,983 --> 00:11:53,610
+So, after the whole Nexus 6P lawsuit and drama and everything,
+
+255
+00:11:53,616 --> 00:11:57,100
+I kind of thought, nope, we're going to the other side of the extremes.
+
+256
+00:11:57,100 --> 00:12:00,640
+So we got the spectrum of purity, I guess.
+
+257
+00:12:00,649 --> 00:12:03,830
+On this side, we got pure, complete purity.
+
+258
+00:12:03,833 --> 00:12:07,350
+And then on the other side, we got gimmicks or filled with features.
+
+259
+00:12:07,350 --> 00:12:13,930
+So where I'll put Nexus 6P would be somewhere around this part of the spectrum.
+
+260
+00:12:13,933 --> 00:12:16,760
+Like around where this line is, this metal line is.
+
+261
+00:12:16,766 --> 00:12:21,390
+And then where the Razer phone is, well, it's at the tip.
+
+262
+00:12:21,683 --> 00:12:22,950
+Dead on the tip.
+
+263
+00:12:22,950 --> 00:12:25,910
+Like, there's no different way to explain it.
+
+264
+00:12:25,916 --> 00:12:26,980
+It's dead on the tip.
+
+265
+00:12:26,983 --> 00:12:31,000
+And then I believe Samsung would be somewhere around this part of the spectrum.
+
+266
+00:12:31,000 --> 00:12:36,290
+Where it's like, it has some bit of purity, but it's not pure in visuals.
+
+267
+00:12:36,299 --> 00:12:39,330
+So it is still a lot of gimmick.
+
+268
+00:12:39,333 --> 00:12:44,030
+Like, say, the terrible launcher known as TouchWiz.
+
+269
+00:12:44,033 --> 00:12:45,760
+And also the edge display,
+
+270
+00:12:45,766 --> 00:12:49,960
+which has now been converted into some form of like sidebar.
+
+271
+00:12:49,966 --> 00:12:52,680
+Man, the edge screen felt dead, I guess.
+
+272
+00:12:52,683 --> 00:12:56,460
+I kind of appreciate the ruler feature on the edge screen.
+
+273
+00:12:56,466 --> 00:12:57,630
+I really, really like that.
+
+274
+00:12:57,633 --> 00:13:00,810
+And I'm glad they brought it over to the modern day edge screen.
+
+275
+00:13:00,816 --> 00:13:02,450
+So props to you, Samsung, I guess.
+
+276
+00:13:02,450 --> 00:13:04,460
+The ruler was very, very useful.
+
+277
+00:13:04,466 --> 00:13:07,010
+Useful enough for me to need to measure anything
+
+278
+00:13:07,016 --> 00:13:10,030
+without needing to bring a separate ruler or a tape measurement.
+
+279
+00:13:10,033 --> 00:13:10,860
+It was pretty handy.
+
+280
+00:13:10,866 --> 00:13:13,200
+But yeah, back to the Nexus 6P.
+
+281
+00:13:13,200 --> 00:13:15,930
+So what did I do with the Nexus 6P anyway?
+
+282
+00:13:15,933 --> 00:13:19,510
+Aside from installing AOSP, I discovered something that really jumped out to me.
+
+283
+00:13:19,516 --> 00:13:21,660
+That was really out there.
+
+284
+00:13:21,666 --> 00:13:24,360
+Complete world's difference level out there.
+
+285
+00:13:24,366 --> 00:13:27,040
+And I would like to make a video out of it.
+
+286
+00:13:27,049 --> 00:13:28,200
+Do you want to know what it is?
+
+287
+00:13:28,200 --> 00:13:32,110
+Somebody at UBports thought it's a really cool idea
+
+288
+00:13:32,116 --> 00:13:35,230
+to port Ubuntu into Android phones.
+
+289
+00:13:35,233 --> 00:13:41,510
+And the way Ubuntu behaves on phones are, well, visually very different.
+
+290
+00:13:41,516 --> 00:13:43,130
+I would like to discover into that.
+
+291
+00:13:43,133 --> 00:13:45,780
+Unfortunately, I don't have phones that currently supports
+
+292
+00:13:45,783 --> 00:13:47,980
+the latest version of Ubuntu Touch.
+(This is the message when viewing devices that are supported in the deprecated 16.04)
+
+293
+00:13:47,983 --> 00:13:51,750
+So I'll be bringing in the phone that is mostly supported,
+(You are viewing data for an obsolete Ubuntu Touch release)
+
+294
+00:13:51,750 --> 00:13:53,830
+but on a deprecated version.
+(that is kept for historical reasons, please use the latest stable release instead.)
+
+295
+00:13:53,833 --> 00:13:56,430
+But regardless, I hope this is worth a video to make.
+
+296
+00:13:56,433 --> 00:14:02,630
+And yeah, and this is the story to how I came to have the Nexus 6P.
+
+297
+00:14:02,633 --> 00:14:06,880
+And also surprisingly, it's still alive for some minutes.
+
+298
+00:14:06,883 --> 00:14:11,330
+Well maybe it's because I've not really done anything online, I guess.
+
+299
+00:14:11,333 --> 00:14:13,710
+What if say I connect to Wi-Fi right now?
+
+300
+00:14:13,716 --> 00:14:15,830
+Okay, we're connected to Wi-Fi now.
+
+301
+00:14:15,833 --> 00:14:17,580
+And where's the browser?
+
+302
+00:14:17,583 --> 00:14:18,660
+Oh my god.
+
+303
+00:14:18,666 --> 00:14:20,010
+Wait a second.
+
+304
+00:14:20,016 --> 00:14:21,360
+Where's the browser?
+
+305
+00:14:21,366 --> 00:14:23,560
+Wait, there's no browser in this AOSP?
+
+306
+00:14:23,566 --> 00:14:24,610
+What the heck?
+
+307
+00:14:24,616 --> 00:14:26,430
+Well, that was the first time for me.
+
+308
+00:14:26,433 --> 00:14:29,460
+Okay, I guess we're not surfing the internet then.
+
+309
+00:14:29,466 --> 00:14:30,860
+There's nothing in the gallery.
+
+310
+00:14:30,866 --> 00:14:31,890
+Damn.
+
+311
+00:14:31,899 --> 00:14:33,080
+I barely use this phone.
+
+312
+00:14:33,083 --> 00:14:34,140
+That's surprising.
+
+313
+00:14:34,149 --> 00:14:35,710
+Oh, oh, oh, oh, Google.
+
+314
+00:14:35,716 --> 00:14:38,210
+There, this is one of the articles that I'm talking about.
+
+315
+00:14:38,216 --> 00:14:41,830
+So please have a good read at it so you understand what's going on
+
+316
+00:14:41,833 --> 00:14:44,830
+in the world of Nexus 6P users.
+
+317
+00:14:44,833 --> 00:14:47,100
+And also this Reddit thread, I guess.
+
+318
+00:14:47,100 --> 00:14:48,330
+These two are a good read.
+
+319
+00:14:48,333 --> 00:14:53,010
+And it's a whole messy situation revolving around the Nexus 6P.
+
+320
+00:14:53,016 --> 00:14:55,310
+But yeah, with that said, thank you so much for watching.
+
+321
+00:14:55,316 --> 00:14:57,380
+Be sure to subscribe, be sure to press the notification bell
+
+322
+00:14:57,383 --> 00:15:00,230
+if you want to hear more story times out of me about Android,
+
+323
+00:15:00,233 --> 00:15:01,810
+phones, tech, anything.
+
+324
+00:15:01,816 --> 00:15:02,610
+Please let me know.
+
+325
+00:15:02,616 --> 00:15:06,980
+I have plenty of historical tech in my hands that I can make videos about.
+
+326
+00:15:06,983 --> 00:15:10,330
+And if you're excited to hear more, please let me know.
+
+327
+00:15:10,333 --> 00:15:11,640
+I will look forward to making more.
+
+328
+00:15:11,649 --> 00:15:14,830
+And this should be one of the few last videos
+
+329
+00:15:14,833 --> 00:15:17,790
+before I make another big project video, I guess.
+
+330
+00:15:17,799 --> 00:15:19,750
+And with that said, thank you so much for watching.
+
+331
+00:15:19,750 --> 00:15:20,930
+See you guys next time.
+
+332
+00:15:20,933 --> 00:15:22,560
+OtsuMelo deshita.
+
+333
+00:15:22,566 --> 00:15:24,960
+Weee.
+
+334
+00:15:44,399 --> 00:15:46,280
+Bleh.
+

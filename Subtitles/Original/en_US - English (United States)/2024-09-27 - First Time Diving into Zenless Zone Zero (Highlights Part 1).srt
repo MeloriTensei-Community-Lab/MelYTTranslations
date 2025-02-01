@@ -1,0 +1,1865 @@
+﻿1
+00:00:01,950 --> 00:00:04,310
+Oh shit!
+
+2
+00:00:05,750 --> 00:00:07,790
+Kon-Melo!
+
+3
+00:00:07,799 --> 00:00:08,810
+Kon-Melo! Kon-Melo! Kon-Melo!
+
+4
+00:00:08,816 --> 00:00:11,610
+It's ya Tech Wizardess girl, MeloriTensei!
+
+5
+00:00:11,616 --> 00:00:14,430
+Hello, hello! Melori Valentine desu!
+
+6
+00:00:14,433 --> 00:00:16,260
+Right, Zenless Zone Zero.
+
+7
+00:00:16,266 --> 00:00:18,300
+That's the main topic today.
+
+8
+00:00:18,300 --> 00:00:21,760
+I hope today's livestream goes really well
+
+9
+00:00:21,766 --> 00:00:25,280
+because I'm so looking forward to this game, honestly.
+
+10
+00:00:25,283 --> 00:00:28,030
+Like, I'm genuinely so looking forward to this game.
+
+11
+00:00:28,033 --> 00:00:29,760
+I don't want to waste too much of your time,
+
+12
+00:00:29,766 --> 00:00:33,140
+but we're gonna get straight into the few important stuff.
+
+13
+00:00:33,149 --> 00:00:37,760
+Every session with MeloriTensei always starts with the few usuals.
+
+14
+00:00:37,766 --> 00:00:41,110
+One of which is graphic settings.
+
+15
+00:00:41,116 --> 00:00:43,540
+So, let's get right into it first.
+
+16
+00:00:43,549 --> 00:00:45,480
+Woo!
+
+17
+00:00:45,750 --> 00:00:49,680
+I pre-installed the game
+the moment it was open for pre-installation.
+
+18
+00:00:49,683 --> 00:00:50,630
+It was…
+
+19
+00:00:50,633 --> 00:00:55,430
+I just went "Ope, let's go download them immediately, let's go!"
+
+20
+00:00:55,433 --> 00:00:56,850
+Right, without further ado,
+
+21
+00:00:56,850 --> 00:00:59,980
+let's get straight into setting up the graphic settings.
+
+22
+00:00:59,983 --> 00:01:02,310
+So at the moment, I have it on custom
+
+23
+00:01:02,316 --> 00:01:06,380
+and I have it on this following settings.
+
+24
+00:01:06,383 --> 00:01:10,500
+I'm not sure if this is really the setting that might work for me.
+
+25
+00:01:10,500 --> 00:01:13,840
+How about we try out max settings first,
+
+26
+00:01:13,849 --> 00:01:16,910
+then we'll figure out what happens next.
+
+27
+00:01:16,916 --> 00:01:20,630
+Well, I hope for the best for all I know.
+
+28
+00:01:21,183 --> 00:01:22,310
+Ooh, here we go.
+
+29
+00:01:22,316 --> 00:01:23,950
+TV: We interrupt your regular programming for this breaking news.
+
+30
+00:01:23,950 --> 00:01:26,280
+TV: A Companion Hollow has suddenly appeared
+on Fortheenth Street.
+
+31
+00:01:26,283 --> 00:01:28,540
+TV: And has already breached level-three containment.
+
+32
+00:01:28,549 --> 00:01:33,000
+TV: The Hollow Investigative Association has dispatched a team
+to the scene to carry out emergency protocols.
+
+33
+00:01:33,000 --> 00:01:34,900
+TV: Evacuation of residents in nearby blocks is underway.
+
+34
+00:01:34,900 --> 00:01:36,790
+I wonder what's the breach.
+
+35
+00:01:36,799 --> 00:01:39,180
+TV: Please stay away from the Fourteenth Street area
+
+36
+00:01:39,183 --> 00:01:42,090
+TV: Residents of adjacent blocks are asked
+to follow disaster guidelines
+when evacuating in an orderly manner.
+
+37
+00:01:42,099 --> 00:01:44,130
+Aw, that Bangboo is adorable.
+
+38
+00:01:44,133 --> 00:01:45,330
+Also the AirPods though.
+
+39
+00:01:45,333 --> 00:01:47,880
+Belle: Wise - come check this out.
+
+40
+00:01:47,883 --> 00:01:49,630
+Wise: What's that?
+
+41
+00:01:49,633 --> 00:01:55,310
+Mel: Oh, this guy is the older brother.
+Wise: Fourteenth Street? I think the news mentioned it earlier...
+Give me a sec.
+
+42
+00:01:55,316 --> 00:01:57,930
+Mel: Alright.
+Wise: Yeah, in the Janus Quarter.
+
+43
+00:01:57,933 --> 00:02:00,200
+Wise: They say it's already breached the level-three controls.
+
+44
+00:02:00,200 --> 00:02:02,410
+Mel: Gotcha.
+Wise: We'll be seeing some business coming our way soon.
+
+45
+00:02:02,416 --> 00:02:06,410
+I wonder what they're really about, as in between the two of them.
+
+46
+00:02:06,416 --> 00:02:08,680
+I mean, what's their job?
+
+47
+00:02:08,683 --> 00:02:09,550
+I wonder.
+
+48
+00:02:09,550 --> 00:02:11,340
+At least that's getting me curious.
+
+49
+00:02:11,349 --> 00:02:14,750
+So we got choice of Wise and Belle.
+
+50
+00:02:14,750 --> 00:02:17,780
+I'm a girl, so I'm going for Belle.
+
+51
+00:02:17,783 --> 00:02:18,500
+Here we go.
+
+52
+00:02:18,500 --> 00:02:19,780
+Wee!
+
+53
+00:02:19,783 --> 00:02:23,230
+Belle: Cool, now we play the waiting game.
+
+54
+00:02:26,099 --> 00:02:29,690
+"Chapter 0: Business x Strangeness x Justness"
+
+55
+00:02:29,699 --> 00:02:30,760
+Huh.
+
+56
+00:02:30,766 --> 00:02:32,030
+Nicole: Go left!
+
+57
+00:02:32,033 --> 00:02:33,410
+Whoa, okay.
+
+58
+00:02:33,416 --> 00:02:34,780
+Wooo, okay.
+
+59
+00:02:34,783 --> 00:02:37,260
+My controller rumbled.
+
+60
+00:02:37,266 --> 00:02:39,410
+Okay, so there is rumble support, that's interesting.
+
+61
+00:02:39,416 --> 00:02:42,590
+Great job, HoYoverse, honestly.
+
+62
+00:02:42,599 --> 00:02:43,930
+Holy.
+
+63
+00:02:43,933 --> 00:02:45,910
+Nicole: Hm?
+
+64
+00:02:45,916 --> 00:02:47,680
+Mel: Hm?
+Gangs: Over there!
+
+65
+00:02:47,683 --> 00:02:48,760
+Gangs: Go! go!
+
+66
+00:02:48,766 --> 00:02:51,360
+What the heck is…
+
+67
+00:02:51,366 --> 00:02:53,210
+oh.
+
+68
+00:02:53,516 --> 00:02:55,800
+I'm just wondering what's with that thing.
+
+69
+00:02:55,800 --> 00:02:59,710
+That's so huge, not to mention the band-aid was like…
+
+70
+00:02:59,716 --> 00:03:02,760
+on that spot.
+
+71
+00:03:03,500 --> 00:03:05,030
+Alright.
+
+72
+00:03:05,033 --> 00:03:12,060
+Reporter: I'm *ing *ed! As this station's reporter,
+I can't listen to this anymore! Those criminals need to get *ed!
+
+73
+00:03:12,066 --> 00:03:16,960
+"Those criminals need to be get screwed."
+
+74
+00:03:17,683 --> 00:03:19,060
+Oh my god.
+
+75
+00:03:19,066 --> 00:03:27,610
+Reporter: As soon as we find them we should just *ing * them all!
+And then * them again!
+
+76
+00:03:28,816 --> 00:03:29,940
+I'm…
+
+77
+00:03:29,949 --> 00:03:31,580
+mmmm…
+
+78
+00:03:31,583 --> 00:03:32,980
+alright.
+
+79
+00:03:32,983 --> 00:03:37,480
+Billy: There's a window! Boss, we can get out this way!
+
+80
+00:03:37,483 --> 00:03:41,280
+I wonder if these guys are the ones that they're looking for.
+
+81
+00:03:41,283 --> 00:03:49,190
+Nicole: But that's a Hollow down there...
+Fine, a way out is a way out. Can you break the glass, Billy?
+
+82
+00:03:50,666 --> 00:03:54,610
+Billy: Easy! Leave it to me!
+
+83
+00:03:55,466 --> 00:03:56,940
+Alright.
+
+84
+00:03:56,949 --> 00:03:58,750
+Ah...
+
+85
+00:03:59,949 --> 00:04:03,500
+Uh... (laugh)
+
+86
+00:04:03,500 --> 00:04:04,000
+Ah.
+
+87
+00:04:04,000 --> 00:04:14,340
+Billy: Uhh...
+(Mel laughs)
+
+88
+00:04:14,833 --> 00:04:17,560
+Tryna play cool, I guess. (laughs)
+
+89
+00:04:17,566 --> 00:04:22,100
+Anby: It bounced off. This glass must be tough.
+
+90
+00:04:22,433 --> 00:04:22,960
+Oh?
+
+91
+00:04:22,966 --> 00:04:27,390
+Nicole: Wait! Is that a flashbang?
+
+92
+00:04:27,616 --> 00:04:34,350
+Anby: Correct. It's a GS 2 high-lumen military flashbang.
+The blast is quite strong.
+
+93
+00:04:34,350 --> 00:04:38,800
+Mel: Oh?
+Nicole: Awesome! Time to wake up, Billy!
+
+94
+00:04:38,800 --> 00:04:40,980
+Oh, Billy, okay.
+
+95
+00:04:40,983 --> 00:04:41,630
+Alright.
+
+96
+00:04:41,633 --> 00:04:43,980
+Gang: What?!
+Mel: (mocking) HUH?
+
+97
+00:04:43,983 --> 00:04:47,100
+Billy: Eyes open everyone!
+
+98
+00:04:47,100 --> 00:04:50,350
+Billy: SAY- CHEESE-!
+
+99
+00:04:52,500 --> 00:04:53,640
+(imitating flashbang) Biii!
+
+100
+00:04:53,649 --> 00:04:58,430
+Gangs: Wahhh! My eyes!
+
+101
+00:04:58,433 --> 00:05:02,000
+Gang leader: I'LL KILL YOU ALL!
+
+102
+00:05:02,000 --> 00:05:08,610
+Nicole: Hahaha, you've made a mistake, mister.
+We aren't your enemy.
+
+103
+00:05:08,616 --> 00:05:09,730
+🥵👉👈 Yesh, mommy. 🥵👉👈
+
+104
+00:05:09,733 --> 00:05:10,810
+Ah, I mean, sorry.
+
+105
+00:05:10,816 --> 00:05:12,640
+(Screenshot sound)
+
+106
+00:05:12,683 --> 00:05:14,310
+Uh...
+
+107
+00:05:14,316 --> 00:05:15,630
+It's not what it sounds like.
+
+108
+00:05:15,633 --> 00:05:18,260
+I'm innocent, I swear.
+
+109
+00:05:18,433 --> 00:05:23,180
+Reporter: What? You've found the Red Fang *ers?
+
+110
+00:05:23,883 --> 00:05:26,660
+Oh my god, the reporter guy.
+
+111
+00:05:26,666 --> 00:05:29,930
+Reporter: Then what are you *ing waiting for, Commander?!
+
+112
+00:05:30,250 --> 00:05:36,940
+Reporter: Pick the biggest gun and rain down JUSTICE!!!
+
+113
+00:05:36,949 --> 00:05:40,230
+Helicopter: Falcon 4, attack order received.
+
+114
+00:05:40,583 --> 00:05:43,800
+Oh my god, come on.
+
+115
+00:05:43,800 --> 00:05:46,610
+You got three surrendees at least-
+
+116
+00:05:46,616 --> 00:05:49,610
+I mean, at least from what they see.
+
+117
+00:05:49,616 --> 00:05:52,260
+And they're told to attack… ugh...
+
+118
+00:05:52,266 --> 00:05:54,130
+okay.
+
+119
+00:05:54,699 --> 00:05:56,260
+WITH A ROCKET!
+
+120
+00:05:56,266 --> 00:05:58,980
+I mean, a missile!
+
+121
+00:05:58,983 --> 00:06:00,580
+WHAT ARE YOU THINKING?!
+
+122
+00:06:00,583 --> 00:06:03,080
+Nicole: I'm done for...
+
+123
+00:06:03,516 --> 00:06:06,160
+Oh, not like this.
+
+124
+00:06:06,166 --> 00:06:12,710
+Look at Billy's face, he's genuinely giving that "Not Like This" face.
+(NOT LIKE THIS, BOTTOM TEXT)
+
+125
+00:06:12,716 --> 00:06:13,690
+Ah!
+
+126
+00:06:13,699 --> 00:06:15,440
+Billy: I want to file a complaint!
+
+127
+00:06:15,449 --> 00:06:26,130
+(laugh)
+
+128
+00:06:26,133 --> 00:06:29,230
+I…um.
+
+129
+00:06:29,233 --> 00:06:36,880
+I don't know if you are in the right place
+to file a complaint, but okay!
+
+130
+00:06:39,716 --> 00:06:44,250
+I wonder where's the box (a strongbox) that we saw earlier.
+
+131
+00:06:49,833 --> 00:06:51,810
+Oh.
+
+132
+00:06:51,816 --> 00:06:53,180
+Woo~!
+
+133
+00:06:53,183 --> 00:06:55,180
+But wasn't it night time out there?
+
+134
+00:06:55,183 --> 00:06:57,500
+We're landing in…
+
+135
+00:06:58,750 --> 00:06:59,500
+🥵👉👈 Yesh, mommy. 🥵👉👈
+
+136
+00:06:59,500 --> 00:07:01,710
+She's so cool.
+
+137
+00:07:01,716 --> 00:07:03,130
+Oh my god, that walk.
+
+138
+00:07:03,133 --> 00:07:05,260
+That walk.
+
+139
+00:07:05,266 --> 00:07:07,430
+She's so cool.
+
+140
+00:07:09,050 --> 00:07:09,690
+X (button).
+
+141
+00:07:09,699 --> 00:07:12,050
+Looks like attack, yeah. Oh!
+
+142
+00:07:12,050 --> 00:07:17,380
+I mean, with every game, the X (Xbox) is always attack,
+so I'm not surprised.
+
+143
+00:07:17,449 --> 00:07:19,810
+"Basic attacks generate energy."
+
+144
+00:07:19,816 --> 00:07:24,440
+"With enough energy, Special Attacks will be enhanced to the…
+
+145
+00:07:24,449 --> 00:07:26,000
+EX special attacks."
+
+146
+00:07:26,000 --> 00:07:30,140
+I assume it's like exclusive or extreme?
+
+147
+00:07:30,333 --> 00:07:31,610
+Wow!
+
+148
+00:07:31,616 --> 00:07:34,980
+The game makes you press the button
+instead of skipping through it.
+
+149
+00:07:34,983 --> 00:07:36,580
+Okay.
+
+150
+00:07:36,583 --> 00:07:39,390
+Alright, alright, alright.
+
+151
+00:07:44,816 --> 00:07:49,350
+Oh my god, the camera work. Holy.
+
+152
+00:07:49,350 --> 00:07:58,690
+Anby: Ahem, this is Anby Demara, a member of the odd-job agency, the "Cunning Hares". I accidentally fell into a Companion Hollow.
+
+153
+00:07:58,699 --> 00:08:03,930
+Oh, I assume we're currently in a different universe.
+
+154
+00:08:03,933 --> 00:08:04,810
+Because…
+
+155
+00:08:04,816 --> 00:08:07,810
+oh, that explains the difference between day and night.
+
+156
+00:08:07,816 --> 00:08:09,640
+Okay, I get it now.
+
+157
+00:08:09,649 --> 00:08:13,660
+Billy: -Ah, there you are, Anby! Great!
+
+158
+00:08:13,666 --> 00:08:19,440
+I mean, you have every right to be excited at this point, Billy.
+
+159
+00:08:19,449 --> 00:08:21,050
+Billy: I knew you'd be okay- (slash)
+
+160
+00:08:21,050 --> 00:08:26,230
+Billy: Whoa whoa! Hey, what's gotten into you?! You almost cut me!
+
+161
+00:08:26,233 --> 00:08:31,130
+Anby: I've met another being of reason.
+He looks a lot like my colleague: Billy Kid.
+
+162
+00:08:31,133 --> 00:08:33,330
+(Mel laugh)
+
+163
+00:08:33,333 --> 00:08:37,040
+Billy: What are you talking about? It's me! Billy!
+
+164
+00:08:37,049 --> 00:08:39,000
+(Mel laugh)
+
+165
+00:08:39,000 --> 00:08:43,930
+Anby: An Investigator has previously encountered Ethereals
+who can mimic human speech and behavior.
+
+166
+00:08:43,983 --> 00:08:49,130
+Anby: The Investigator rescued the Ethereal
+pretending to be their teammate,
+but once they got out of the Hollow, it revealed itself.
+
+167
+00:08:49,133 --> 00:08:55,460
+Billy: Wait, isn't that the plot of that movie
+that was in theaters not long ago!?
+
+168
+00:08:55,466 --> 00:09:00,180
+Anby: ...There was a long list of victims involved
+in the incident. I read all their names.
+
+169
+00:09:00,183 --> 00:09:02,730
+Mel: Oh?
+Billy: That's called a cast list!
+
+170
+00:09:02,733 --> 00:09:04,130
+(Mel laugh)
+
+171
+00:09:04,133 --> 00:09:05,830
+Wait, wait, that was not real?
+
+172
+00:09:05,833 --> 00:09:07,280
+Hold on, whaaa?
+
+173
+00:09:07,283 --> 00:09:08,290
+Hold on.
+
+174
+00:09:08,299 --> 00:09:09,810
+No, I'm getting confused right now.
+
+175
+00:09:09,816 --> 00:09:11,100
+Is… is...
+
+176
+00:09:11,100 --> 00:09:13,830
+is Anby a robot of some sort?
+
+177
+00:09:13,833 --> 00:09:15,860
+Because that's hilarious.
+
+178
+00:09:15,866 --> 00:09:19,080
+Anby: Question: Who would you most like to have dinner with?
+
+179
+00:09:19,083 --> 00:09:22,130
+Oh hey, security questions. (laughs)
+
+180
+00:09:22,133 --> 00:09:25,780
+At least that's what I would think if Anby thinks like a robot.
+
+181
+00:09:25,783 --> 00:09:34,230
+Billy: Huh? Dinner? Of course...
+that'd be the big screen superheroes, the Starlight Knights!
+
+182
+00:09:34,233 --> 00:09:37,110
+Billy: Wait wait wait! Put your blade down, I'll tell you!
+
+183
+00:09:37,116 --> 00:09:43,600
+You know, with that kind of lore,
+I actually am kind of interested in seeing if…
+
+184
+00:09:43,600 --> 00:09:47,000
+if HoYoverse might make it into like a proper anime.
+
+185
+00:09:47,000 --> 00:09:55,200
+Billy: ...It's really the late night drama actress
+from "Oh~ Sweetie", Monica...
+
+186
+00:09:55,200 --> 00:09:59,030
+Anby: All clear. The individual has been confirmed
+as the real Billy Kid.
+
+187
+00:09:59,033 --> 00:10:02,130
+(laughs) Alright.
+
+188
+00:10:02,133 --> 00:10:04,680
+So his name… his full name is…
+
+189
+00:10:04,683 --> 00:10:05,880
+Billy Kid.
+
+190
+00:10:05,883 --> 00:10:14,380
+Anby: Meeting Billy Kid increases my chances of survival
+by over 67.8%. I'm glad you're okay, Billy.
+
+191
+00:10:14,383 --> 00:10:17,710
+Billy: I told you I'm me!
+
+192
+00:10:17,716 --> 00:10:25,140
+Hehe. "I told you I'm the real deal." (laughs)
+
+193
+00:10:25,149 --> 00:10:26,410
+Aww.
+
+194
+00:10:26,416 --> 00:10:32,230
+Billy: ...It's been a while since we fell. Nicole must be trying
+to come up with a way to get us out from the outside.
+
+195
+00:10:32,233 --> 00:10:32,860
+Hmm.
+
+196
+00:10:32,866 --> 00:10:38,700
+Billy: But will she be willing to pay for the help?
+You know how Nicole is, hahaha...
+
+197
+00:10:38,700 --> 00:10:41,790
+I mean…
+
+198
+00:10:41,916 --> 00:10:44,930
+If Nicole is as what we think of her as…
+
+199
+00:10:44,933 --> 00:10:51,950
+Anby: Based on Nicole's tight-fisted spending habits,
+I'd say your original analysis is likely correct.
+
+200
+00:10:51,950 --> 00:10:56,630
+So, she would be more likely to outsource
+than to do the job herself.
+
+201
+00:10:56,916 --> 00:10:57,710
+Alright.
+
+202
+00:10:57,716 --> 00:11:02,290
+Billy: Damn... Now you've got me worried.
+
+203
+00:11:02,299 --> 00:11:05,380
+Alright, that might be a bit... yeah.
+
+204
+00:11:05,383 --> 00:11:07,230
+It makes it seem like she's hopeless.
+
+205
+00:11:07,233 --> 00:11:09,480
+I don't know.
+
+206
+00:11:10,916 --> 00:11:11,700
+Alright.
+
+207
+00:11:11,700 --> 00:11:14,790
+"Stunned enemies are unable to move
+and sustain additional damage."
+
+208
+00:11:14,799 --> 00:11:21,280
+"Special Attacks trigger a Chain Attack
+upon hitting a Stunned enemy."
+
+209
+00:11:21,283 --> 00:11:23,110
+Wait, what?
+
+210
+00:11:25,933 --> 00:11:27,510
+Oh, that.
+
+211
+00:11:27,516 --> 00:11:29,810
+So when we swap out…
+
+212
+00:11:29,816 --> 00:11:31,760
+Alright.
+
+213
+00:11:31,766 --> 00:11:38,360
+When your squad contains two or more agents,
+press [RB] to switch between them.
+
+214
+00:11:41,066 --> 00:11:43,200
+"Launch a chain attack."
+
+215
+00:11:43,200 --> 00:11:45,130
+Uh… one…
+
+216
+00:11:45,133 --> 00:11:47,350
+two…
+
+217
+00:11:47,516 --> 00:11:48,510
+No wait, that…
+
+218
+00:11:48,516 --> 00:11:50,880
+Oh, that!
+
+219
+00:11:52,416 --> 00:11:54,580
+(Billy screams)
+
+220
+00:11:54,583 --> 00:11:55,910
+Oh, that's hella cool.
+
+221
+00:11:55,916 --> 00:11:57,860
+That's hella cool, I gotta admit.
+
+222
+00:11:57,866 --> 00:12:02,100
+"When your characters hit enemies, they generate Decibels."
+
+223
+00:12:02,100 --> 00:12:04,010
+Alright.
+
+224
+00:12:04,016 --> 00:12:07,930
+"Once your Decibel rating is at Max…
+
+225
+00:12:08,366 --> 00:12:13,010
+Press [RT] to launch the Ultimate."
+
+226
+00:12:14,583 --> 00:12:16,280
+Alright.
+
+227
+00:12:16,283 --> 00:12:17,980
+"Wipeout."
+
+228
+00:12:17,983 --> 00:12:19,350
+I like the camera work.
+
+229
+00:12:19,350 --> 00:12:22,960
+Seriously, that's so different.
+
+230
+00:12:23,433 --> 00:12:25,890
+(Billy's gun clicks)
+
+231
+00:12:25,899 --> 00:12:27,280
+Ah.
+
+232
+00:12:27,283 --> 00:12:29,630
+Classic Billy moment.
+
+233
+00:12:29,633 --> 00:12:33,260
+Billy: Hmm?
+(Mel laughs with her mouth full)
+
+234
+00:12:35,233 --> 00:12:37,350
+That sound he made.
+
+235
+00:12:37,350 --> 00:12:40,750
+Billy: Uh-oh, forgot to reload!
+
+236
+00:12:40,750 --> 00:12:44,980
+Billy: Okay buddy, wait a sec! Time out!
+Mel: Hehe.
+
+237
+00:12:44,983 --> 00:12:46,530
+(Anby's sword slash)
+Billy: Wahhh-!
+
+238
+00:12:46,533 --> 00:12:50,130
+(laughs) Oh my god.
+
+239
+00:12:50,133 --> 00:12:52,630
+Billy: Ughh!
+
+240
+00:13:01,966 --> 00:13:05,310
+Oh, that's big.
+
+241
+00:13:06,533 --> 00:13:09,140
+That's big.
+
+242
+00:13:10,883 --> 00:13:17,710
+"When a golden prompt appears,
+press [swap] to trigger a Perfect Assist."
+
+243
+00:13:19,000 --> 00:13:20,410
+Ooh.
+
+244
+00:13:20,416 --> 00:13:24,510
+"Then press Basic Attack to launch an Assist Follow-Up."
+
+245
+00:13:24,516 --> 00:13:26,230
+Oh, like that.
+
+246
+00:13:26,233 --> 00:13:29,630
+So if you don't do it, it doesn't do it.
+
+247
+00:13:29,633 --> 00:13:30,790
+"Consumes assist points."
+
+248
+00:13:30,799 --> 00:13:32,260
+"Chain attack can replenish it."
+
+249
+00:13:32,266 --> 00:13:34,200
+Alright.
+
+250
+00:13:36,466 --> 00:13:37,560
+Wooh.
+
+251
+00:13:37,566 --> 00:13:39,060
+He was on guard.
+
+252
+00:13:39,066 --> 00:13:43,200
+Can we get behind him and then... give him a slap!
+
+253
+00:13:43,200 --> 00:13:44,910
+Oh, we can… we can ult it.
+
+254
+00:13:44,916 --> 00:13:46,960
+Let's go!
+
+255
+00:13:50,683 --> 00:13:51,680
+Billy: He's recovered?
+
+256
+00:13:51,683 --> 00:13:53,660
+Billy: Is his Ether activity still increasing?
+
+257
+00:13:53,666 --> 00:13:55,250
+Anby: Keep up the attack?
+
+258
+00:13:55,250 --> 00:13:58,860
+Billy: Nah! we don't have the firepower to fight for long!
+
+259
+00:14:01,233 --> 00:14:04,180
+Ooh, cool.
+
+260
+00:14:04,183 --> 00:14:05,860
+Smoke 'em.
+
+261
+00:14:05,866 --> 00:14:07,010
+Alright.
+
+262
+00:14:07,016 --> 00:14:09,110
+Let's go!
+
+263
+00:14:11,166 --> 00:14:13,200
+And of course they'll be gone.
+
+264
+00:14:13,200 --> 00:14:15,510
+eeeeYup.
+
+265
+00:14:16,566 --> 00:14:19,610
+I wonder where to they've gone to.
+
+266
+00:14:20,783 --> 00:14:22,950
+Ah, the box.
+
+267
+00:14:22,950 --> 00:14:25,580
+"Meanwhile, in downtown New Eridu."
+
+268
+00:14:25,583 --> 00:14:28,660
+"At a video store in the corner of Sixth street,
+
+269
+00:14:28,666 --> 00:14:31,580
+over in the Janus Quarter..."
+
+270
+00:14:31,583 --> 00:14:32,830
+Oh, Nicole!
+
+271
+00:14:32,833 --> 00:14:38,100
+Nicole: Hey, listen up! I was there when that explosion took place.
+
+272
+00:14:38,100 --> 00:14:43,330
+Wise: Hello Nicole... It'd be nice of you to knock next time.
+(Mel laugh)
+
+273
+00:14:43,333 --> 00:14:44,980
+Come on, Wise!
+
+274
+00:14:44,983 --> 00:14:53,640
+Belle: I feel like I hear of your urgent needs
+at least three times a month, Nicole...
+(Mel giggles)
+
+275
+00:14:54,033 --> 00:14:56,730
+Damn it, Belle!
+
+276
+00:14:56,816 --> 00:14:58,580
+🥵👉👈 Yesh, mommy. 🥵👉👈
+
+277
+00:14:58,583 --> 00:15:02,380
+Alright, so I assume these proxies are…
+
+278
+00:15:02,383 --> 00:15:05,360
+had already made a name for themselves.
+
+279
+00:15:05,366 --> 00:15:08,830
+Wise & Belle: What trouble did you get yourself into this time?
+
+280
+00:15:08,883 --> 00:15:11,410
+So we're up to the task.
+
+281
+00:15:11,416 --> 00:15:14,130
+(In Chinese - Mandarin) "Don't Read Before Sleep"
+
+282
+00:15:14,133 --> 00:15:17,640
+"Don't read before bedtime."
+
+283
+00:15:17,649 --> 00:15:20,730
+Oh my god, I find that hilarious.
+
+284
+00:15:20,733 --> 00:15:24,930
+I assume that's a horror magazine or something.
+
+285
+00:15:24,933 --> 00:15:26,850
+It's Friday morning!
+
+286
+00:15:26,850 --> 00:15:31,480
+Today is Friday in California!
+
+287
+00:15:31,500 --> 00:15:33,410
+Sorry!
+
+288
+00:15:33,500 --> 00:15:38,500
+Nicole: They're really cracking down on Proxies.
+They set up a hotline, and...
+
+289
+00:15:38,500 --> 00:15:40,200
+Cracking down on proxies?
+
+290
+00:15:40,200 --> 00:15:40,790
+Wait, hold up.
+
+291
+00:15:40,799 --> 00:15:46,680
+So we're basically another White Hat vigilantes or something?
+
+292
+00:15:46,683 --> 00:15:49,140
+"Which creditor is chasing after you this time?"
+
+293
+00:15:49,149 --> 00:15:51,750
+I kinda wanna hear what the response is.
+
+294
+00:15:51,750 --> 00:15:55,680
+Belle: So what's the hurry, Nicole?
+Which creditor is chasing you this time?
+
+295
+00:15:55,683 --> 00:16:01,850
+Nicole: That's not it! I was set up by Public Security
+and that angry reporter from Ridu TV!
+
+296
+00:16:02,533 --> 00:16:05,080
+Also I just realized, hold up, umm...
+
+297
+00:16:05,083 --> 00:16:10,230
+Looking respectfully, right beside my head, umm...
+
+298
+00:16:10,233 --> 00:16:15,380
+She has a mole on a unique spot.
+
+299
+00:16:15,383 --> 00:16:18,140
+Man, character designers honestly.
+
+300
+00:16:18,149 --> 00:16:23,310
+I mean, I get it, moles can be everywhere but…
+
+301
+00:16:25,333 --> 00:16:29,630
+I just realized about that. (laughs)
+
+302
+00:16:29,633 --> 00:16:33,810
+"Finish the job and I'll clear my entire bill in one go."
+
+303
+00:16:33,816 --> 00:16:36,040
+Wait, she owes us?
+
+304
+00:16:36,049 --> 00:16:37,580
+Hold up.
+
+305
+00:16:37,583 --> 00:16:38,310
+You know what, screw it.
+
+306
+00:16:38,316 --> 00:16:39,780
+"Sounds pretty good."
+
+307
+00:16:39,783 --> 00:16:43,530
+It would be hilarious if we haggled for a better offer.
+
+308
+00:16:44,183 --> 00:16:45,950
+How about be a part of us?
+
+309
+00:16:45,950 --> 00:16:47,380
+Hmm...?
+
+310
+00:16:47,383 --> 00:16:54,980
+Belle: You've been dodging your bill for months Nicole.
+Have you even considered the interest?
+
+311
+00:16:54,983 --> 00:17:00,880
+Nicole: Fine, I'll give yo ua share of the commission payment.
+Does that cover it?
+
+312
+00:17:00,883 --> 00:17:02,330
+Oh my god...
+
+313
+00:17:02,333 --> 00:17:05,260
+i'm so...
+
+314
+00:17:05,266 --> 00:17:08,400
+Oh my god, I'm so harsh. (laughs)
+
+315
+00:17:08,400 --> 00:17:10,040
+I'm sorry, Nicole.
+
+316
+00:17:10,049 --> 00:17:13,080
+But I honestly like...
+
+317
+00:17:13,083 --> 00:17:14,710
+like... Belle's look.
+
+318
+00:17:14,716 --> 00:17:16,380
+Oh my god, her look is just...
+
+319
+00:17:16,383 --> 00:17:18,160
+Y'know what? Hold on. Lemme just...
+
+320
+00:17:18,166 --> 00:17:19,680
+(Screenshot sound)
+
+321
+00:17:19,683 --> 00:17:22,580
+Don't mind if I do. (laughs)
+
+322
+00:17:22,583 --> 00:17:27,910
+Nicole: Ohhh? Deploying your "Bangboo Double", huh? Okay!
+
+323
+00:17:27,916 --> 00:17:29,610
+Bangboo double.
+
+324
+00:17:29,616 --> 00:17:34,410
+Oh, because they're (the) "proxies", I think.
+
+325
+00:17:34,416 --> 00:17:36,180
+(gasp)
+
+326
+00:17:36,183 --> 00:17:37,840
+Oh my god.
+
+327
+00:17:37,849 --> 00:17:41,540
+That's so…
+
+328
+00:17:42,333 --> 00:17:43,950
+So adorable.
+
+329
+00:17:43,950 --> 00:17:45,560
+(stutters)
+
+330
+00:17:45,566 --> 00:17:47,360
+Oh my god, okay.
+
+331
+00:17:47,366 --> 00:17:49,150
+"Metro Goblin"... Goblin?
+
+332
+00:17:49,150 --> 00:17:50,150
+(Fubuki sings WE ARE JAPANESE GOBLIN)
+
+333
+00:17:50,150 --> 00:17:52,430
+Mel & Fubuki: "WE ARE JAPANESE GOBLIN"
+
+334
+00:17:52,433 --> 00:17:53,290
+(laughs)
+
+335
+00:17:53,299 --> 00:17:55,260
+I'm sorry.
+
+336
+00:18:00,400 --> 00:18:04,980
+Wise: Hello, can you hear me Nicole?
+You can put Eous through now!
+
+337
+00:18:04,983 --> 00:18:09,810
+Nicole: Okay! Right, little one, off you go then~
+
+338
+00:18:09,816 --> 00:18:13,900
+Nicole: Done! Bangboo's on the way!
+
+339
+00:18:15,716 --> 00:18:19,400
+Wise: Well then, can we begin?
+
+340
+00:18:19,400 --> 00:18:21,900
+Belle: Uh-um.
+
+341
+00:18:26,400 --> 00:18:28,230
+Woah.
+
+342
+00:18:37,183 --> 00:18:38,930
+Hehe, what's that?
+
+343
+00:18:38,933 --> 00:18:40,780
+A bomb? A pokéball?
+
+344
+00:18:40,783 --> 00:18:42,760
+I wonder what that is. Honestly.
+
+345
+00:18:42,766 --> 00:18:45,930
+Anby: Incoming, get ready.
+
+346
+00:18:50,966 --> 00:18:53,530
+Billy: Wait, that wasn't me!
+
+347
+00:18:53,533 --> 00:18:56,930
+Proxy Bangboo: Hey, guys! Over here!
+
+348
+00:18:56,933 --> 00:18:58,090
+Huh.
+
+349
+00:18:58,099 --> 00:18:59,910
+Proxy Bangboo: Good work, all.
+
+350
+00:18:59,916 --> 00:19:02,480
+Anby: It's a scarf-wearing, talking Bangboo...
+
+351
+00:19:02,483 --> 00:19:05,010
+Billy: Ohhh! You're-
+
+352
+00:19:05,016 --> 00:19:07,200
+Billy: Phaethon!
+
+353
+00:19:07,200 --> 00:19:11,700
+Oh my god, she's so cool when she leans like that.
+
+354
+00:19:11,700 --> 00:19:15,930
+"A few more compliments and I might give you a discount." (laughs)
+
+355
+00:19:15,933 --> 00:19:17,750
+Ahh, let's... Let's have a look.
+
+356
+00:19:17,750 --> 00:19:21,110
+Belle: A few more compliments like that
+and I might just give you a discount.
+
+357
+00:19:21,116 --> 00:19:22,110
+Anby: Really?
+
+358
+00:19:22,116 --> 00:19:26,330
+Billy: I think the Proxy was just trying to be polite, Anby.
+
+359
+00:19:26,333 --> 00:19:28,010
+Anby: We have to get out of here.
+
+360
+00:19:28,016 --> 00:19:28,960
+Alright.
+
+361
+00:19:28,966 --> 00:19:34,700
+Anby: Unless, Billy, you'd like to stay here forever?
+That new Starlight Knight Belt you wanted?
+I guess I'll place it at your grave next year.
+
+362
+00:19:34,700 --> 00:19:37,930
+Hehe... "I'll place it at your grave next year."
+
+363
+00:19:37,933 --> 00:19:43,680
+Billy: When you say things like that with that poker face of yours,
+I can't tell if you're joking or not.
+
+364
+00:19:43,683 --> 00:19:49,480
+"Observation Data - Scattered throughout the Hollows,
+you'll find crucial materials known as "Observation Data"
+
+365
+00:19:49,483 --> 00:19:57,730
+Each commissioned Hollow contains 3 sets of Observation Data.
+Collecting these data sets increases the final rating of...
+
+366
+00:19:57,733 --> 00:19:58,780
+of?
+
+367
+00:19:58,783 --> 00:20:04,460
+your commission and rewards you with additional Polychromes.
+
+368
+00:20:04,466 --> 00:20:06,980
+Alright, I wonder what Polychromes are.
+
+369
+00:20:06,983 --> 00:20:11,150
+"Observation data in the hollow will be saved once picked up.
+
+370
+00:20:11,150 --> 00:20:14,860
+You don't need to pick it up again when exploring the same area."
+
+371
+00:20:14,866 --> 00:20:17,330
+Oh, so like, it's a one-time thing.
+
+372
+00:20:17,333 --> 00:20:19,040
+It's like a one-time bonus.
+
+373
+00:20:19,049 --> 00:20:21,310
+Right.
+
+374
+00:20:21,433 --> 00:20:23,560
+Poopie.
+
+375
+00:20:23,566 --> 00:20:25,880
+We're getting into…
+
+376
+00:20:25,883 --> 00:20:27,590
+Ooh?
+
+377
+00:20:27,599 --> 00:20:30,280
+A battle, I assume.
+
+378
+00:20:32,433 --> 00:20:37,130
+Oh my god, Anby close-up is so pretty.
+
+379
+00:20:37,483 --> 00:20:39,340
+Ooh.
+
+380
+00:20:39,983 --> 00:20:41,900
+Ooh, that is a good synergy.
+
+381
+00:20:41,900 --> 00:20:44,660
+I like this.
+
+382
+00:20:46,383 --> 00:20:47,830
+Ooh, whatever that is.
+
+383
+00:20:47,833 --> 00:20:51,180
+"Hollow observation data." Oh, okay, right.
+
+384
+00:20:51,183 --> 00:20:53,340
+What is this one?
+
+385
+00:20:53,349 --> 00:20:56,290
+Anby: Ethereals. They're catching up, Proxy.
+
+386
+00:20:56,299 --> 00:20:56,900
+Oh.
+
+387
+00:20:56,900 --> 00:20:58,180
+Billy: What should we do? Fight?
+
+388
+00:20:58,183 --> 00:20:59,700
+Ooh.
+
+389
+00:20:59,700 --> 00:21:02,180
+Wise: It's cool. Just come with me.
+
+390
+00:21:02,183 --> 00:21:03,650
+Alright.
+
+391
+00:21:03,650 --> 00:21:06,880
+Does it do it by the time basis or step basis?
+
+392
+00:21:06,883 --> 00:21:09,380
+Oh, per step basis, gotcha.
+
+393
+00:21:09,383 --> 00:21:12,380
+Wise: This track-laying machine... We can use this.
+
+394
+00:21:12,383 --> 00:21:14,480
+Ooh, what's this?
+
+395
+00:21:14,483 --> 00:21:17,200
+Oh, it's just conveyor belts.
+
+396
+00:21:18,766 --> 00:21:20,860
+Wee! More boxes.
+
+397
+00:21:20,866 --> 00:21:26,950
+"Safety valve data. - The system log shows the valve is unlocked
+by inserting the preset amount of Gear Coins..."
+
+398
+00:21:26,950 --> 00:21:29,280
+Really?
+
+399
+00:21:30,866 --> 00:21:34,410
+Why do we need to pay to get to be safe?
+
+400
+00:21:34,416 --> 00:21:36,130
+Well, I'ma...
+
+401
+00:21:36,133 --> 00:21:40,510
+Billy: Hmph! Even in a Hollow,
+they're seriously gonna charge a toll?
+
+402
+00:21:40,516 --> 00:21:44,150
+Billy: Even if I agree, the Starlight Knights wouldn't agree!
+
+403
+00:21:44,150 --> 00:21:47,450
+Billy: And even if the Starlight Knights agreed,
+Nicole wouldn't agree!
+
+404
+00:21:47,450 --> 00:21:50,450
+Billy: ...So take that! Starlight Mirage!
+
+405
+00:21:50,450 --> 00:21:57,560
+HDD Broadcast: Agent Billy detected,
+he is forcing the valve lock with the butt of his gun.
+
+406
+00:21:57,816 --> 00:22:03,310
+HDD Broadcast: Valve detection - Open. But Agent Billy has suffered
+partial damage to his hand's exoskeleton.
+
+407
+00:22:03,316 --> 00:22:07,160
+Partial damage? What kind of partial damage?
+
+408
+00:22:07,166 --> 00:22:08,090
+What did he do?
+
+409
+00:22:08,099 --> 00:22:09,230
+Billy: Ow... That hurts!
+
+410
+00:22:09,233 --> 00:22:12,660
+(laughs) What did he do?
+
+411
+00:22:12,666 --> 00:22:13,980
+We're escaping.
+
+412
+00:22:13,983 --> 00:22:16,590
+See ya!
+
+413
+00:22:17,349 --> 00:22:19,680
+We're bustin' outta here.
+
+414
+00:22:19,683 --> 00:22:22,080
+Hell yeah.
+
+415
+00:22:27,299 --> 00:22:29,210
+Oh?
+
+416
+00:22:29,866 --> 00:22:32,340
+Pop pop pop pop.
+
+417
+00:22:34,133 --> 00:22:37,680
+Get the heck outta here, Bill!
+
+418
+00:22:38,500 --> 00:22:41,010
+Wise: Don't worry. Just do what my sister says.
+
+419
+00:22:41,016 --> 00:22:46,210
+Billy: That voice... Oh! It's the other Phaethon!
+
+420
+00:22:46,733 --> 00:22:48,700
+"Don't take over my channel like that!"
+
+421
+00:22:48,700 --> 00:22:55,040
+Belle: Seriously, can you not jump on my channel
+all of a sudden? You scared me.
+
+422
+00:22:55,049 --> 00:22:56,880
+"Sensory synchronization has been disconnected-"
+
+423
+00:22:56,883 --> 00:22:58,130
+Okay.
+
+424
+00:22:58,133 --> 00:22:59,510
+Anby: It's gone quiet...
+
+425
+00:22:59,516 --> 00:23:01,660
+Billy: It became a regular Bangboo.
+
+426
+00:23:01,666 --> 00:23:06,540
+Ohhhhh. So this Bangboo can be…
+
+427
+00:23:06,549 --> 00:23:08,980
+Can be hacked in and be used as a proxy.
+
+428
+00:23:08,983 --> 00:23:11,680
+Billy: Why would they de-sync at a time like this?
+(Mel breaks)
+
+429
+00:23:11,683 --> 00:23:14,030
+Anby: Going straight forward. Brace for impact.
+
+430
+00:23:14,033 --> 00:23:15,030
+Just smash the wall.
+
+431
+00:23:15,033 --> 00:23:18,510
+Billy: We're gonna crash! We're gonna crash! we're gonna crash!
+(Mel laughs)
+
+432
+00:23:18,516 --> 00:23:21,430
+"With a strange sense of release,
+the two pass through the wall as though it's nothing.
+
+433
+00:23:21,433 --> 00:23:26,150
+Oh, so that's the fake Hollow wall that takes us back to the surface.
+
+434
+00:23:26,150 --> 00:23:28,410
+Anby: The oppressive weight of Ether is gone.
+
+435
+00:23:28,416 --> 00:23:35,030
+Billy: We're out... We're finally out! Aha!
+
+436
+00:23:35,033 --> 00:23:37,950
+Aw, that celebration outta Bill.
+
+437
+00:23:37,950 --> 00:23:41,040
+Ugh, fiiine.
+
+438
+00:23:42,099 --> 00:23:45,280
+"Nicole Demara."
+
+439
+00:23:45,283 --> 00:23:46,910
+"Partnership established."
+
+440
+00:23:46,916 --> 00:23:48,330
+Gotcha.
+
+441
+00:23:48,333 --> 00:23:54,160
+Alright, we now have reached the point of free movement.
+
+442
+00:23:54,166 --> 00:24:01,310
+But regardless, I hope to be able to continue
+making Zenless Zone Zero streams.
+(This highlight was painstakingly clipped
+around several stream crashes)
+
+443
+00:24:01,316 --> 00:24:05,330
+And there'll be more Blue Archive streams
+and Zenless Zone Zero streams.
+(Hopefully it's bearable, lemme know
+in the comments if you like it!)
+
+444
+00:24:05,333 --> 00:24:06,860
+OtsuMelo deshita. (It's been ya girl, Mel)
+
+445
+00:24:06,866 --> 00:24:09,090
+Have a good night, y'all.
+
+446
+00:24:12,883 --> 00:24:18,930
+Ko-fi - Thank you for supporting me financially!
+Member: Jo
+
+447
+00:24:19,816 --> 00:24:28,400
+MeloriTensei 転性メロリ
+Thank you for watching! Check out my other contents!
+

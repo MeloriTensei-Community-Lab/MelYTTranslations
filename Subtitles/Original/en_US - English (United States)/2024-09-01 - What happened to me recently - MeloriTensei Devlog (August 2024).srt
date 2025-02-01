@@ -1,0 +1,1066 @@
+﻿1
+00:00:12,000 --> 00:00:14,630
+Well hey, look who's home.
+
+2
+00:00:15,166 --> 00:00:17,880
+It's your good ol' little PC-kun.
+
+3
+00:00:17,883 --> 00:00:19,980
+(Grunts) Come on in.
+
+4
+00:00:19,983 --> 00:00:23,510
+(Home is where the circuits rest.)
+God dammit, I've missed you for so long.
+
+5
+00:00:23,516 --> 00:00:25,160
+(A connection reestablished, a home coming complete.)
+Right, let's get her rolled in,
+
+6
+00:00:25,166 --> 00:00:27,660
+and let's get her installed.
+
+7
+00:00:29,383 --> 00:00:30,230
+It's been a while.
+
+8
+00:00:30,233 --> 00:00:31,960
+Hey guys, it's ya girl, MeloriTensei,
+
+9
+00:00:31,966 --> 00:00:36,560
+and let's get straight to the devlog for August 2024.
+
+10
+00:00:36,566 --> 00:00:38,200
+So one of the greatest good news is
+
+11
+00:00:38,200 --> 00:00:40,180
+that the PC's not dead anymore, as you can see.
+
+12
+00:00:40,183 --> 00:00:41,530
+I am finally back.
+
+13
+00:00:41,533 --> 00:00:45,540
+Ey, I'm on VRChat and I'm finally doing VRChat things.
+
+14
+00:00:45,549 --> 00:00:48,350
+I don't, uh, to be honest, I don't really know.
+
+15
+00:00:48,350 --> 00:00:51,850
+So to those who haven't watched my mousemat video,
+
+16
+00:00:51,850 --> 00:00:54,510
+here's the short form of what happened.
+
+17
+00:00:54,516 --> 00:00:57,230
+I sent the computer to the technician
+
+18
+00:00:57,233 --> 00:01:00,850
+and it took them 9 days to figure out what went wrong.
+
+19
+00:01:00,850 --> 00:01:03,200
+So basically what went wrong is that,
+
+20
+00:01:03,200 --> 00:01:05,130
+so the PSU has been pretty worn out
+
+21
+00:01:05,133 --> 00:01:09,530
+and it has been involved in a really massive accident many many years ago
+
+22
+00:01:09,533 --> 00:01:11,930
+that surprisingly slipped past my mind.
+
+23
+00:01:11,933 --> 00:01:16,730
+It's a long time ago, naive Melori accidentally mismatched power supply cables
+
+24
+00:01:16,733 --> 00:01:21,030
+and that caused some brrrrrrrrrrrrrr magic smoke.
+
+25
+00:01:21,033 --> 00:01:24,260
+And I thought what broke is probably just my GPU
+
+26
+00:01:24,266 --> 00:01:26,000
+and I didn't think of it too much.
+
+27
+00:01:26,000 --> 00:01:28,150
+But I didn't expect that it even blew up
+
+28
+00:01:28,150 --> 00:01:30,230
+the power supply safety feature as well.
+
+29
+00:01:30,233 --> 00:01:33,280
+So, the safety feature for the PSU is pretty busted.
+
+30
+00:01:33,283 --> 00:01:37,230
+And add salt to injury, the warranty for the PSU is pretty void
+
+31
+00:01:37,233 --> 00:01:41,580
+because naive Mel opened up the power supply to clean the fan.
+
+32
+00:01:41,583 --> 00:01:44,610
+So, the warranty is more or less void
+
+33
+00:01:44,616 --> 00:01:48,410
+because we don't have legislations here defending against
+
+34
+00:01:48,416 --> 00:01:49,680
+the warranty sticker here.
+
+35
+00:01:49,683 --> 00:01:55,590
+So, I pretty much have no choice but to accept defeat more or less.
+
+36
+00:01:55,599 --> 00:01:58,730
+However, with a little bit of money to gather around,
+
+37
+00:01:58,733 --> 00:02:00,960
+special thanks to my Ko-fi donators.
+
+38
+00:02:00,966 --> 00:02:06,650
+Thank you all so so so so much for giving me even the slightest bit of money
+
+39
+00:02:06,650 --> 00:02:10,280
+that allows me to be able to afford at least a power supply
+
+40
+00:02:10,283 --> 00:02:11,810
+that can hold me off for at least
+
+41
+00:02:11,816 --> 00:02:15,560
+probably a year or two and keep going with content creation.
+
+42
+00:02:15,566 --> 00:02:19,960
+So, I thank you very very very very much.
+
+43
+00:02:19,966 --> 00:02:22,030
+But with that said, I'm still looking forward
+
+44
+00:02:22,033 --> 00:02:23,960
+to get a properly decent power supply
+
+45
+00:02:23,966 --> 00:02:26,980
+and you can check out my Throne for the actual power supply
+
+46
+00:02:26,983 --> 00:02:28,980
+that I'm looking forward to upgrade to.
+
+47
+00:02:28,983 --> 00:02:31,880
+I'll show that on the screen and feel free to donate
+
+48
+00:02:31,883 --> 00:02:33,840
+if you would like to keep me alive
+
+49
+00:02:33,849 --> 00:02:36,680
+for a little bit longer, I guess.
+
+50
+00:02:36,683 --> 00:02:38,800
+But yeah, speaking of setups however,
+
+51
+00:02:38,800 --> 00:02:41,760
+I have decided that I kinda wanna try
+
+52
+00:02:41,766 --> 00:02:44,210
+messing around with ASMRs a little more.
+
+53
+00:02:44,216 --> 00:02:46,830
+So although the view count isn't that much
+
+54
+00:02:46,833 --> 00:02:48,860
+in comparison to all my other videos,
+
+55
+00:02:48,866 --> 00:02:53,960
+I still kinda wanna adventure into various different kinds of triggers and
+
+56
+00:02:53,966 --> 00:02:58,530
+in ASMRs and maybe start to get into the more serious ASMR stuff.
+
+57
+00:02:58,533 --> 00:03:04,080
+However, I don't really have a 3Dio or any binaural mics of the sort
+
+58
+00:03:04,083 --> 00:03:08,400
+so please do check out my Throne because I do plan to pick up a binaural mic.
+
+59
+00:03:08,400 --> 00:03:09,900
+However, I don't have the funds for it
+
+60
+00:03:09,900 --> 00:03:11,800
+so if you would like to fund my ASMR journey,
+
+61
+00:03:11,800 --> 00:03:13,060
+feel free to check that out there.
+
+62
+00:03:13,066 --> 00:03:15,410
+But for the time being, I'm using the Razer Seiren
+
+63
+00:03:15,416 --> 00:03:19,610
+to make up some of the ASMR stereo vibes, I guess,
+
+64
+00:03:19,616 --> 00:03:22,110
+and there are still plenty of things to think about.
+
+65
+00:03:22,116 --> 00:03:26,630
+So namely setup, I'm recently kinda working on getting comfortable
+
+66
+00:03:26,633 --> 00:03:30,680
+with the setup with my laptop recording setup to be able to record ASMRs in
+
+67
+00:03:30,683 --> 00:03:35,080
+and I kinda settled to NOT record them in my studio room ever.
+
+68
+00:03:35,083 --> 00:03:36,010
+This one right here.
+
+69
+00:03:36,016 --> 00:03:39,360
+Because if you have watched my ASMR trigger test video,
+
+70
+00:03:39,366 --> 00:03:41,010
+*bonk*
+
+71
+00:03:41,016 --> 00:03:44,410
+you would realize that that room is actually my bedroom.
+
+72
+00:03:44,416 --> 00:03:48,010
+Fuck's sake. This table sucks. (lmao)
+
+73
+00:03:48,016 --> 00:03:50,080
+And even that, with the air conditioner on,
+
+74
+00:03:50,083 --> 00:03:54,210
+it's making quite some noise so I don't think it would make sense
+
+75
+00:03:54,216 --> 00:03:58,180
+to record in a studio room with the computer fan going like crazy.
+
+76
+00:03:58,183 --> 00:04:00,130
+So, plenty of improvement has to be done,
+
+77
+00:04:00,133 --> 00:04:03,010
+including getting something to display my laptop
+
+78
+00:04:03,016 --> 00:04:05,080
+so I'll be able to control my OBS from there,
+
+79
+00:04:05,083 --> 00:04:07,090
+while keeping the laptop outside the room
+
+80
+00:04:07,099 --> 00:04:09,110
+so there won't be jet engine noises.
+
+81
+00:04:09,116 --> 00:04:11,150
+Right, getting onto MeloriTensei's video.
+
+82
+00:04:11,150 --> 00:04:14,440
+So what's next for MeloriTensei's video now that the PC is back?
+
+83
+00:04:14,449 --> 00:04:16,630
+So, I currently got a huge backlog of videos
+
+84
+00:04:16,633 --> 00:04:19,640
+that I planned to make but did not manage to
+
+85
+00:04:19,649 --> 00:04:22,730
+because the PC went poof.
+
+86
+00:04:22,733 --> 00:04:25,440
+So, now I'm gonna try to catch up to all of them.
+
+87
+00:04:25,449 --> 00:04:27,110
+And as of recording this video,
+
+88
+00:04:27,116 --> 00:04:29,960
+I have successfully done a few tasks
+
+89
+00:04:29,966 --> 00:04:32,930
+that I have mentioned in the [YT] Community Posts.
+
+90
+00:04:32,933 --> 00:04:35,360
+Please do keep an eye on my Discord and Community Posts
+
+91
+00:04:35,366 --> 00:04:38,330
+for more updates for some of the behind the scenes stuff.
+
+92
+00:04:38,333 --> 00:04:41,380
+But as for my videos, I'm planning to make some stream highlights
+
+93
+00:04:41,383 --> 00:04:45,580
+for contents that I've been wanting to make for quite a long time.
+
+94
+00:04:45,583 --> 00:04:47,390
+So, gaming stream highlights, namely one of them,
+
+95
+00:04:47,399 --> 00:04:49,910
+because recently I found myself to be burning out
+
+96
+00:04:49,916 --> 00:04:52,480
+a little teeny tiny bit and I've been running...
+
+97
+00:04:52,483 --> 00:04:53,110
+kind of,
+
+98
+00:04:53,116 --> 00:04:54,330
+I wouldn't say out of ideas,
+
+99
+00:04:54,333 --> 00:04:57,680
+more like kind of out of feasible methods to achieve
+
+100
+00:04:57,683 --> 00:04:59,480
+some of these ideas I have in my head.
+
+101
+00:04:59,483 --> 00:05:04,000
+So I kind of need more breathing room to create some of the ideas out
+
+102
+00:05:04,000 --> 00:05:07,610
+and hopefully ensure the quality stays pretty much the same
+
+103
+00:05:07,616 --> 00:05:10,230
+throughout the videos in the past to the present
+
+104
+00:05:10,233 --> 00:05:11,610
+or maybe even better.
+
+105
+00:05:11,616 --> 00:05:14,610
+I'm trying to make it better, not worse.
+
+106
+00:05:14,616 --> 00:05:18,760
+So hopefully you would spare me some more time for some of the tech videos,
+
+107
+00:05:18,766 --> 00:05:22,160
+be a little patient with me because there's a lot of prep work going on
+
+108
+00:05:22,166 --> 00:05:24,430
+and it's a little bit hard to prep these days.
+
+109
+00:05:24,433 --> 00:05:26,510
+So hopefully I can fill up that gap
+
+110
+00:05:26,516 --> 00:05:29,460
+with some gaming stream highlights.
+
+111
+00:05:29,466 --> 00:05:32,080
+Not to mention, I kind of do want to expand my videos
+
+112
+00:05:32,083 --> 00:05:35,850
+to not just tech but also some gaming highlights
+
+113
+00:05:35,850 --> 00:05:39,880
+so it can cater to the general audience and gaming fans I guess,
+
+114
+00:05:39,883 --> 00:05:43,080
+on top of just tech fans because laser focusing
+
+115
+00:05:43,083 --> 00:05:47,280
+on a certain demographic is not exactly my favorite thing
+
+116
+00:05:47,283 --> 00:05:48,610
+to do all the time.
+
+117
+00:05:48,616 --> 00:05:51,010
+However, I don't really have that much choice.
+
+118
+00:05:51,016 --> 00:05:52,880
+Not to mention, I do kind of enjoy gaming.
+
+119
+00:05:52,883 --> 00:05:56,980
+So, think of it as like an addition to my channel, I guess.
+
+120
+00:05:56,983 --> 00:05:59,630
+That way, this should allow my channel to continue breathing
+
+121
+00:05:59,633 --> 00:06:02,080
+while still having content pumping out every week,
+
+122
+00:06:02,083 --> 00:06:04,610
+all while still giving me breathing room for research
+
+123
+00:06:04,616 --> 00:06:07,380
+for the tech videos that I'm planning to make eventually
+
+124
+00:06:07,383 --> 00:06:09,430
+and also slide into one of the weeks.
+
+125
+00:06:09,433 --> 00:06:13,640
+Also to prevent future burnouts, I'm temporarily suspending
+
+126
+00:06:13,649 --> 00:06:18,580
+this "sussy site" that I have mentioned in my previous devlog
+
+127
+00:06:18,583 --> 00:06:22,360
+because recently I've found myself not being able to catch up
+
+128
+00:06:22,366 --> 00:06:25,140
+to whatever work I want to do on that site.
+
+129
+00:06:25,149 --> 00:06:29,760
+Not to mention, it's not my primary focus to do "more than usual",
+
+130
+00:06:29,766 --> 00:06:32,360
+spicy content just yet
+
+131
+00:06:32,366 --> 00:06:33,430
+and I think, to myself,
+
+132
+00:06:33,433 --> 00:06:36,980
+something spicy is just something's on the side, I guess.
+
+133
+00:06:36,983 --> 00:06:38,800
+Not exactly my regular thing.
+
+134
+00:06:38,800 --> 00:06:41,910
+So I hope those who are looking forward to those sites
+
+135
+00:06:41,916 --> 00:06:43,430
+be a little patient with me.
+
+136
+00:06:43,433 --> 00:06:44,890
+And speaking of being patient with me,
+
+137
+00:06:44,899 --> 00:06:47,230
+I thank you all very very much for being patient with me
+
+138
+00:06:47,233 --> 00:06:51,300
+because in the past weeks I've been working on compiling editing assets
+
+139
+00:06:51,300 --> 00:06:53,890
+so it would be far easier for me to search for editing assets
+
+140
+00:06:53,899 --> 00:06:56,180
+for videos that I'll be making in the future.
+
+141
+00:06:56,183 --> 00:07:00,810
+However, it has been getting really really taxing on me mentally
+
+142
+00:07:00,816 --> 00:07:04,440
+because of the sheer size of the assets I've collected.
+
+143
+00:07:04,449 --> 00:07:07,560
+So, I've only collected 75% of the first pack
+
+144
+00:07:07,566 --> 00:07:10,210
+but I hope I can make good use of it still myself
+
+145
+00:07:10,216 --> 00:07:15,110
+but my ultimate goal however is to make sure that I can gather all the assets
+
+146
+00:07:15,116 --> 00:07:19,680
+and I have, at least, 95% not needing to search
+
+147
+00:07:19,683 --> 00:07:22,130
+on the internet for assets anymore
+
+148
+00:07:22,133 --> 00:07:26,280
+and hopefully I can distribute it out so it would help future editors
+
+149
+00:07:26,283 --> 00:07:29,310
+and aspiring editors as well, not just myself.
+
+150
+00:07:29,316 --> 00:07:33,280
+I hope I'll be able to make it available for download when it's ready.
+
+151
+00:07:33,283 --> 00:07:34,760
+Now, if you're wondering why I didn't pull through
+
+152
+00:07:34,766 --> 00:07:36,480
+with doing 100% of all packets,
+
+153
+00:07:36,483 --> 00:07:40,060
+it's because there were 3 packs and they were massive.
+
+154
+00:07:40,066 --> 00:07:43,080
+And not to mention I'm feeling really guilty recently
+
+155
+00:07:43,083 --> 00:07:44,630
+for being on a hiatus for too long
+
+156
+00:07:44,633 --> 00:07:46,380
+and not pumping out any kind of content.
+
+157
+00:07:46,383 --> 00:07:48,930
+It's kind of killing my algorithm recently
+
+158
+00:07:48,933 --> 00:07:51,510
+and I don't really want to be forgotten.
+
+159
+00:07:51,516 --> 00:07:55,260
+So I decided to put a pause on sorting out assets for now
+
+160
+00:07:55,266 --> 00:07:58,910
+but I'll keep doing over time as I'm editing videos.
+
+161
+00:07:58,916 --> 00:08:01,210
+Right, getting onto the more uplifting news now.
+
+162
+00:08:01,216 --> 00:08:02,630
+I've said in my previous devlog
+
+163
+00:08:02,633 --> 00:08:05,800
+that I'll eventually be working on making my channel accessible
+
+164
+00:08:05,800 --> 00:08:08,580
+to Chinese viewers and Japanese viewers.
+
+165
+00:08:08,583 --> 00:08:12,530
+So as my first step, I've started opening up my Crowdin page.
+
+166
+00:08:12,533 --> 00:08:16,050
+So you can check out this website if you do want to volunteer
+
+167
+00:08:16,050 --> 00:08:19,160
+translating my subtitles into those languages.
+
+168
+00:08:19,166 --> 00:08:21,410
+That way, you would help upcoming viewers
+
+169
+00:08:21,416 --> 00:08:24,010
+to check out contents that I would be offering.
+
+170
+00:08:24,016 --> 00:08:27,680
+And I would also continue to commit making English subtitles
+
+171
+00:08:27,683 --> 00:08:29,550
+for all of my videos.
+
+172
+00:08:29,550 --> 00:08:31,300
+So this is not going to stop
+
+173
+00:08:31,300 --> 00:08:33,660
+and I'm going to keep making subtitles
+
+174
+00:08:33,666 --> 00:08:36,430
+because I want to make sure that all my viewers can kind of
+
+175
+00:08:36,433 --> 00:08:39,040
+get what I'm saying without relying on auto subtitles
+
+176
+00:08:39,049 --> 00:08:41,830
+because auto subtitles do suck a whole lot.
+
+177
+00:08:41,833 --> 00:08:45,710
+Currently on my Crowdin page, I've only covered 90% of my channel
+
+178
+00:08:45,716 --> 00:08:48,710
+at the moment because I've reached the free tier limit,
+
+179
+00:08:48,716 --> 00:08:51,200
+the word count of 60,000 words.
+
+180
+00:08:51,200 --> 00:08:54,030
+So once both languages have been translated completely,
+
+181
+00:08:54,033 --> 00:08:57,730
+I will delete those source files and I'll take the translations
+
+182
+00:08:57,733 --> 00:09:00,540
+and then put up the latest videos in as well.
+
+183
+00:09:00,549 --> 00:09:03,010
+So, people can translate those videos as well.
+
+184
+00:09:03,016 --> 00:09:05,880
+Now, if you're wondering how the hell would I get proofreaders
+
+185
+00:09:05,883 --> 00:09:08,660
+so I can make sure that the translation stays accurate,
+
+186
+00:09:08,666 --> 00:09:10,460
+I don't really have any plans for now,
+
+187
+00:09:10,466 --> 00:09:15,200
+but I'm looking forward to proofreaders who are looking to proofread
+
+188
+00:09:15,200 --> 00:09:17,730
+the translations that will be submitted to it's own page.
+
+189
+00:09:17,733 --> 00:09:21,330
+I'll be looking forward to getting applications for proofreaders
+
+190
+00:09:21,333 --> 00:09:24,960
+that are looking to proofread the translations on the Crowdin page
+
+191
+00:09:24,966 --> 00:09:26,000
+through my business email.
+
+192
+00:09:26,000 --> 00:09:28,010
+Do check out my PinCushion down in the description below
+
+193
+00:09:28,016 --> 00:09:29,110
+for the business email.
+
+194
+00:09:29,116 --> 00:09:31,540
+My only simple requirements for becoming a proofreader
+
+195
+00:09:31,549 --> 00:09:35,910
+is to prove that you have a substantial evidence
+
+196
+00:09:35,916 --> 00:09:38,930
+that you're proficient in the language that you're applying for,
+
+197
+00:09:38,933 --> 00:09:41,710
+all without losing the vibes and the meaning that I'm saying.
+
+198
+00:09:41,716 --> 00:09:45,580
+Now, you don't need to submit your certifications or your degree or anything
+
+199
+00:09:45,583 --> 00:09:48,640
+because certification to me don't really matter.
+
+200
+00:09:48,649 --> 00:09:50,630
+True skill matters instead.
+
+201
+00:09:50,633 --> 00:09:55,680
+However, please do not submit ChatGPT-looking-ass submission
+
+202
+00:09:55,683 --> 00:09:57,760
+because I won't be entertaining those
+
+203
+00:09:57,766 --> 00:10:00,140
+because AI outputs just don't reflect
+
+204
+00:10:00,149 --> 00:10:04,040
+the actual vibes that us humans give out when we're speaking.
+
+205
+00:10:04,049 --> 00:10:07,110
+So that's it, I bid y'all good luck down in the description below.
+
+206
+00:10:07,116 --> 00:10:10,600
+Now for one last brighter news, I've updated my Throne wishlist
+
+207
+00:10:10,600 --> 00:10:12,680
+so there's far more items now in my wishlist.
+
+208
+00:10:12,683 --> 00:10:16,600
+You have more choice in gifting me gifts that I have on my wishlist.
+
+209
+00:10:16,600 --> 00:10:19,430
+However, I've only added a small handful of stuff,
+
+210
+00:10:19,433 --> 00:10:22,780
+namely studio improvements like sound proofing panels
+
+211
+00:10:22,783 --> 00:10:24,610
+and random stuff that I want.
+
+212
+00:10:24,616 --> 00:10:26,510
+However, something still feels missing.
+
+213
+00:10:26,516 --> 00:10:28,780
+So please let me know in the comments below,
+
+214
+00:10:28,783 --> 00:10:31,760
+let me know what suggestions I should add into my wishlist
+
+215
+00:10:31,766 --> 00:10:34,810
+and if I should go balls to the walls to the things that I want.
+
+216
+00:10:34,816 --> 00:10:37,530
+However, there is one tiny roadblock you may think to yourself.
+
+217
+00:10:37,533 --> 00:10:38,880
+"If I donate to the Throne,
+
+218
+00:10:38,883 --> 00:10:43,160
+wouldn't that mean I won't have access to my Ko-fi early access?"
+
+219
+00:10:43,166 --> 00:10:44,760
+Hello early access viewers~?
+
+220
+00:10:44,766 --> 00:10:46,460
+Well, fear not.
+
+221
+00:10:46,466 --> 00:10:48,580
+I've actually emailed Ko-fi support
+
+222
+00:10:48,583 --> 00:10:52,390
+and they gave me a greenlight to do this workaround.
+
+223
+00:10:52,399 --> 00:10:54,390
+So if you donate on Throne,
+
+224
+00:10:54,399 --> 00:10:58,930
+as long as I obtain certain information that I can contact you in some way,
+
+225
+00:10:58,933 --> 00:11:01,680
+say namely your email address or something,
+
+226
+00:11:01,683 --> 00:11:04,310
+then I'll contact you directly over email,
+
+227
+00:11:04,316 --> 00:11:07,160
+a code you can use on Ko-fi that will discount
+
+228
+00:11:07,166 --> 00:11:10,360
+an item on my shop on Ko-fi by 99%.
+
+229
+00:11:10,366 --> 00:11:13,530
+Which means you'll only need to pay a single yen fee
+
+230
+00:11:13,533 --> 00:11:15,760
+to enter my Ko-fi exclusive content.
+
+231
+00:11:15,766 --> 00:11:17,780
+Now if you're wondering why a single yen,
+
+232
+00:11:17,783 --> 00:11:22,360
+that's because Ko-fi currently does not have 100% discount coupon at the moment
+
+233
+00:11:22,366 --> 00:11:26,360
+and I've passed that suggestion to them so hopefully they start implementing that
+
+234
+00:11:26,366 --> 00:11:29,830
+and allow me to do that kind of workaround.
+
+235
+00:11:29,833 --> 00:11:31,260
+However, as of recording this video,
+
+236
+00:11:31,266 --> 00:11:34,660
+I have not tested if this feature currently works.
+
+237
+00:11:34,666 --> 00:11:37,810
+So your mileage may heavily vary
+
+238
+00:11:37,816 --> 00:11:41,630
+but hopefully sometime around in the future, I'll get this tested
+
+239
+00:11:41,633 --> 00:11:44,760
+and I'll let you know down in the comments below whether this feature worked.
+
+240
+00:11:44,766 --> 00:11:47,980
+If it worked, I'll announce it on my discord
+
+241
+00:11:47,983 --> 00:11:52,110
+and the comments below and also in my community post
+
+242
+00:11:52,116 --> 00:11:54,980
+so I'll do some tests and I'll let you know by then.
+
+243
+00:11:54,983 --> 00:11:57,930
+Now I hope to bring more blessings and upgrades to my channel
+
+244
+00:11:57,933 --> 00:12:01,280
+in the next devlog but I'm not sure when I'll have another devlog
+
+245
+00:12:01,283 --> 00:12:02,680
+but there will be one,
+
+246
+00:12:02,683 --> 00:12:07,000
+if there's any major changes that can be compiled into one video like this.
+
+247
+00:12:07,000 --> 00:12:10,180
+But with that said, thank you all for believing in me
+
+248
+00:12:10,183 --> 00:12:12,530
+and hopefully I'll be back soon.
+
+249
+00:12:12,533 --> 00:12:15,780
+After all the backlog videos, the streams will resume.
+
+250
+00:12:15,783 --> 00:12:17,580
+There, I said it.
+
+251
+00:12:17,583 --> 00:12:20,860
+With that said, please do financially support me on Ko-fi and Throne
+
+252
+00:12:20,866 --> 00:12:24,760
+and Otsu-Melo, catch you next time!
+
+253
+00:12:28,850 --> 00:12:30,600
+I, uhh, god...
+
+254
+00:12:30,600 --> 00:12:33,530
+I haven't had that much confidence in a while now.
+
+255
+00:12:33,533 --> 00:12:36,510
+Screw off, don't bother me.
+
+256
+00:12:37,000 --> 00:12:40,110
+Ohhh, don't change anything about that.
+
+257
+00:12:40,116 --> 00:12:40,930
+Don't change anything.
+
+258
+00:12:40,933 --> 00:12:43,780
+There we go, we got it. Perfect.
+
+259
+00:12:43,833 --> 00:12:45,580
+Okay.
+
+260
+00:12:45,583 --> 00:12:48,230
+My hands were frozen.
+
+261
+00:12:48,566 --> 00:12:51,880
+Finally, I can turn on the fan now!
+
+262
+00:12:51,883 --> 00:12:53,860
+Awh, it's so hot.
+
+263
+00:12:53,866 --> 00:12:56,880
+I'm just sweating like crazy right now.
+
+264
+00:12:56,883 --> 00:12:59,080
+Fuck.
+
+265
+00:12:59,566 --> 00:13:02,700
+Cheers bloopers watchers. Cheers.
+
+266
+00:13:02,700 --> 00:13:04,530
+See ya.
+

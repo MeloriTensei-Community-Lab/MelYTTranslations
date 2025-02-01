@@ -1,0 +1,1170 @@
+﻿1
+00:00:00,516 --> 00:00:02,860
+You can tell I'm trying to keep up,
+
+2
+00:00:02,866 --> 00:00:06,760
+but I'm still editing the previous video as I'm filming this video.
+
+3
+00:00:06,766 --> 00:00:10,080
+Welcome to behind the scenes I suppose.
+
+4
+00:00:10,133 --> 00:00:10,910
+Kon-Melo.
+
+5
+00:00:10,916 --> 00:00:14,710
+This time round, this is going to be a very very different video.
+
+6
+00:00:14,716 --> 00:00:17,680
+So, it's again, once again one of those story time videos
+
+7
+00:00:17,683 --> 00:00:19,560
+that you saw in the previous video.
+
+8
+00:00:19,566 --> 00:00:21,260
+But, I'm going to be talking about a device
+
+9
+00:00:21,266 --> 00:00:24,280
+that is not alive anymore in the hands.
+
+10
+00:00:24,283 --> 00:00:27,190
+It's pretty much dead, so I can't really turn it on.
+
+11
+00:00:27,199 --> 00:00:29,130
+So this is going to be a really, really short video.
+
+12
+00:00:29,133 --> 00:00:33,450
+But, this is going to be a video that is going to get you understand
+
+13
+00:00:33,450 --> 00:00:39,430
+how I'm feeling that led to this device being quite dead.
+
+14
+00:00:39,733 --> 00:00:41,760
+It's a Razer Phone 1.
+
+15
+00:00:41,766 --> 00:00:42,480
+That's right.
+
+16
+00:00:42,483 --> 00:00:45,580
+So I bought into the old Razer Phone 1
+
+17
+00:00:45,583 --> 00:00:49,230
+because I thought to myself, man, Razer made cool product.
+
+18
+00:00:49,233 --> 00:00:53,000
+Well, at least that's what the innocent part of me used to say
+
+19
+00:00:53,000 --> 00:00:55,630
+before I learned the anarchy of businesses.
+
+20
+00:00:55,633 --> 00:00:58,030
+So, once I picked up the Razer Phone 1,
+
+21
+00:00:58,033 --> 00:01:00,810
+it was a pretty pleasant experience from the get go.
+
+22
+00:01:00,816 --> 00:01:04,160
+It was really smooth because it was one of the first phones
+
+23
+00:01:04,166 --> 00:01:06,330
+to have a higher refresh rate display.
+
+24
+00:01:06,333 --> 00:01:10,660
+And, it had a pretty decent Snapdragon 835.
+
+25
+00:01:10,666 --> 00:01:14,060
+So with a Snapdragon 835, it was pretty fast,
+
+26
+00:01:14,066 --> 00:01:15,780
+it was pretty lightning snappy smooth.
+
+27
+00:01:15,783 --> 00:01:19,160
+And, I was able to enjoy pretty much any games at smooth 60
+
+28
+00:01:19,166 --> 00:01:21,250
+with little to no issue.
+
+29
+00:01:21,250 --> 00:01:25,580
+Except, there may be some issues relating to the body of the device.
+
+30
+00:01:25,583 --> 00:01:31,110
+So, this Razer Phone is entirely made out of aluminum on the outside.
+
+31
+00:01:31,116 --> 00:01:34,650
+So, it's kind of heat conductive to many aspects.
+
+32
+00:01:34,650 --> 00:01:38,510
+So, when I was gaming on Honkai Impact,which was at the time
+
+33
+00:01:38,516 --> 00:01:42,960
+one of the most graphically demanding games on a mobile phone.
+
+34
+00:01:42,966 --> 00:01:47,210
+The vapor chamber cooling that was apparently in there was kind of cool.
+
+35
+00:01:47,216 --> 00:01:50,010
+It was working as expected really really quick.
+
+36
+00:01:50,016 --> 00:01:53,500
+But, it was getting really toasty and painful for my hands.
+
+37
+00:01:53,500 --> 00:01:56,060
+So, what did the naive little Mel did
+
+38
+00:01:56,066 --> 00:01:59,340
+to ensure that the cooling is consistent and everything?
+
+39
+00:01:59,349 --> 00:02:00,480
+She grabbed ice.
+
+40
+00:02:00,483 --> 00:02:03,610
+Put ice onto the phone.
+
+41
+00:02:03,616 --> 00:02:06,760
+Now, this is not what killed the phone however.
+
+42
+00:02:06,766 --> 00:02:10,880
+That was just what the past me did stupidly.
+
+43
+00:02:10,883 --> 00:02:14,060
+But, we'll get into what really killed the phone soon.
+
+44
+00:02:14,066 --> 00:02:16,360
+The phone really was amazing because it sounds amazing
+
+45
+00:02:16,366 --> 00:02:20,760
+albeit with Dolby Atmos and some enhancements on it.
+
+46
+00:02:20,766 --> 00:02:24,630
+But, it was a pretty well-rounded phone except for its software.
+
+47
+00:02:24,633 --> 00:02:28,280
+So, its software came in was pretty much a clean stock Android
+
+48
+00:02:28,283 --> 00:02:32,660
+with a few Razer additions to the built-in software.
+
+49
+00:02:32,666 --> 00:02:37,130
+So, like it came with Razer dedicated Dolby Atmos.
+
+50
+00:02:37,133 --> 00:02:41,190
+And, that's not much it honestly.
+
+51
+00:02:41,199 --> 00:02:42,460
+Yeah, I gotta be honest.
+
+52
+00:02:42,466 --> 00:02:44,760
+It's really really clean stock Android.
+
+53
+00:02:44,766 --> 00:02:48,130
+However, one thing I do not like about Android manufacturers
+
+54
+00:02:48,133 --> 00:02:53,530
+is their non-commitment to security updates.
+
+55
+00:02:53,533 --> 00:02:56,410
+Like I don't care if you don't add any features to it.
+
+56
+00:02:56,416 --> 00:03:02,030
+But, do some security updates because this is where the first realization
+
+57
+00:03:02,033 --> 00:03:04,900
+of Android business anarchy taught me.
+
+58
+00:03:04,900 --> 00:03:06,760
+So, my bank called me and told me
+
+59
+00:03:06,766 --> 00:03:11,710
+that my phone is slightly out of date in its security updates.
+
+60
+00:03:11,716 --> 00:03:15,430
+And, they want to make sure that I'm constantly connected with the bank app.
+
+61
+00:03:15,433 --> 00:03:20,660
+So, they told me that the next update is going to enforce this new
+
+62
+00:03:20,666 --> 00:03:24,530
+security restrictions where it checks for the update patch
+
+63
+00:03:24,533 --> 00:03:26,010
+that this current Android is on.
+
+64
+00:03:26,016 --> 00:03:31,230
+And that blocks devices with updates that are far behind over a year.
+
+65
+00:03:31,233 --> 00:03:34,910
+And, at that time I did my check and I realized that Razer
+
+66
+00:03:34,916 --> 00:03:38,510
+has not updated Android for nearly a year.
+
+67
+00:03:38,516 --> 00:03:40,160
+It was crazy long.
+
+68
+00:03:40,166 --> 00:03:42,530
+So, then I realized, okay, what do I do?
+
+69
+00:03:42,533 --> 00:03:44,760
+We can't just not use the bank app.
+
+70
+00:03:44,766 --> 00:03:46,260
+I gotta move money around.
+
+71
+00:03:46,266 --> 00:03:49,110
+So, with not many other options behind,
+
+72
+00:03:49,116 --> 00:03:51,030
+at that time I don't really have any other phones.
+
+73
+00:03:51,033 --> 00:03:53,690
+This was the only phone.
+
+74
+00:03:54,066 --> 00:03:57,380
+I brought my old iPhone back into my pocket
+
+75
+00:03:57,383 --> 00:04:00,410
+and its only job is to use the bank app.
+
+76
+00:04:00,416 --> 00:04:01,930
+It's not being my daily driver.
+
+77
+00:04:01,933 --> 00:04:02,730
+No, no, no.
+
+78
+00:04:02,733 --> 00:04:04,060
+It's not doing any of the sort.
+
+79
+00:04:04,066 --> 00:04:07,310
+All it does is be my bank app.
+
+80
+00:04:07,316 --> 00:04:10,310
+You may think it sounds stupid, but think about this.
+
+81
+00:04:10,316 --> 00:04:11,730
+It's an iPhone 6.
+
+82
+00:04:11,733 --> 00:04:12,830
+It's starting to get old.
+
+83
+00:04:12,833 --> 00:04:15,260
+It's starting to get a little chuggy chuggy laggy.
+
+84
+00:04:15,266 --> 00:04:17,880
+How would you expect me to move everything back there
+
+85
+00:04:17,883 --> 00:04:19,160
+and daily drive it again?
+
+86
+00:04:19,166 --> 00:04:21,460
+Especially when the battery was very very dead.
+
+87
+00:04:21,466 --> 00:04:23,730
+I mean, if you have seen my videos,
+
+88
+00:04:23,733 --> 00:04:27,680
+you will realize that I exchanged this battery just this year.
+
+89
+00:04:27,683 --> 00:04:30,690
+So, you could tell how dead that battery was.
+
+90
+00:04:30,699 --> 00:04:33,640
+So, it was kind of disappointing to me and I thought to myself,
+
+91
+00:04:33,649 --> 00:04:35,600
+"okay, maybe I could do something about it."
+
+92
+00:04:35,600 --> 00:04:38,210
+Maybe I could delve into the custom Android ROM.
+
+93
+00:04:38,216 --> 00:04:39,780
+Maybe that could help me a little.
+
+94
+00:04:39,783 --> 00:04:44,830
+However, here's another problem I have with Razer at that time.
+
+95
+00:04:44,833 --> 00:04:47,910
+They had really poor quality control
+
+96
+00:04:47,916 --> 00:04:50,860
+for the software implementation of the phone.
+
+97
+00:04:50,866 --> 00:04:54,100
+Or if I want to put it in the more advanced way,
+
+98
+00:04:54,100 --> 00:04:57,030
+the bootloader and the recovery is broken.
+
+99
+00:04:57,033 --> 00:04:58,080
+From the factory.
+
+100
+00:04:58,083 --> 00:04:59,850
+Broken from the factory.
+
+101
+00:04:59,850 --> 00:05:01,280
+How is that possible?
+
+102
+00:05:01,283 --> 00:05:04,980
+All I wanted to do was flash a new update or at least
+
+103
+00:05:04,983 --> 00:05:07,360
+have a clean flash of the stock ROM.
+
+104
+00:05:07,366 --> 00:05:13,010
+And that alone, the flashing script alone, bricked this phone.
+
+105
+00:05:13,016 --> 00:05:14,960
+Because, you want to know why?
+
+106
+00:05:14,966 --> 00:05:17,410
+So, what happened was, when I was flashing,
+
+107
+00:05:17,416 --> 00:05:21,010
+I realized that this phone can only accept one command at a time.
+
+108
+00:05:21,016 --> 00:05:23,660
+And it cannot accept a series of commands.
+
+109
+00:05:23,666 --> 00:05:27,030
+Which is what the install all script was supposed to do.
+
+110
+00:05:27,033 --> 00:05:29,850
+If you look into the zip file of the stock ROM,
+
+111
+00:05:29,850 --> 00:05:33,460
+you would see that inside there is an install-all.sh.
+
+112
+00:05:33,466 --> 00:05:35,280
+That's the script you're supposed to be running
+
+113
+00:05:35,283 --> 00:05:36,910
+to flash pretty much everything.
+
+114
+00:05:36,916 --> 00:05:39,330
+It's kind of pretty much what Project Treble
+
+115
+00:05:39,333 --> 00:05:40,630
+was supposed to do top to bottom.
+
+116
+00:05:40,633 --> 00:05:41,730
+With the vendor...
+
+117
+00:05:41,733 --> 00:05:46,980
+with the vendor drivers, system image, bootloader, everything.
+
+118
+00:05:46,983 --> 00:05:48,430
+All in a sequence.
+
+119
+00:05:48,433 --> 00:05:53,160
+Unfortunately, it froze midway and then it cuts itself off.
+
+120
+00:05:53,166 --> 00:05:55,880
+Connection drops after the first command.
+
+121
+00:05:55,883 --> 00:05:58,050
+Which coincidentally, was to tell it
+
+122
+00:05:58,050 --> 00:06:01,890
+to go to the different partition to flash something.
+
+123
+00:06:01,899 --> 00:06:03,630
+I don't really know what it was.
+
+124
+00:06:03,633 --> 00:06:07,410
+I just know that it told it to flash to the different side
+
+125
+00:06:07,416 --> 00:06:09,180
+and then that's the end of the story.
+
+126
+00:06:09,183 --> 00:06:11,930
+And ever since then, I've not been able to boot this phone.
+
+127
+00:06:11,933 --> 00:06:14,310
+So I decided, okay, let's drain the battery,
+
+128
+00:06:14,316 --> 00:06:17,460
+do the standard procedure that everyone tells you on Reddit.
+
+129
+00:06:17,466 --> 00:06:20,910
+Drain the battery and then plug it, charge it back up, whatever.
+
+130
+00:06:20,916 --> 00:06:21,890
+I've did everything.
+
+131
+00:06:21,899 --> 00:06:25,110
+Nothing brings it back up anymore.
+
+132
+00:06:25,116 --> 00:06:28,610
+Now there are some heat created by the power management IC,
+
+133
+00:06:28,616 --> 00:06:30,180
+but that's all there is to it.
+
+134
+00:06:30,183 --> 00:06:32,330
+No other parts of the phone started heating up
+
+135
+00:06:32,333 --> 00:06:33,860
+or anything during charging.
+
+136
+00:06:33,866 --> 00:06:36,660
+I thought to myself, that's pretty much the end of it, isn't it?
+
+137
+00:06:36,666 --> 00:06:38,760
+Like I got no phone anymore.
+
+138
+00:06:38,766 --> 00:06:41,410
+So I ended up daily driving this iPhone 6 again.
+
+139
+00:06:41,416 --> 00:06:45,800
+Which is kind of a grim story if you tell me.
+
+140
+00:06:45,800 --> 00:06:48,760
+Man, Razer, why are you such a disappointing company?
+
+141
+00:06:48,766 --> 00:06:52,210
+Now Razer, if you have not been updating security updates
+
+142
+00:06:52,216 --> 00:06:55,880
+for your Razer Phone 2, I'll be deeply disappointed in you.
+
+143
+00:06:55,883 --> 00:06:59,350
+In fact, if you're not going to make a Razer Phone 3, so be it.
+
+144
+00:06:59,350 --> 00:07:01,930
+We don't want to see you anymore in the phone space.
+
+145
+00:07:01,933 --> 00:07:06,800
+Because it was getting really close to being a Treble-perfect phone.
+
+146
+00:07:06,800 --> 00:07:08,510
+Like an alternative to Pixels.
+
+147
+00:07:08,516 --> 00:07:11,960
+But they screwed up everything with the quality control of the phone.
+
+148
+00:07:11,966 --> 00:07:17,910
+Everything is just lackluster and filled with unanswered questions
+
+149
+00:07:17,916 --> 00:07:20,810
+by the community to the Razer support.
+
+150
+00:07:20,816 --> 00:07:24,810
+Like if you go up to Razer Phone on the subreddit,
+
+151
+00:07:24,816 --> 00:07:26,760
+you see a whole lot of people facing issues
+
+152
+00:07:26,766 --> 00:07:30,530
+and have not had so much success with the customer support.
+
+153
+00:07:30,533 --> 00:07:33,080
+If anything, the closest they can do is just RMA it
+
+154
+00:07:33,083 --> 00:07:34,430
+and that's all there is to it.
+
+155
+00:07:34,433 --> 00:07:38,230
+So this is my personal terrible experience with the Razer Phone.
+
+156
+00:07:38,233 --> 00:07:41,980
+And this is what led to me holding on to a dead relic.
+
+157
+00:07:41,983 --> 00:07:43,880
+I've actually torn down this phone before.
+
+158
+00:07:43,883 --> 00:07:46,810
+So you can see that the speaker grills are gone.
+
+159
+00:07:46,816 --> 00:07:48,060
+Which is not really a grill
+
+160
+00:07:48,066 --> 00:07:50,010
+as you can see now that we've taken it off.
+
+161
+00:07:50,016 --> 00:07:51,730
+Like the speakers right here.
+
+162
+00:07:51,733 --> 00:07:53,480
+And then there's another down here.
+
+163
+00:07:53,483 --> 00:07:54,100
+That's it.
+
+164
+00:07:54,100 --> 00:07:57,260
+Whatever is over here is completely jack shit nothing.
+
+165
+00:07:57,266 --> 00:07:58,510
+And that's the camera,
+
+166
+00:07:58,516 --> 00:08:00,750
+that's probably the proximity sensor and stuff.
+
+167
+00:08:00,750 --> 00:08:02,030
+That's it.
+
+168
+00:08:02,033 --> 00:08:03,110
+That's all there is to it.
+
+169
+00:08:03,116 --> 00:08:06,060
+So I know the Razer Phone 1 was supposed
+
+170
+00:08:06,066 --> 00:08:09,580
+to be like a spiritual successor to the…
+
+171
+00:08:09,583 --> 00:08:11,730
+What was that dead company phone called?
+
+172
+00:08:11,733 --> 00:08:15,310
+So the Razer Phone was supposed to be a spiritual successor
+
+173
+00:08:15,316 --> 00:08:16,960
+to the Nexbit Robin.
+
+174
+00:08:16,966 --> 00:08:19,010
+I don't know what happened to the Nexbit Robin,
+
+175
+00:08:19,016 --> 00:08:23,530
+but this phone was pretty much one-on-one to the Nexbit Robin,
+
+176
+00:08:23,533 --> 00:08:26,030
+but with more gaming specs onto it.
+
+177
+00:08:26,033 --> 00:08:29,780
+And I gotta be honest, I am really disappointed.
+
+178
+00:08:29,783 --> 00:08:33,780
+This phone could be the simplest gaming phone in the entire world.
+
+179
+00:08:33,783 --> 00:08:37,730
+Well too bad, REDMAGIC has taken over this part of the category.
+
+180
+00:08:37,733 --> 00:08:39,250
+So, eh.
+
+181
+00:08:39,250 --> 00:08:41,950
+But yeah, this is the saddest story
+
+182
+00:08:41,950 --> 00:08:44,390
+I've ever had when it comes to an Android phone.
+
+183
+00:08:44,399 --> 00:08:46,850
+But that's not the end of the story unfortunately.
+
+184
+00:08:46,850 --> 00:08:48,950
+So without a mobile phone, I thought,
+
+185
+00:08:48,950 --> 00:08:53,790
+"okay, how am I gonna communicate with my groupmates in university?"
+
+186
+00:08:53,799 --> 00:08:57,390
+Well, this iPhone is technically doing the job,
+
+187
+00:08:57,399 --> 00:08:59,830
+but it's starting to show its age
+
+188
+00:08:59,833 --> 00:09:03,510
+and I have to bring a battery bank with me pretty much all the goddamn time.
+
+189
+00:09:03,516 --> 00:09:05,580
+Not to mention, in my pocket.
+
+190
+00:09:05,583 --> 00:09:07,860
+Not in the bag, in my pocket.
+
+191
+00:09:07,866 --> 00:09:10,290
+Because this phone dies so quickly
+
+192
+00:09:10,299 --> 00:09:12,560
+that it only lasts 30 minutes of its lifetime.
+
+193
+00:09:12,566 --> 00:09:16,880
+So I have to pretty much stay on tether pretty much most of the time.
+
+194
+00:09:16,883 --> 00:09:19,810
+Think of it like the phone is on life support
+
+195
+00:09:19,816 --> 00:09:23,130
+and I have to make sure that I don't end it, I guess.
+
+196
+00:09:23,133 --> 00:09:29,390
+So with pure desperation, and luckily I was on a contract with a telco,
+
+197
+00:09:29,399 --> 00:09:32,140
+I thought to myself, okay, let's buy a contract phone.
+
+198
+00:09:32,149 --> 00:09:36,380
+For a cheap low low price of 100 yen,
+
+199
+00:09:37,100 --> 00:09:39,890
+I got myself a Redmi Note 7.
+
+200
+00:09:39,899 --> 00:09:44,360
+That's right, the Redmi Note 7 is pretty much the cheapest contract phone
+
+201
+00:09:44,366 --> 00:09:45,410
+I've ever picked up.
+
+202
+00:09:45,416 --> 00:09:47,480
+Though the phone has been pretty decent.
+
+203
+00:09:47,483 --> 00:09:50,710
+There were some continuous security updates,
+
+204
+00:09:50,716 --> 00:09:52,380
+but it's not that frequent.
+
+205
+00:09:52,383 --> 00:09:55,710
+But let's be honest, it's always with the Chinese phone manufacturers
+
+206
+00:09:55,716 --> 00:09:58,380
+that always never promises on updates.
+
+207
+00:09:58,383 --> 00:10:03,760
+So I can't really expect much, but they have gone through a major update,
+
+208
+00:10:03,766 --> 00:10:06,830
+which was long enough for me to pick up a phone.
+
+209
+00:10:06,833 --> 00:10:08,630
+Or a phone.
+
+210
+00:10:08,633 --> 00:10:12,080
+So I picked up the Samsung Galaxy S10.
+
+211
+00:10:12,083 --> 00:10:14,350
+Unfortunately, the S10 is not with me anymore,
+
+212
+00:10:14,350 --> 00:10:16,890
+because you will not believe this story,
+
+213
+00:10:16,899 --> 00:10:18,830
+which is kind of crazy in my opinion.
+
+214
+00:10:18,833 --> 00:10:21,280
+So what happened is my mom dropped her* phone,
+
+215
+00:10:21,283 --> 00:10:25,260
+which was a Galaxy S8, and it shattered the touchscreen.
+
+216
+00:10:25,266 --> 00:10:28,530
+Like not just the glass, all the way down to the digitizer.
+
+217
+00:10:28,533 --> 00:10:30,250
+Complete shattered.
+
+218
+00:10:30,250 --> 00:10:31,510
+And it was unusable.
+
+219
+00:10:31,516 --> 00:10:35,540
+And she thought to herself, "oh god, I should probably get a new phone."
+
+220
+00:10:35,549 --> 00:10:38,380
+And then I told her, "you know what, fine,
+
+221
+00:10:38,383 --> 00:10:41,810
+I'll just sell my phone to you, and then I'll get a brand new one."
+
+222
+00:10:41,816 --> 00:10:45,980
+And that's how the Galaxy Note 10 Plus that you've been seeing
+
+223
+00:10:45,983 --> 00:10:49,660
+in the previous videos all these times, came to be.
+
+224
+00:10:49,666 --> 00:10:54,180
+So this is my goofy ass experience with Android phones.
+
+225
+00:10:54,183 --> 00:10:59,540
+It was such a crazy anarchy, that it made me jump back to iPhones.
+
+226
+00:10:59,549 --> 00:11:02,060
+Not because of these bad experiences,
+
+227
+00:11:02,066 --> 00:11:06,600
+but the anarchy of business that happens in the business world.
+
+228
+00:11:06,600 --> 00:11:11,530
+It's kind of more to favor the business people, than to favor the user.
+
+229
+00:11:11,533 --> 00:11:15,860
+So if I can't run with a phone for more than 4 years,
+
+230
+00:11:15,866 --> 00:11:19,700
+without it running into serious, fatal problems every time,
+
+231
+00:11:19,700 --> 00:11:22,850
+why should I be trusting a certain company for that?
+
+232
+00:11:22,850 --> 00:11:27,410
+So I've kind of lost my mind, and I went for an iPhone 12 Pro Max.
+
+233
+00:11:27,416 --> 00:11:29,910
+But I don't regret getting an iPhone 12 Pro Max.
+
+234
+00:11:29,916 --> 00:11:32,130
+I'm there for the performance, not the wall garden.
+
+235
+00:11:32,133 --> 00:11:36,950
+I've said multiple times on the Alternative Apps video in iOS,
+
+236
+00:11:36,950 --> 00:11:41,080
+that I use phones mainly for the performance and longevity.
+
+237
+00:11:41,083 --> 00:11:43,410
+And I couldn't care less about the ecosystem.
+
+238
+00:11:43,416 --> 00:11:46,700
+The ecosystem has nothing to do with me at the moment,
+
+239
+00:11:46,700 --> 00:11:50,100
+because I don't really care too much about customizability,
+
+240
+00:11:50,100 --> 00:11:54,010
+and sideloading is kind of a side thing to me, honestly.
+
+241
+00:11:54,016 --> 00:11:56,040
+It doesn't really affect me as much.
+
+242
+00:11:56,049 --> 00:11:57,710
+So there you have it.
+
+243
+00:11:57,716 --> 00:11:59,660
+This is another crazy story,
+
+244
+00:11:59,666 --> 00:12:03,890
+and I hope this doesn't come off as an anti-Android, pro-Apple
+
+245
+00:12:03,899 --> 00:12:05,960
+kind of looking ass video.
+
+246
+00:12:05,966 --> 00:12:07,760
+I am not siding with any side.
+
+247
+00:12:07,766 --> 00:12:10,430
+I still think Android has a lot of potential,
+
+248
+00:12:10,433 --> 00:12:15,480
+and Google is still making some teeny tiny strides on making it better.
+
+249
+00:12:15,483 --> 00:12:17,830
+But they also have a lot of L's,
+
+250
+00:12:17,833 --> 00:12:20,380
+especially from, as of the time of filming,
+
+251
+00:12:20,383 --> 00:12:24,350
+Google Play started rolling out a new, I wouldn't call it an API,
+
+252
+00:12:24,350 --> 00:12:28,360
+but a flag that allows developers to prohibit people from sideloading
+
+253
+00:12:28,366 --> 00:12:31,000
+a certain app of their making.
+
+254
+00:12:31,000 --> 00:12:33,200
+But I don't think that's too big of an issue.
+
+255
+00:12:33,200 --> 00:12:36,890
+I think this is more of a security concern for, say, bank apps
+
+256
+00:12:36,899 --> 00:12:37,810
+and stuff like that.
+
+257
+00:12:37,816 --> 00:12:41,880
+But the fact that Google did not address it specifically for bank apps,
+
+258
+00:12:41,883 --> 00:12:44,710
+kind of goes to show that they couldn't really care less
+
+259
+00:12:44,716 --> 00:12:47,260
+about the freedom of Android users.
+
+260
+00:12:47,266 --> 00:12:49,100
+But I got my fair share to burn on Apple.
+
+261
+00:12:49,100 --> 00:12:52,110
+But with all the ecosystem thingy out of the way,
+
+262
+00:12:52,116 --> 00:12:54,480
+I honestly don't have much opinion about it.
+
+263
+00:12:54,483 --> 00:12:57,780
+Because I've been using this iPhone 12 for four years now.
+
+264
+00:12:57,783 --> 00:13:02,380
+I mean, just a few weeks it will be four years old from the time of filming.
+
+265
+00:13:02,383 --> 00:13:04,410
+And the battery still kind of stands.
+
+266
+00:13:04,416 --> 00:13:06,980
+And considering how consistent Apple has been
+
+267
+00:13:06,983 --> 00:13:09,380
+with their software updates with their phones,
+
+268
+00:13:09,383 --> 00:13:12,710
+I would like to service the battery and keep going with it.
+
+269
+00:13:12,716 --> 00:13:14,630
+Especially when I'm at this time
+
+270
+00:13:14,633 --> 00:13:17,230
+where I actually cannot afford any other phones.
+
+271
+00:13:17,233 --> 00:13:19,210
+I seriously don't have any money.
+
+272
+00:13:19,216 --> 00:13:21,790
+And I'm still trying to grasp onto dear life.
+
+273
+00:13:21,799 --> 00:13:23,750
+Trying to make the best out of the content
+
+274
+00:13:23,750 --> 00:13:25,410
+and best out of my life for you,
+
+275
+00:13:25,416 --> 00:13:29,010
+for everyone who's watching this video in these tough times.
+
+276
+00:13:29,016 --> 00:13:30,630
+But yeah, anyways, with that said,
+
+277
+00:13:30,633 --> 00:13:32,600
+thank you so much for chilling with me.
+
+278
+00:13:32,600 --> 00:13:34,110
+And be sure to subscribe.
+
+279
+00:13:34,116 --> 00:13:36,410
+Be sure to share me around in all your socials
+
+280
+00:13:36,416 --> 00:13:37,890
+if you do kind of enjoy me.
+
+281
+00:13:37,899 --> 00:13:40,500
+And suggest more content, I guess.
+
+282
+00:13:40,500 --> 00:13:43,330
+What kind of content do you want to watch out of me?
+
+283
+00:13:43,333 --> 00:13:44,710
+And I don't know.
+
+284
+00:13:44,716 --> 00:13:46,290
+If you want to hear more story times out of me,
+
+285
+00:13:46,299 --> 00:13:48,110
+let me know in the comments below.
+
+286
+00:13:48,116 --> 00:13:52,450
+And with that said, I hope you like this anarchy of an Android story.
+
+287
+00:13:52,450 --> 00:13:53,660
+And I'll see you guys next time.
+
+288
+00:13:53,666 --> 00:13:55,480
+OtsuMelo deshita.
+
+289
+00:13:55,483 --> 00:13:57,980
+Woo~
+
+290
+00:14:02,783 --> 00:14:08,610
+[Ko-fi] Thank you for supporting me financially!
+Member: Jo
+
+291
+00:14:09,383 --> 00:14:17,730
+[MeloriTensei 転性メロリ] Thank you for watching!
+Check out my other contents!
+
+292
+00:14:17,733 --> 00:14:19,960
+Sheesh.
+

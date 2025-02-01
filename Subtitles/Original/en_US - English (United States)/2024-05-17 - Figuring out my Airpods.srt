@@ -1,0 +1,1159 @@
+1
+00:00:02,960 --> 00:00:03,960
+AirPods.
+
+2
+00:00:03,960 --> 00:00:07,240
+That's right, in case you were 
+wondering, I was a former Apple user.
+
+3
+00:00:07,240 --> 00:00:13,520
+Even though I still use the iPhone 12 Pro Max, the 
+AirPods is a pretty disappointing device for me.
+
+4
+00:00:13,520 --> 00:00:18,520
+Because in my personal opinion, it sounds 
+pretty good, but not for its price.
+
+5
+00:00:18,520 --> 00:00:21,160
+The only reason why I held on to a pair of AirPods
+
+6
+00:00:21,160 --> 00:00:25,760
+is primarily because I used to have 
+issues having earbuds in my ear.
+
+7
+00:00:25,760 --> 00:00:31,080
+So if you know these kinds of in-ear earphones 
+that we all currently know and actively use,
+
+8
+00:00:31,080 --> 00:00:35,960
+I have severe issues getting either 
+of them into my teeny tiny ear canal
+
+9
+00:00:35,960 --> 00:00:38,120
+that would just make these earphones slip out,
+
+10
+00:00:38,120 --> 00:00:40,080
+which is pretty fucking sad for me.
+
+11
+00:00:40,080 --> 00:00:45,520
+And lucky for me, a pair of AirPods still has 
+these classic designs that are not in-ear,
+
+12
+00:00:45,520 --> 00:00:51,040
+which is also why I picked up a pair of 
+AirPods 3rd gen instead of the AirPods Pro 2.
+
+13
+00:00:51,040 --> 00:00:53,120
+Now recently, I've ran into a problem.
+
+14
+00:00:53,120 --> 00:00:54,880
+The AirPods are crackling.
+
+15
+00:00:54,880 --> 00:00:58,520
+The AirPods made a crackling noise, 
+and I don't know where it came from.
+
+16
+00:00:58,520 --> 00:01:01,400
+All I know is that whenever 
+I play some bassy noises,
+
+17
+00:01:01,400 --> 00:01:04,680
+it starts making serious level crackling noises.
+
+18
+00:01:04,680 --> 00:01:07,200
+And since I'm already using my 
+iPhone as my tracking camera,
+
+19
+00:01:07,200 --> 00:01:11,920
+there are no other better device that 
+I can use to illustrate this problem.
+
+20
+00:01:13,302 --> 00:01:14,400
+Look who's back.
+
+21
+00:01:14,400 --> 00:01:17,280
+Now if you've seen my previous AOSP video,
+
+22
+00:01:17,280 --> 00:01:18,800
+you would know that I announced that
+
+23
+00:01:18,800 --> 00:01:22,120
+I'm going to daily drive 
+crDroid as my primary firmware.
+
+24
+00:01:22,120 --> 00:01:27,434
+And ever since then, I've started doing a 
+lot of tweaking to suit a certain theme.
+
+25
+00:01:29,160 --> 00:01:31,920
+That's right, it's Ruby Rose from RWBY.
+
+26
+00:01:31,920 --> 00:01:33,440
+Now you may be wondering to yourself,
+
+27
+00:01:33,440 --> 00:01:36,640
+why the hell am I using an Android 
+phone to illustrate the problem?
+
+28
+00:01:36,640 --> 00:01:39,080
+The truth of the matter is, I don't give a damn.
+
+29
+00:01:39,080 --> 00:01:42,280
+Or more accurately, I do not 
+have any other Apple devices.
+
+30
+00:01:42,280 --> 00:01:45,600
+So to solve this problem, I've 
+got an AirPods companion app.
+
+31
+00:01:45,600 --> 00:01:48,040
+And thanks to our great 
+sponsor at Darken Development
+
+32
+00:01:48,040 --> 00:01:49,940
+for making my content creation possible.
+
+33
+00:01:49,940 --> 00:01:52,920
+So if you've heard of my 
+sponsors for the past two videos,
+
+34
+00:01:52,920 --> 00:01:55,920
+particularly the Skirt video and the AOSP video,
+
+35
+00:01:55,920 --> 00:01:59,160
+then you would know that SD 
+Maid SE is a great junk cleaner.
+
+36
+00:01:59,160 --> 00:02:01,560
+Now this time, I'd like to 
+have a little plot twist.
+
+37
+00:02:01,560 --> 00:02:03,640
+Since we're talking about the AirPods,
+
+38
+00:02:03,640 --> 00:02:06,960
+I'm going to promote his other app, CAPod instead.
+
+39
+00:02:06,960 --> 00:02:12,640
+So CAPod is basically Darken's AirPods companion 
+that you can use alongside your AirPods.
+
+40
+00:02:12,640 --> 00:02:16,640
+Though because of Apple's limitation, you 
+can't really do much, but let's be real.
+
+41
+00:02:16,640 --> 00:02:19,160
+Whatever this app can't do, other apps can't do.
+
+42
+00:02:19,160 --> 00:02:24,080
+So this means the CarPod app is one of the 
+best AirPods companion that I've ever seen.
+
+43
+00:02:24,080 --> 00:02:26,360
+Now let's just start illustrating 
+this idea real quick.
+
+44
+00:02:26,360 --> 00:02:30,235
+So I've opened up the lid and 
+immediately it should show up on screen.
+
+45
+00:02:30,400 --> 00:02:31,520
+Ey, there we go.
+
+46
+00:02:31,520 --> 00:02:33,480
+We got the battery information.
+
+47
+00:02:33,480 --> 00:02:34,760
+We got all that stuff.
+
+48
+00:02:34,760 --> 00:02:38,440
+There are times where things get a 
+little bit funny, but that's fine.
+
+49
+00:02:38,440 --> 00:02:39,800
+As long as you can see your own,
+
+50
+00:02:39,800 --> 00:02:44,920
+where you can see the left pod and the right 
+pod are fully charged and the case is 60%.
+
+51
+00:02:44,920 --> 00:02:48,400
+Well, this number 60% is not necessarily accurate.
+
+52
+00:02:48,400 --> 00:02:51,120
+Because on my iPhone, it says 69%.
+
+53
+00:02:51,120 --> 00:02:54,400
+That's primarily because Apple 
+has done a couple of tomfoolery
+
+54
+00:02:54,400 --> 00:02:59,120
+that restricts data that can be seen by other 
+devices that are outside of Apple devices.
+
+55
+00:02:59,120 --> 00:03:05,200
+So basically anything non-Apple would end 
+up seeing other stuff or just false numbers,
+
+56
+00:03:05,200 --> 00:03:07,160
+such as the battery info being one of them.
+
+57
+00:03:07,160 --> 00:03:09,240
+So I'm sorry, fellow Android fans.
+
+58
+00:03:09,240 --> 00:03:11,400
+There's nothing much you can do about this.
+
+59
+00:03:11,400 --> 00:03:13,120
+This affects everyone.
+
+60
+00:03:13,120 --> 00:03:16,400
+Now getting straight back to the 
+point, let's take out one of the pods.
+
+61
+00:03:17,040 --> 00:03:22,800
+We've got the right pod out and we're going 
+to play a particularly bass heavy audio.
+
+62
+00:03:22,800 --> 00:03:25,560
+As we play out this horrendously bass heavy audio,
+
+63
+00:03:25,560 --> 00:03:29,400
+you're going to be able to hear ridiculous 
+sounds coming out of this thing.
+
+64
+00:03:29,400 --> 00:03:31,534
+And I'm going to put it near the microphone.
+
+65
+00:03:43,240 --> 00:03:46,240
+You can clearly tell this 
+is not the intended effect.
+
+66
+00:03:46,240 --> 00:03:47,600
+Isn't it ridiculous?
+
+67
+00:03:47,600 --> 00:03:50,800
+Right, so today's video is going to 
+be, we're going to crack it open
+
+68
+00:03:50,800 --> 00:03:54,080
+and find out what's wrong 
+with these pairs of AirPods.
+
+69
+00:03:54,080 --> 00:03:57,160
+Oh, did I mention this problem 
+shows on the other side as well?
+
+70
+00:03:57,160 --> 00:04:00,080
+So we're probably going to crack 
+the other side open as well.
+
+71
+00:04:00,080 --> 00:04:03,120
+Right. With that said, we're going to 
+shut off this device as usual.
+
+72
+00:04:03,120 --> 00:04:06,840
+I'm going to move it away, get it out of 
+sight because we don't need it at the moment.
+
+73
+00:04:06,840 --> 00:04:12,200
+Enter your little companion, iFixit toolkit.
+
+74
+00:04:12,200 --> 00:04:15,560
+That's right. I've been the owner of the 
+iFixit toolkit for a while now.
+
+75
+00:04:15,560 --> 00:04:19,520
+And when I say a while, I mean 
+like many, many years actually.
+
+76
+00:04:19,520 --> 00:04:21,480
+So I figured, let's put it to good use
+
+77
+00:04:21,480 --> 00:04:26,320
+and see if we can dismantle at least one side 
+of the AirPods and figure out what went wrong.
+
+78
+00:04:26,320 --> 00:04:30,760
+Because I hear pretty much exactly 
+the same issue from both sides.
+
+79
+00:04:30,760 --> 00:04:33,920
+So I assume this issue is going to be,
+
+80
+00:04:33,920 --> 00:04:37,600
+if it happens on one side, it should show 
+up the same on the other side as well.
+
+81
+00:04:37,600 --> 00:04:40,400
+Now I may be no expert at opening up electronics,
+
+82
+00:04:40,400 --> 00:04:42,200
+but I have done some bits of research
+
+83
+00:04:42,200 --> 00:04:45,800
+and you're going to need a spudger 
+tool and a pry tool of some sort.
+
+84
+00:04:45,800 --> 00:04:48,760
+And when things get really difficult, 
+you're going to need some tweezers.
+
+85
+00:04:48,760 --> 00:04:51,760
+I highly recommend plastic tweezers if possible,
+
+86
+00:04:51,760 --> 00:04:55,800
+but the iFixit ProTech Toolkit 
+only includes these sets for me.
+
+87
+00:04:55,800 --> 00:04:59,360
+I mean, there are more, but these are 
+the ones that I can work with so far.
+
+88
+00:04:59,360 --> 00:05:01,120
+So I'm going to try to pry it open.
+
+89
+00:05:01,120 --> 00:05:03,640
+So according to the guides that I see online,
+
+90
+00:05:03,640 --> 00:05:08,080
+many of which needed you to 
+have a vice or a knife tool.
+
+91
+00:05:08,080 --> 00:05:10,080
+However, in the middle of some nights,
+
+92
+00:05:10,080 --> 00:05:14,040
+I woke up and I realized 
+something hectically ridiculous.
+
+93
+00:05:14,040 --> 00:05:18,600
+If you have sheer muscles and you 
+squeeze from the bottom and the top,
+
+94
+00:05:18,600 --> 00:05:21,680
+you would notice that there 
+is an opening in the middle.
+
+95
+00:05:21,680 --> 00:05:24,000
+Something that the knife 
+tool should have gotten into,
+
+96
+00:05:24,000 --> 00:05:26,760
+but for some reason, mine was cracked open.
+
+97
+00:05:26,760 --> 00:05:29,640
+So we're going to try to pry it 
+by sheer force by pressing on it
+
+98
+00:05:29,640 --> 00:05:31,943
+and get the spudger tool in there.
+
+99
+00:05:34,200 --> 00:05:35,760
+Oh, oh, did you see that opening?
+
+100
+00:05:35,760 --> 00:05:36,720
+Did you see that opening?
+
+101
+00:05:36,720 --> 00:05:38,240
+Did you see it open for a brief second?
+
+102
+00:05:38,240 --> 00:05:38,920
+Did you see that?
+
+103
+00:05:38,920 --> 00:05:39,680
+What the fuck?
+
+104
+00:05:39,680 --> 00:05:42,920
+Holy fucking shit, this is nerve wracking.
+
+105
+00:05:42,920 --> 00:05:44,680
+We cracked open the AirPods.
+
+106
+00:05:44,680 --> 00:05:46,480
+Let's see what's inside of it.
+
+107
+00:05:46,480 --> 00:05:50,360
+So according to a guide, it 
+says to be extremely careful
+
+108
+00:05:50,360 --> 00:05:53,920
+because there are ribbon 
+cables that are nestled inside.
+
+109
+00:05:53,920 --> 00:05:57,520
+So we're going to go in with extreme caution.
+
+110
+00:05:57,520 --> 00:06:02,720
+I don't think the direction matters, I 
+think, as long as you manage to pull it open.
+
+111
+00:06:02,720 --> 00:06:03,400
+Well, there we go.
+
+112
+00:06:03,400 --> 00:06:04,960
+We got it open.
+
+113
+00:06:04,960 --> 00:06:10,240
+And then you can see like there's 
+a Z-line ribbon cable like that.
+
+114
+00:06:10,240 --> 00:06:12,760
+So when you pull it open, try 
+not to pull it all the way
+
+115
+00:06:12,760 --> 00:06:16,320
+because you can see that 
+this cable is hyper fragile.
+
+116
+00:06:16,320 --> 00:06:17,680
+Really really fragile.
+
+117
+00:06:17,680 --> 00:06:20,520
+So I'm going to start assuming things.
+
+118
+00:06:20,520 --> 00:06:25,000
+Presumably, right here is the battery 
+and over this side is the driver.
+
+119
+00:06:25,000 --> 00:06:28,760
+So that means if we want to figure 
+out what's wrong with the audio,
+
+120
+00:06:28,760 --> 00:06:32,240
+we're going to need to get into the 
+front of the driver, which is right here.
+
+121
+00:06:32,240 --> 00:06:35,120
+So what we need to do is,
+
+122
+00:06:35,120 --> 00:06:42,680
+presumably from the sight of it, I can see 
+some glue looking paste around this thing.
+
+123
+00:06:42,680 --> 00:06:50,280
+So presumably we'll have to cut through 
+it or pull it out in some shape or form.
+
+124
+00:06:50,280 --> 00:06:57,200
+With extreme caution, I'm probably going to 
+resort to using one of the angle tweezers
+
+125
+00:06:57,200 --> 00:07:03,160
+to try pull out presumably any of the glue points.
+
+126
+00:07:03,160 --> 00:07:08,920
+Holy crap, it's really really hard 
+to work with on a pair of gloves.
+
+127
+00:07:08,920 --> 00:07:12,080
+Let alone working barehanded, holy.
+
+128
+00:07:12,080 --> 00:07:14,040
+Oh wait, I'm looking at the wrong side.
+
+129
+00:07:14,040 --> 00:07:16,960
+Oh wait, I see some sort of opening.
+
+130
+00:07:16,960 --> 00:07:21,960
+If you can see, somewhere around the opposite 
+of where the driver is coming out from,
+
+131
+00:07:21,960 --> 00:07:26,960
+like back here at the back, there is 
+like a little tiny slit that seems like
+
+132
+00:07:26,960 --> 00:07:30,440
+you can kind of pry into 
+without hurting the thing.
+
+133
+00:07:30,440 --> 00:07:36,000
+So I'm probably going to get this plastic 
+pry tool to see if I can get into it first.
+
+134
+00:07:36,000 --> 00:07:38,360
+I'm not, I can't really guarantee success,
+
+135
+00:07:38,360 --> 00:07:43,360
+but I think we could be able to get 
+something, some infos out of it.
+
+136
+00:07:43,360 --> 00:07:45,480
+Okay, this thing is a bit too thick.
+
+137
+00:07:45,480 --> 00:07:48,840
+We probably need to get a 
+thinner tool like these tweezers.
+
+138
+00:07:48,840 --> 00:07:52,920
+Now working with electronics 
+like these are really fragile
+
+139
+00:07:52,920 --> 00:07:56,920
+and they tend to break off really 
+easily, so please please please,
+
+140
+00:07:56,920 --> 00:08:00,920
+if you don't know what you're doing, 
+please do not, do not attempt this.
+
+141
+00:08:00,920 --> 00:08:04,560
+Take it to a professional 
+and have them do it instead.
+
+142
+00:08:04,560 --> 00:08:09,160
+Even if they charge you like crazy, it's 
+often worth it if it's really complex.
+
+143
+00:08:09,160 --> 00:08:10,320
+Oh, I think I got it in.
+
+144
+00:08:10,320 --> 00:08:11,240
+I think I pried it.
+
+145
+00:08:11,240 --> 00:08:12,000
+Oh, wedge it.
+
+146
+00:08:12,000 --> 00:08:15,520
+Not too hard, just enough to stick it up.
+
+147
+00:08:15,520 --> 00:08:18,080
+Oh, it's going up, it's going up, it's going up.
+
+148
+00:08:18,080 --> 00:08:20,360
+Oh, oh, oh, oh, it's going up.
+
+149
+00:08:20,360 --> 00:08:21,240
+Look at this.
+
+150
+00:08:21,240 --> 00:08:23,160
+Oh, there we go.
+
+151
+00:08:23,160 --> 00:08:24,000
+It's coming up.
+
+152
+00:08:24,000 --> 00:08:24,960
+You seen this?
+
+153
+00:08:24,960 --> 00:08:30,080
+Right. So, there should be, according to the guide,
+
+154
+00:08:30,080 --> 00:08:34,200
+another ribbon cable that's 
+for the skin detection sensor.
+
+155
+00:08:34,200 --> 00:08:35,520
+Oh, I found it, I found it.
+
+156
+00:08:35,520 --> 00:08:38,360
+It's along on the same side where it went in.
+
+157
+00:08:38,360 --> 00:08:41,813
+Where that ribbon cable went in, it's 
+on the same side coming out that way.
+
+158
+00:08:41,926 --> 00:08:46,488
+Errgghhhhhh, eggghhhhhh, look at that!
+
+159
+00:08:46,488 --> 00:08:49,640
+Errrrhhhhhh, what the fuck is this?
+
+160
+00:08:49,640 --> 00:08:51,680
+What the fuck is this dystopian shit?
+
+161
+00:08:51,680 --> 00:08:55,040
+Look at this blue stuff right here, what the fuck?
+
+162
+00:08:55,040 --> 00:09:00,160
+I think a dye just fucking, I think a 
+die (diode) just fucking melted or something.
+
+163
+00:09:00,160 --> 00:09:07,320
+Jesus fucking- Errghhhh, eeeerghhhh, eurghhhhhh.
+
+164
+00:09:07,320 --> 00:09:10,200
+Okay, okay, okay, right.
+
+165
+00:09:10,263 --> 00:09:13,640
+Let's continue our diagnosis.
+
+166
+00:09:13,640 --> 00:09:18,960
+There is a piece of foam 
+thingy looking inside here.
+
+167
+00:09:18,960 --> 00:09:22,840
+That's what audio people call it, the filter,
+
+168
+00:09:22,840 --> 00:09:26,600
+which is kind of like, it blocks 
+objects from entering the thing,
+
+169
+00:09:26,600 --> 00:09:28,480
+but still allows sound through.
+
+170
+00:09:28,480 --> 00:09:31,040
+You can kind of see it's really, really thin here.
+
+171
+00:09:31,040 --> 00:09:33,320
+Let's get the Airpods case to compare.
+
+172
+00:09:33,320 --> 00:09:35,720
+It's really, really thin, and as you can see,
+
+173
+00:09:35,720 --> 00:09:39,840
+it's kind of chock full of solid 
+looking thingies, thingamajigs.
+
+174
+00:09:39,840 --> 00:09:43,720
+Presumably, it might be my 
+earwax, I gotta be honest.
+
+175
+00:09:43,720 --> 00:09:48,040
+I mean, I've used it for four years now, but 
+I honestly think it could last way longer.
+
+176
+00:09:48,040 --> 00:09:51,760
+At least we know that the filter is 
+doing its job, so great props to that.
+
+177
+00:09:51,760 --> 00:09:57,880
+We're gonna put this aside, and we're gonna 
+investigate right into the root cause.
+
+178
+00:09:57,880 --> 00:10:00,200
+Presumably, the audio driver.
+
+179
+00:10:00,200 --> 00:10:03,760
+And from what I can see, 
+this is clearly not natural.
+
+180
+00:10:03,760 --> 00:10:06,800
+So what happened is, um, usually,
+
+181
+00:10:06,800 --> 00:10:10,840
+usually speaker drivers are 
+completely covered from all around.
+
+182
+00:10:10,840 --> 00:10:16,240
+But as you can see, the main 
+driver in the middle looks intact.
+
+183
+00:10:16,240 --> 00:10:20,640
+But if you look outside, you see that 
+there's supposed to be a ring around it?
+
+184
+00:10:20,640 --> 00:10:26,560
+Yeah, on this curve right here, it 
+does not exist anymore, it seems.
+
+185
+00:10:26,560 --> 00:10:31,640
+So what happened is that, presumably, the 
+crackling noises we've been hearing so far
+
+186
+00:10:31,640 --> 00:10:38,080
+has been that the main frequency 
+has been flapping along,
+
+187
+00:10:38,080 --> 00:10:42,600
+but because of that, the vibration 
+is passing through these openings,
+
+188
+00:10:42,600 --> 00:10:43,920
+which causes no audio,
+
+189
+00:10:43,920 --> 00:10:48,400
+but at the same time, it causes these things to 
+flap so much that it makes funny crackling noises.
+
+190
+00:10:48,400 --> 00:10:52,600
+Let's try playing that same audio from 
+earlier, and see if that's the case.
+
+191
+00:10:52,600 --> 00:10:55,360
+Let's have a look at the driver 
+itself, when that happens.
+
+192
+00:10:55,360 --> 00:10:57,400
+Oh yeah, oh yeah, did you see that?
+
+193
+00:10:57,400 --> 00:10:58,600
+Did you see that?
+
+194
+00:10:58,600 --> 00:11:00,680
+The coils came out too.
+
+195
+00:11:00,680 --> 00:11:01,840
+Everything's coming out.
+
+196
+00:11:01,840 --> 00:11:03,360
+It's completely out of whack.
+
+197
+00:11:03,360 --> 00:11:09,480
+If I try to press it down, press it 
+down to where it's supposed to be,
+
+198
+00:11:09,480 --> 00:11:14,080
+it's flapping in its space.
+
+199
+00:11:14,080 --> 00:11:21,640
+And you can hear that this is exactly 
+what's making the crackling noises.
+
+200
+00:11:21,640 --> 00:11:29,400
+So that means, in conclusion, what happened 
+is that the diaphragm of the speaker driver
+
+201
+00:11:29,400 --> 00:11:34,960
+has completely cracked open that 
+renders it completely useless.
+
+202
+00:11:34,960 --> 00:11:38,760
+Though not to worry, I'm going 
+to, if I do have the money,
+
+203
+00:11:38,760 --> 00:11:43,160
+I'm planning to pick up some replacement 
+audio drivers from AliExpress.
+
+204
+00:11:43,160 --> 00:11:47,160
+It may not be as reliable, but I 
+think it would be the best for me,
+
+205
+00:11:47,160 --> 00:11:50,080
+especially after I've been 
+using it for a long time.
+
+206
+00:11:50,080 --> 00:11:54,560
+Not to mention, if you actually look at the 
+service fee for the Apple service centers,
+
+207
+00:11:54,560 --> 00:11:59,960
+they usually cost, if you have to repair both 
+sides, almost the cost of a brand new unit.
+
+208
+00:11:59,960 --> 00:12:04,920
+Isn't that fucking insane that I just 
+bought this device for so much money
+
+209
+00:12:04,920 --> 00:12:10,520
+and to replace a speaker driver that 
+it's going to cost me a brand new unit?
+
+210
+00:12:10,520 --> 00:12:13,720
+I could have just bought a fucking 
+new pair of AirPods instead then.
+
+211
+00:12:13,720 --> 00:12:17,640
+So that point of time, with my money really, 
+really tight, when I say really, really tight,
+
+212
+00:12:17,640 --> 00:12:20,720
+I mean like genuinely broke 
+tight, I went out of my way
+
+213
+00:12:20,720 --> 00:12:23,320
+and do some research in the audiophile space.
+
+214
+00:12:23,320 --> 00:12:28,240
+And with my extremely tight 
+money and a sub $25 goal,
+
+215
+00:12:28,240 --> 00:12:31,080
+I've picked up a pair of Moondrop Space Travel.
+
+216
+00:12:31,080 --> 00:12:36,480
+Honestly, the Moondrop Space Travel 
+is a really nifty pair of earphones,
+
+217
+00:12:36,480 --> 00:12:40,360
+albeit the mic being really bad, 
+but they sound really, really good.
+
+218
+00:12:40,360 --> 00:12:46,680
+They're also my entry point for in-ears because 
+they have this body that clings into my ears,
+
+219
+00:12:46,680 --> 00:12:49,520
+similar to how the original AirPods do.
+
+220
+00:12:49,520 --> 00:12:52,160
+And then you got a bit of silicone in-ears,  
+
+221
+00:12:52,160 --> 00:12:55,120
+which could train my ear canals 
+to get used to the in-ears.
+
+222
+00:12:55,120 --> 00:12:58,920
+So this may be a great entry 
+point for in-ears for me.
+
+223
+00:12:58,920 --> 00:13:02,280
+Not to mention, I've done a lot of 
+research and people have said that
+
+224
+00:13:02,280 --> 00:13:06,040
+the Moondrop Space Travel is the 
+budget king of its price range.
+
+225
+00:13:06,040 --> 00:13:08,000
+So after a whole month of using,
+
+226
+00:13:08,000 --> 00:13:12,760
+I honestly am really, really impressed by its 
+audio quality for that kind of price range.
+
+227
+00:13:12,760 --> 00:13:19,960
+I've saved myself eight fucking times the price 
+of the AirPods unit itself, and I got this.
+
+228
+00:13:19,960 --> 00:13:21,640
+Isn't that fucking insane?
+
+229
+00:13:21,640 --> 00:13:23,840
+Yeah, I honestly do think so as well.
+
+230
+00:13:23,840 --> 00:13:27,760
+I'll probably open up the left 
+side pair of the AirPods off camera
+
+231
+00:13:27,760 --> 00:13:32,280
+and I'll tell you the results on screen right 
+here if I actually do have open it up and see.
+
+232
+00:13:32,280 --> 00:13:36,680
+But yeah, honestly, I'm really fucking 
+disgusted by what Apple has done so far.
+
+233
+00:13:36,680 --> 00:13:40,609
+Apple, you really need to 
+make your AirPods genuinely repairable 
+
+234
+00:13:40,609 --> 00:13:42,360
+for your own service center people.
+
+235
+00:13:42,360 --> 00:13:46,160
+I don't care if you don't make 
+it repairable for third parties.
+
+236
+00:13:46,160 --> 00:13:49,640
+Make it repairable for your 
+own people as well, idiots.
+
+237
+00:13:49,640 --> 00:13:52,480
+Right, with that said, thank you so 
+much for watching this little vlog
+
+238
+00:13:52,480 --> 00:13:57,040
+of me yapping away about my pair of 
+AirPods that I have and regret buying.
+
+239
+00:13:57,040 --> 00:13:59,040
+And be sure to subscribe for more tech videos
+
+240
+00:13:59,600 --> 00:14:03,040
+and probably a series of gaming 
+videos if you're interested in those.
+
+241
+00:14:03,040 --> 00:14:06,520
+Do let me know what you want to 
+see from me in the comments below,
+
+242
+00:14:06,520 --> 00:14:08,400
+and I'll catch you guys next time.
+
+243
+00:14:08,400 --> 00:14:12,640
+I'm so sorry for that really, really 
+short video, but I'm really, really eepy.
+
+244
+00:14:12,640 --> 00:14:14,920
+But I still really want to get through this video
+
+245
+00:14:14,920 --> 00:14:18,360
+because I really want to get 
+people to know what's been going on
+
+246
+00:14:18,360 --> 00:14:21,520
+with my set of electronics 
+and let my voices heard.
+
+247
+00:14:21,520 --> 00:14:24,439
+So thank you guys so much for watching.
+
+248
+00:14:24,439 --> 00:14:25,920
+OtsuMelo deshita (It's been ya girl Mel).
+Catch you next time.
+
+249
+00:14:25,920 --> 00:14:28,440
+Oh, also don't forget to 
+check out my buddy at CAPod
+
+250
+00:14:28,440 --> 00:14:32,960
+as well on top of SD Maid SE, which 
+is what he initially sponsored me for.
+
+251
+00:14:32,960 --> 00:14:35,200
+CAPod is a really, really neat piece of app,
+
+252
+00:14:35,200 --> 00:14:38,440
+and I highly recommend you check it 
+out if you use AirPods on Android.
+
+253
+00:14:38,440 --> 00:14:40,320
+With that said, catch you guys next time.
+
+254
+00:14:40,320 --> 00:14:59,040
+See ya, OtsuMelo!
+
