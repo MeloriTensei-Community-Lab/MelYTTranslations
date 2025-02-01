@@ -1,7 +1,12 @@
 # Japanese Translations
+### Translation Guidelines (specifically for Japanese)
+Translation to Kon-Melo can be of either half Hira-Kata (こんメロ) or full Katakana (コンメロ) but it'd be preferable to be Hira-Kata for style. Full Hiragana might look a little weird.
 
-#### Current translation team:
-##### Human Directed Translators
+My friend, KZF1,'s name will be localized as Chikin (チキン), as Chicken is what he informally goes by for others convenience.
+
+
+### Current translation team:
+#### Human Directed Translators
 
 > This section is for people who have near native profficiency
 > translating fully, even if part of which is AI assisted.
@@ -15,10 +20,10 @@
 ##### Members:
 
 
-##### AI Operators
+#### AI Operators
 This section is for people who have little profficiency to translate but are contributing through AI LLMs. Models used must be cited in this list.
 
-Example:
+##### Example:
 
     `Name here - One social to shoutout`
     Model used
