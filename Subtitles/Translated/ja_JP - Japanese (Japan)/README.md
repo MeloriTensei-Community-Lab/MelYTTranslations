@@ -28,6 +28,7 @@ Example:
 ###### Members:
 
 `MeloriTensei - @MeloriTensei.Etersia.moe`
+
 Anthrophic Claude AI 3.5 Sonnet & Haiku
 
  - Returning to PixelOS!
