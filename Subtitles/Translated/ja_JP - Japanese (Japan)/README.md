@@ -31,7 +31,9 @@ Example:
 
 Anthrophic Claude AI 3.5 Sonnet & Haiku
 
+ - Fixing the VRoid Skirt Issue (WIP)
  - Returning to PixelOS!
+
 
 Google Gemini 1.5 Flash (Through Crowdin)
 
