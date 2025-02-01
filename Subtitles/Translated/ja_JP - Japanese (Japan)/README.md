@@ -31,7 +31,7 @@ Example:
 
 Anthrophic Claude AI 3.5 Sonnet & Haiku
 
- - Fixing the VRoid Skirt Issue (WIP)
+ - Fixing the VRoid Skirt Issue
  - Returning to PixelOS!
 
 
