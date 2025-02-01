@@ -1,24 +1,38 @@
 
+
 # Japanese Translations
 
 ## Translation Guidelines (specifically for Japanese)
+> Guidelines are placed to ensure the quality control of subtitles are up to par for each translator.
+> However, not every language has the same guidelines for the rules of translations.
+> Thus, the guidelines here mainly focus on translation mentality rather than format.
 
 #### Consistent tones and formalities
-```
-At times, I might get informal as heck. Try to match the tones you've heard from medias
-like TV shows, movies or even VTuber conversations.
-```
+
+> At times, I might get informal as heck. Try to match the tones you've
+> heard from medias like TV shows, movies or even VTuber conversations.
+
 
 #### Melori's greeting localization
 
-    It can be in both Hybrid (こんメロ) or Full Katakana (コンメロ). (Preferably Hybrid)
-    But not full Hiragana because it looks weird.
+It can be in both Hybrid
+✅`こんメロ` 
+or Full Katakana
+✅`コンメロ`
+(Preferably Hybrid) 
+
+But not full Hiragana because it looks weird.
+❌`こんめろ`
+
    
 #### Friends' name localization
 
-    KZF1/Chicken = チキン (Chikin)
-    SqueakyChair = キイ椅子 (Ki-i-ko) (yes, I know 椅子 translates to isu, but if you got any better sounding ideas, drop me a discussion ticket)
-    Aerostatik/Aero = Nothing at the moment, up to debate
+KZF1/Chicken = `チキン` (Chikin)
+
+SqueakyChair = `キイ椅子` (Ki-i-ko) (yes, I know 椅子 translates to isu, 
+but if you got any better sounding ideas, drop me a discussion ticket)
+
+Aerostatik/Aero = Nothing at the moment, up to debate
 
 
 ## Current translation team
@@ -31,7 +45,7 @@ like TV shows, movies or even VTuber conversations.
 
 #### Example:
 
-`Name here - One social to shoutout here`
+`Name here` - One social to shoutout here
 
 - (List vids contributed)
 
