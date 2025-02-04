@@ -21,7 +21,7 @@ Some videos: Japanese, Korean. (Linking WIP)
 **Step 3:** Fork this repo.
 
 **Step 4:** 
-**If your language has not existed in the main repo yet:** Create a folder for your language in the `Subtitles/Translated` folder following this template: ISO3166-1_Code - LanguageName (Country). Real world example: ro_RO - Romanian (Romania).
+**If your language has not existed in the main repo yet:** Create a folder for your language in the `Subtitles/Translated` folder following this template: `ISO3166-1_Code - LanguageName (Country)`. Real world example: `ro_RO - Romanian (Romania)`.
 **If your language exists:** Proceed to the next step.
 
 **Step 5:** Add your translations to said folder. Although optional, it would be ideal to include a link to the translated video in the commit description. Tracking what has already been translated is easier this way for future improvements to the .
