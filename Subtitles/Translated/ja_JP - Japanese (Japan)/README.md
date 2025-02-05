@@ -100,20 +100,20 @@ TBA
 
 #### Members:
 
-<table class="tg"><thead>
+<table><thead>
   <tr>
-    <th class="tg-dvid">Operators</th>
-    <th class="tg-dvid">Models used</th>
-    <th class="tg-dvid">Videos</th>
+    <th>Operators</th>
+    <th>Models used</th>
+    <th>Videos</th>
   </tr></thead>
 <tbody>
   <tr>
-    <td class="tg-0pky" rowspan="2"><span style="font-weight:bold">MeloriTensei</span><br><a href="https://bsky.app/profile/meloritensei.etersia.moe" target="_blank" rel="noopener noreferrer">@MeloriTensei.etersia.moe</a><br></td>
-    <td class="tg-0pky"><span style="font-weight:bold">Anthropic Claude AI</span> 3.5 Sonnet &amp; Haiku</td>
-    <td class="tg-0pky">- Fixing the VRoid Skirt Issue<br>- Returning to PixelOS!</td>
+    <td rowspan="2">MeloriTensei<br><a href="https://bsky.app/profile/meloritensei.etersia.moe">@MeloriTensei.etersia.moe</a><br></td>
+    <td>Anthropic Claude AI 3.5 Sonnet &amp; Haiku</td>
+    <td>- <a href="https://www.youtube.com/watch?v=05m1Ox_DSfs" target="_blank" rel="noopener noreferrer">Returning to PixelOS!</a><br>- <a href="https://www.youtube.com/watch?v=BsoRgCatm58" target="_blank" rel="noopener noreferrer">Fixing the VRoid Skirt Issue</a><br></td>
   </tr>
   <tr>
-    <td class="tg-0pky"><span style="font-weight:bold">Google Gemini</span> 1.5 Flash</td>
-    <td class="tg-0pky">- I investigated Aogami High in Hololive ERROR (Part 1)<br><br>- What really happened in Aogami High??? (Part 2)<br><br>- Why was this happening?!?! (Part 3)<br><br>- So I tried Hololive Error... #vtuberen #hololiveerror #horrorgaming #vtuber #scream<br><br>- KIRA - WILDCARD (Cover)<br><br>- Guijaro has lost it!<br><br>- Family! Family!【MeloriTensei】<br><br>- Mel is Bri' 'ish 【MeloriTensei】<br><br>- OH NOOO!【MeloriTensei】</td>
+    <td>Google Gemini 1.5 Flash</td>
+    <td>- <a href="https://youtube.com/shorts/mLMKH26wUMI" target="_blank" rel="noopener noreferrer">OH NOOO!【MeloriTensei】</a><br><br>- <a href="https://youtube.com/shorts/34yhCPFrkuQ" target="_blank" rel="noopener noreferrer">Mel is Bri' 'ish 【MeloriTensei】</a><br><br>- <a href="https://youtube.com/shorts/aDvbl3kJvUo" target="_blank" rel="noopener noreferrer">Family! Family!【MeloriTensei】</a><br><br><br>- <a href="https://youtube.com/shorts/hzUuo6iLPgc" target="_blank" rel="noopener noreferrer">Guijaro has lost it!</a><br><br>- <a href="https://youtube.com/shorts/0FaqFnmrE6o" target="_blank" rel="noopener noreferrer">So I tried Hololive Error...</a><br><br>- <a href="https://www.youtube.com/watch?v=senZ8TYgOrU" target="_blank" rel="noopener noreferrer">Why was this happening?!?! (Part 3)</a><br><br>- <a href="https://www.youtube.com/watch?v=GdjIlMUBRyU" target="_blank" rel="noopener noreferrer">What really happened in Aogami High??? (Part 2)</a><br><br>- <a href="https://www.youtube.com/watch?v=vipWlzov0GE" target="_blank" rel="noopener noreferrer">I investigated Aogami High in Hololive ERROR (Part 1)</a><br></td>
   </tr>
 </tbody></table>
