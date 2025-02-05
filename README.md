@@ -17,7 +17,7 @@ Romanian (`ro_RO`) - Titles & Descriptions, [Subtitles](Subtitles/Translated/ro_
 # Guide to contributing
 **Step 1:** Grab your favorite subtitling suite ([Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit) and [Aegisub](https://aegisub.org/) are good options if you're someone just starting out but anything works!).
 
-**Step 2:** Subtitle and translate any video(s) that you would like and export it (or them) as one of the accepted file types by YouTube, as listed in the link attached to the `Contributors Guidelines` section.
+**Step 2:** Subtitle and translate any video(s) that you would like and export it (or them) as one of the accepted file types by YouTube, as listed in the link attached to the [Contributors Guidelines](https://github.com/MeloriTensei/MelYTTranslations#contributors-guidelines) section.
 
 **Step 3:** Fork this repo.
 
@@ -41,7 +41,7 @@ Accepted formats: all that YT supports (Refer to YouTube Help [here](https://sup
 ------------
 
 
-#### Rule 1: Neatly space sentences within the two line limit of YouTube's subtitle system
+#### Rule 1: Neatly space sentences within the two line limit of YouTube's subtitle system.
 The usual format goes as follows:
 > First line: subtitle
 >
@@ -67,7 +67,7 @@ Because I would only do some minor checks and upload the file straight to YT.
 
 ------------
 
-#### Rule 3: While AI assisted translations are allowed, submissions should have human level correction for any flow,contextual and grammatical related issues. 
+#### Rule 3: While AI assisted translations are allowed, submissions should have human level correction for any flow, contextual and grammatical related issues. 
 
 This will help keep the translations coherent and in a quality manner.
 
