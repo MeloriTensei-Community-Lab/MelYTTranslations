@@ -41,7 +41,7 @@ Accepted formats: all that YT supports (Refer to YouTube Help [here](https://sup
 ------------
 
 
-#### Rule 1: Neatly space sentences within the two line limit of YouTube's subtitle system
+#### Rule 1: Neatly space sentences within the two line limit of YouTube's subtitle system.
 The usual format goes as follows:
 > First line: subtitle
 >
@@ -67,7 +67,7 @@ Because I would only do some minor checks and upload the file straight to YT.
 
 ------------
 
-#### Rule 3: While AI assisted translations are allowed, submissions should have human level correction for any flow,contextual and grammatical related issues. 
+#### Rule 3: While AI assisted translations are allowed, submissions should have human level correction for any flow, contextual and grammatical related issues. 
 
 This will help keep the translations coherent and in a quality manner.
 
