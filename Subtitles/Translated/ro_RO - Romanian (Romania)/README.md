@@ -34,7 +34,7 @@ Kon-Melo! Sunt eu, magiciana tehnologiei, MeloriTensei!
   </tr></thead>
 <tbody>
   <tr>
-    <td class="tg-0pky" rowspan="2"><span style="font-weight:bold">Name Here</span><br>One social to shoutout</td>
+    <td class="tg-0pky" rowspan="2"><span style="font-weight:bold">Name here</span><br>One social to shoutout</td>
   <tr>
     <td class="tg-0pky">List of vids contributed<br>(In video upload date order - Newest to Oldest)</td>
   </tr>
@@ -52,7 +52,7 @@ Kon-Melo! Sunt eu, magiciana tehnologiei, MeloriTensei!
   </tr></thead>
 <tbody>
   <tr>
-    <td class="tg-0pky" rowspan="2"><span style="font-weight:bold">Aerostatik</span><br><a href="https://www.youtube.com/@Aerostatikk" target="_blank" rel="noopener noreferrer">Youtube</a><br></td>
+    <td class="tg-0pky" rowspan="2"><span style="font-weight:bold">Aerostatik</span><br><a href="https://www.youtube.com/@Aerostatikk" target="_blank" rel="noopener noreferrer">YouTube</a><br></td>
   <tr>
     <td class="tg-0pky">- So I tried Hololive Error... (Short)<br>- I investigated Aogami High in Hololive ERROR (Part 1) (TBA)</td>
   </tr>
