@@ -2,21 +2,20 @@
 
 ## Translation guidelines (specifically for Romanian)
 
-###### ***These guidelines vary language to language.***
+###### ***These guidelines vary language to language and may change at any time as seen fit.***
 
 #### Consistent tones and formalities
 
 ##### **Try to match the tones you've heard in other types of media such as: TV Shows, movies, anime or other Vtuber discussions.**
 
 ### Melori's greeting localization
-
-##### ****PLACEHOLDER**, I'll think about this tomorrow when I have better thinking.**
-
-### Friends' names localization
+It would be best preferred to use one of the following variations:
 ```
-KZF1/Chicken=TBA (remarks will go here if needed)
-SqueakyChair=TBA (remarks will go here if needed)
-Aerostatik/Aero=Not erotic for all that's worth. (remarks will go here if needed)
+Kon-Melo! Sunt eu, vrăjitoarea tehnologiei, MeloriTensei!
+```
+**OR**
+```
+Kon-Melo! Sunt eu, magiciana tehnologiei, MeloriTensei!
 ```
 
 ## Current translation team
@@ -28,16 +27,37 @@ Aerostatik/Aero=Not erotic for all that's worth. (remarks will go here if needed
 
 #### Example:
 
-**Name here** - One social to shoutout
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-dvid">Translators</th>
+    <th class="tg-dvid">Videos</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky" rowspan="2"><span style="font-weight:bold">Name Here</span><br>One social to shoutout</td>
+  <tr>
+    <td class="tg-0pky">List of vids contributed<br>(In video upload date order - Newest to Oldest)</td>
+  </tr>
+</tbody>
+</table>
 
->List of videos contribuited (Newest to oldest order)
 
 #### Members:
 
-**Aerostatik** - I'll think about social media
 
-> - [So I tried Hololive Error...](https://www.youtube.com/shorts/0FaqFnmrE6o) (Short)
-> - [I investigated Aogami High in Hololive ERROR (Part 1)](https://www.youtube.com/watch?v=vipWlzov0GE) (to be finished)
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-dvid">Translators</th>
+    <th class="tg-dvid">Videos</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky" rowspan="2"><span style="font-weight:bold">Aerostatik</span><br><a href="https://www.youtube.com/@Aerostatikk" target="_blank" rel="noopener noreferrer">Youtube</a><br></td>
+  <tr>
+    <td class="tg-0pky">- So I tried Hololive Error... (Short)<br>- I investigated Aogami High in Hololive ERROR (Part 1) (TBA)</td>
+  </tr>
+</tbody>
+</table>
 
 ### AI Operators
 
@@ -45,18 +65,32 @@ Aerostatik/Aero=Not erotic for all that's worth. (remarks will go here if needed
 
 #### Example:
 
-**Name here** - One social to shoutout
-
->List of videos contribuited (Newest to oldest order)
-
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-dvid">Operators</th>
+    <th class="tg-dvid">Models used</th>
+    <th class="tg-dvid">Videos</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky" rowspan="2"><span style="font-weight:bold">Name here</span><br>One social to shoutout</td>
+    <td class="tg-0pky"><span style="font-weight:bold">Brand </span>Model 1</td>
+    <td class="tg-0pky">List of vids contributed<br>(In video upload date order - Newest to Oldest)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="font-weight:bold">Brand</span> Model 2</td>
+    <td class="tg-0pky">List of vids contributed<br>(In video upload date order - Newest to Oldest)</td>
+  </tr>
+</tbody>
+</table>
 
 #### Members:
 
-Nobody Here But Us Chickens 
+##### Nobody but us chickens
 
-> - Lorem Ipsum
+-------------------
 
-
+###### * *If you figure out some localized names for Melori's friends that make sense, please make a pull request on the matter.*
 
 
 
