@@ -51,15 +51,33 @@ Aerostatik/Aero = Nothing at the moment, up to debate
 
 #### Example:
 
-`Name here` - One social to shoutout here
-
-- (List vids contributed, in video upload date order - Newest to Oldest, hyperlinking to the video allowed)
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dvid{background-color:#efefef;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-dvid">Translators</th>
+    <th class="tg-dvid">Videos</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky"><span style="font-weight:bold">Name here</span><br>One social to shoutout</td>
+    <td class="tg-0pky">List of vids contributed<br>(In video upload date order - Newest to Oldest)</td>
+  </tr>
+</tbody>
+</table>
 
 
 #### Members:
 TBA
   
- 
+ ---
 
 ### AI Operators
 
@@ -69,31 +87,60 @@ TBA
 
 #### Example:
 
-**Name here** - One social to shoutout
-
-    Model used (In codeblocks)
-    
-    - List of vids contributed
-	    (In video upload date order - Newest to Oldest,
-	    hyperlinking to video not allowed due to codeblocks
-	    restriction)
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dvid{background-color:#efefef;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-dvid">Operators</th>
+    <th class="tg-dvid">Models used</th>
+    <th class="tg-dvid">Videos</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky" rowspan="2"><span style="font-weight:bold">Name here</span><br>One social to shoutout</td>
+    <td class="tg-0pky"><span style="font-weight:bold">Brand </span>Model 1</td>
+    <td class="tg-0pky">List of vids contributed<br>(In video upload date order - Newest to Oldest)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="font-weight:bold">Brand</span> Model 2</td>
+    <td class="tg-0pky">List of vids contributed<br>(In video upload date order - Newest to Oldest)</td>
+  </tr>
+</tbody>
+</table>
 
 
 #### Members:
 
-**MeloriTensei** - [@MeloriTensei.etersia.moe](https://bsky.app/profile/meloritensei.etersia.moe)
-
-    Anthrophic Claude AI 3.5 Sonnet & Haiku
-    - Fixing the VRoid Skirt Issue
-    - Returning to PixelOS!
-
-    Google Gemini 1.5 Flash (Through Crowdin)
-    - I investigated Aogami High in Hololive ERROR (Part 1)
-    - What really happened in Aogami High??? (Part 2)
-    - Why was this happening?!?! (Part 3)
-    - So I tried Hololive Error... #vtuberen #hololiveerror #horrorgaming #vtuber #scream
-    - KIRA - WILDCARD (Cover)
-    - Guijaro has lost it!
-    - Family! Family!【MeloriTensei】
-    - Mel is Bri' 'ish 【MeloriTensei】
-    - OH NOOO!【MeloriTensei】
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dvid{background-color:#efefef;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-dvid">Operators</th>
+    <th class="tg-dvid">Models used</th>
+    <th class="tg-dvid">Videos</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky" rowspan="2"><span style="font-weight:bold">MeloriTensei</span><br><a href="https://bsky.app/profile/meloritensei.etersia.moe" target="_blank" rel="noopener noreferrer">@MeloriTensei.etersia.moe</a><br></td>
+    <td class="tg-0pky"><span style="font-weight:bold">Anthropic Claude AI</span> 3.5 Sonnet &amp; Haiku</td>
+    <td class="tg-0pky">- Fixing the VRoid Skirt Issue<br>- Returning to PixelOS!</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="font-weight:bold">Google Gemini</span> 1.5 Flash</td>
+    <td class="tg-0pky">- I investigated Aogami High in Hololive ERROR (Part 1)<br><br>- What really happened in Aogami High??? (Part 2)<br><br>- Why was this happening?!?! (Part 3)<br><br>- So I tried Hololive Error... #vtuberen #hololiveerror #horrorgaming #vtuber #scream<br><br>- KIRA - WILDCARD (Cover)<br><br>- Guijaro has lost it!<br><br>- Family! Family!【MeloriTensei】<br><br>- Mel is Bri' 'ish 【MeloriTensei】<br><br>- OH NOOO!【MeloriTensei】</td>
+  </tr>
+</tbody></table>
