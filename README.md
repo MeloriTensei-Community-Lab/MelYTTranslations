@@ -4,13 +4,14 @@ Welcome to the GitHub repo where Mel hosts her subtitles in hopes to further eas
 
 ## Languages covering
 #### Base Languages
-Most of the videos: [English - United States](Subtitles/Original/en_US%20-%20English%20%28United%20States%29) (`en_US`)
+Most of the videos: English - United States (`en_US`) - Titles & Descriptions, [Subtitles](Subtitles/Original/en_US%20-%20English%20%28United%20States%29)
 
 Some videos: Japanese, Korean. (Linking WIP)
 
-#### Languages available (Click the languages for list of contributors)
-[Japanese](Subtitles/Translated/ja_JP%20-%20Japanese%20%28Japan%29) (`ja_JP`)
-[Romanian](Subtitles/Translated/ro_RO%20-%20Romanian%20%28Romania%29) (`ro_RO`)
+#### Languages available (Click below for list of contributors)
+Japanese (`ja_JP`) - Titles & Descriptions, [Subtitles](Subtitles/Translated/ja_JP%20-%20Japanese%20%28Japan%29)
+
+Romanian (`ro_RO`) - Titles & Descriptions, [Subtitles](Subtitles/Translated/ro_RO%20-%20Romanian%20%28Romania%29)
 
 
 # Guide to contributing
@@ -66,7 +67,10 @@ Because I would only do some minor checks and upload the file straight to YT.
 
 ------------
 
-#### Rule 3: While AI assisted translations are allowed, submissions should have human level correction for any flow,contextual and grammatical related issues. This will help keep the translations coherent and in a quality manner.
+#### Rule 3: While AI assisted translations are allowed, submissions should have human level correction for any flow,contextual and grammatical related issues. 
+
+This will help keep the translations coherent and in a quality manner.
+
 ------------
 
 #### Rule 4: Be respectful of other contributors.
