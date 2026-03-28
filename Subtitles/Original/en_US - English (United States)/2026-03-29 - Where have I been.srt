@@ -1,0 +1,768 @@
+1
+00:00:04,416 --> 00:00:05,849
+Hey, it's been a while.
+
+2
+00:00:06,083 --> 00:00:09,066
+By the way, thank you new and returning viewers
+
+3
+00:00:09,066 --> 00:00:11,033
+for checking out my previous CachyOS video
+
+4
+00:00:11,033 --> 00:00:12,233
+and having a talk with me.
+
+5
+00:00:12,233 --> 00:00:13,666
+It was pretty relaxing.
+
+6
+00:00:13,666 --> 00:00:15,099
+So let's get to the topic.
+
+7
+00:00:15,099 --> 00:00:17,199
+Where was I in the past few months?
+
+8
+00:00:17,466 --> 00:00:19,833
+You see, to new viewers, you might not know much.
+
+9
+00:00:19,833 --> 00:00:21,266
+So I'm gonna get you up to speed.
+
+10
+00:00:21,266 --> 00:00:23,800
+I called a hiatus for my regular game streams
+
+11
+00:00:23,800 --> 00:00:26,633
+to restructure my stream content.
+
+12
+00:00:26,633 --> 00:00:28,566
+With personal expectations that
+
+13
+00:00:28,566 --> 00:00:30,783
+I'll still regularly release videos,
+
+14
+00:00:30,783 --> 00:00:32,500
+but the videos have not been out.
+
+15
+00:00:32,500 --> 00:00:33,816
+What happened during it?
+
+16
+00:00:33,816 --> 00:00:37,366
+In the first month of a hiatus, which was December of 2025,
+
+17
+00:00:37,366 --> 00:00:39,750
+I began working on sorting out my messy setup
+
+18
+00:00:39,750 --> 00:00:41,450
+in my Unraid NAS server,
+
+19
+00:00:41,450 --> 00:00:42,649
+ which is a mess.
+
+20
+00:00:42,649 --> 00:00:45,183
+If you are not one to regularly keep things tidy,
+
+21
+00:00:45,183 --> 00:00:48,200
+have a look at your desktop and you tell me what you see.
+
+22
+00:00:48,200 --> 00:00:49,783
+Yeah...
+
+23
+00:00:49,783 --> 00:00:50,883
+That's what I meant.
+
+24
+00:00:50,883 --> 00:00:53,100
+But at a larger scale that came biting back at me
+
+25
+00:00:53,100 --> 00:00:54,816
+at my workflow efficiency.
+
+26
+00:00:54,816 --> 00:00:55,933
+Towards the end of December,
+
+27
+00:00:55,933 --> 00:00:58,783
+I realized I needed far more time than usual.
+
+28
+00:00:58,783 --> 00:01:01,183
+So I began laying out things that I needed to work on.
+
+29
+00:01:01,183 --> 00:01:04,349
+Which is a few sets of parts that you saw in the Trello post
+
+30
+00:01:04,349 --> 00:01:06,883
+ that I recently put up in YouTube community post.
+
+31
+00:01:06,883 --> 00:01:08,150
+I had seen the sheer horrors
+
+32
+00:01:08,150 --> 00:01:09,750
+of the things I had to work on.
+
+33
+00:01:09,750 --> 00:01:12,950
+I gotta lock the heck in.
+
+34
+00:01:12,950 --> 00:01:13,683
+Fast forward.
+
+35
+00:01:13,683 --> 00:01:14,633
+New Years happened.
+
+36
+00:01:14,633 --> 00:01:16,083
+Fireworks popping everywhere.
+
+37
+00:01:16,083 --> 00:01:18,500
+I took a breather and prayed,
+
+38
+00:01:18,500 --> 00:01:22,366
+Everything's gotta go smoothly to plan.
+
+39
+00:01:22,366 --> 00:01:23,766
+Until it didn't.
+
+40
+00:01:23,766 --> 00:01:26,700
+My relative got hit by a vehicle and was admitted to hospital.
+
+41
+00:01:27,066 --> 00:01:29,533
+They lived alone, so after they discharged,
+
+42
+00:01:29,533 --> 00:01:31,466
+they had to stay over at my place
+
+43
+00:01:31,466 --> 00:01:34,666
+because my family was the only reachable and closest relative.
+
+44
+00:01:34,666 --> 00:01:35,950
+But this is Asia.
+
+45
+00:01:35,950 --> 00:01:37,583
+We don't have an abundance of rooms.
+
+46
+00:01:37,583 --> 00:01:40,400
+So in times of emergency, we let them live in my studio room
+
+47
+00:01:40,400 --> 00:01:43,166
+I've recorded and worked in all these times.
+
+48
+00:01:43,166 --> 00:01:44,966
+Thinking it's going to be a few weeks thing,
+
+49
+00:01:44,966 --> 00:01:46,816
+I just moved a small amount of my stuff.
+
+50
+00:01:47,133 --> 00:01:50,266
+Namely my mic, my mouse, my Steam Deck
+
+51
+00:01:50,266 --> 00:01:53,033
+over so I can continue working on server stuff.
+
+52
+00:01:53,033 --> 00:01:56,700
+Only to learn that we're living in the AI bubble.
+
+53
+00:01:56,700 --> 00:01:58,816
+The laptop I used to work on stuff,
+
+54
+00:01:58,816 --> 00:02:00,816
+remember that CachyOS laptop?
+
+55
+00:02:00,816 --> 00:02:05,250
+began terminating my active programs and I realized one thing.
+
+56
+00:02:05,250 --> 00:02:09,016
+I'm out of RAM for the work that I was doing.
+
+57
+00:02:09,016 --> 00:02:12,633
+In a miniature panic, I quickly get RustDesk functional and working,
+
+58
+00:02:12,633 --> 00:02:14,433
+which thankfully, did.
+
+59
+00:02:14,433 --> 00:02:15,366
+Crisis averted.
+
+60
+00:02:15,366 --> 00:02:18,566
+I can work on lighter stuff that needs more browser tabs.
+
+61
+00:02:18,566 --> 00:02:21,533
+As time passes and a couple of revisits into my studio room
+
+62
+00:02:21,533 --> 00:02:24,750
+to check on stuff, I sense a suspicious smell.
+
+63
+00:02:24,750 --> 00:02:27,949
+In secret, I had a chat with my mom on what's going on,
+
+64
+00:02:27,949 --> 00:02:29,533
+and my mom seems to agree with me.
+
+65
+00:02:29,533 --> 00:02:30,966
+There's a hint of tobacco
+
+66
+00:02:30,966 --> 00:02:33,983
+in the smell of my entire studio room.
+
+67
+00:02:33,983 --> 00:02:36,716
+So for a few days, we've monitored the situation
+
+68
+00:02:36,716 --> 00:02:38,883
+and been secretly observing what my relative's
+
+69
+00:02:38,883 --> 00:02:40,633
+been doing behind our backs.
+
+70
+00:02:40,633 --> 00:02:43,133
+With clear and concrete evidence,
+
+71
+00:02:43,133 --> 00:02:44,849
+we've came to the conclusion that
+
+72
+00:02:44,849 --> 00:02:46,750
+they smoke in my studio room
+
+73
+00:02:46,750 --> 00:02:48,500
+with no airflow.
+
+74
+00:02:48,500 --> 00:02:51,166
+I remember vividly that my mom had made clear to them
+
+75
+00:02:51,166 --> 00:02:54,250
+that we had a no smoking policy in this entire house,
+
+76
+00:02:54,250 --> 00:02:56,183
+but they've broken that one rule.
+
+77
+00:02:56,183 --> 00:02:57,783
+My respect for this said relative
+
+78
+00:02:57,783 --> 00:03:00,033
+is shattering right before my eyes.
+
+79
+00:03:00,033 --> 00:03:00,983
+(Sigh)
+
+80
+00:03:00,983 --> 00:03:03,966
+During my personal research, I found that third-hand smoking
+
+81
+00:03:03,966 --> 00:03:06,150
+can cause problems to anyone who comes into contact
+
+82
+00:03:06,150 --> 00:03:08,400
+with objects that nicotine touches,
+
+83
+00:03:08,400 --> 00:03:11,166
+which stays for an extremely long time.
+
+84
+00:03:11,166 --> 00:03:13,349
+Now if you know any content creator, or heck,
+
+85
+00:03:13,349 --> 00:03:14,733
+even just an average gamer,
+
+86
+00:03:14,733 --> 00:03:16,316
+you know how difficult it is
+
+87
+00:03:16,316 --> 00:03:19,666
+to take down an entire setup to clean every surface
+
+88
+00:03:19,666 --> 00:03:21,133
+that the nicotine touched,
+
+89
+00:03:21,133 --> 00:03:23,800
+let alone getting baking soda, vinegar,
+
+90
+00:03:23,800 --> 00:03:27,983
+or worse, trisodium phosphate, and clean every surface.
+
+91
+00:03:27,983 --> 00:03:29,816
+Knowing that they had smoke in my studio room
+
+92
+00:03:29,816 --> 00:03:31,383
+and in the bathroom attached to it,
+
+93
+00:03:31,383 --> 00:03:34,183
+the idea of needing to clean any speck of nicotine
+
+94
+00:03:34,183 --> 00:03:36,900
+off of every visible surface
+
+95
+00:03:36,900 --> 00:03:39,050
+is going to set me back a month or two,
+
+96
+00:03:39,050 --> 00:03:41,116
+heck, even three more months.
+
+97
+00:03:41,116 --> 00:03:44,216
+And that's on top of what few months I projected needing
+
+98
+00:03:44,216 --> 00:03:47,449
+for my background restructuring I was initially working on.
+
+99
+00:03:47,449 --> 00:03:49,849
+After a few hours, I calmed down,
+
+100
+00:03:49,849 --> 00:03:51,783
+figured I might have overreacted,
+
+101
+00:03:51,783 --> 00:03:54,750
+but things gone way worse days after.
+
+102
+00:03:54,750 --> 00:03:57,966
+In the midst of my occasional internal rage against them,
+
+103
+00:03:57,966 --> 00:03:58,949
+backup came.
+
+104
+00:03:58,949 --> 00:04:01,949
+A distant relative family came over to visit him,
+
+105
+00:04:01,949 --> 00:04:05,833
+and my mom had a plan to quietly confiscate their cigarettes
+
+106
+00:04:05,833 --> 00:04:08,316
+and hand it off to the relative for removal.
+
+107
+00:04:08,316 --> 00:04:10,883
+And hand it off to the relative for removal.
+
+108
+00:04:10,883 --> 00:04:12,366
+At the end of the reunion,
+
+109
+00:04:12,366 --> 00:04:14,583
+they planned to confront them directly.
+
+110
+00:04:14,583 --> 00:04:17,283
+During the confrontation, they flat out denied
+
+111
+00:04:17,283 --> 00:04:18,383
+that they have smoked,
+
+112
+00:04:18,383 --> 00:04:20,783
+and was perplexed that we knew there was one cig missing
+
+113
+00:04:20,783 --> 00:04:22,116
+from the first time we checked.
+
+114
+00:04:22,116 --> 00:04:24,949
+To some of y'all who think it's an invasion of privacy,
+
+115
+00:04:24,949 --> 00:04:26,133
+screw y'all!
+
+116
+00:04:26,133 --> 00:04:27,199
+I own this damn house
+
+117
+00:04:27,199 --> 00:04:31,266
+and I made the smoking policy pretty dang clear.
+
+118
+00:04:31,266 --> 00:04:32,683
+Well, technically my mom.
+
+119
+00:04:32,683 --> 00:04:34,666
+And I'm acting within my right to know
+
+120
+00:04:34,666 --> 00:04:36,616
+if they've smoked in my premise.
+
+121
+00:04:36,616 --> 00:04:38,333
+With those specific reactions,
+
+122
+00:04:38,333 --> 00:04:41,083
+all trust I had on them had been lost.
+
+123
+00:04:41,083 --> 00:04:42,733
+I thought of giving them a little chance
+
+124
+00:04:42,733 --> 00:04:45,616
+considering there should be no cigs anymore.
+
+125
+00:04:45,616 --> 00:04:47,116
+Right?
+
+126
+00:04:47,616 --> 00:04:48,483
+Right?
+
+127
+00:04:48,483 --> 00:04:49,783
+Until days later.
+
+128
+00:04:49,783 --> 00:04:51,783
+I spotted something sitting on the pile of
+
+129
+00:04:51,783 --> 00:04:54,283
+personal valuable belongings of theirs.
+
+130
+00:04:54,283 --> 00:04:55,833
+An e-cigarette.
+
+131
+00:04:55,833 --> 00:04:59,083
+Knowing I'm gonna have a fit and that'll be bad,
+
+132
+00:04:59,083 --> 00:05:01,033
+I quickly relayed it to my mom,
+
+133
+00:05:01,033 --> 00:05:03,750
+and closed myself in the bedroom that I've been working on
+
+134
+00:05:03,750 --> 00:05:06,800
+and just focused on working on the NAS.
+
+135
+00:05:06,800 --> 00:05:08,733
+Within a day, I learned from her that
+
+136
+00:05:08,733 --> 00:05:11,483
+she has confiscated the e-cig quietly too.
+
+137
+00:05:11,483 --> 00:05:14,533
+Pair that with their surprised reaction to the fact that it's missing.
+
+138
+00:05:14,533 --> 00:05:17,183
+Of course they have no guts to ask us about it,
+
+139
+00:05:17,183 --> 00:05:19,850
+because that'll mean they'll admit that the cig was theirs.
+
+140
+00:05:19,850 --> 00:05:21,649
+It's been a month since the incident,
+
+141
+00:05:21,649 --> 00:05:24,066
+and things seem to have stabilized.
+
+142
+00:05:24,066 --> 00:05:26,916
+Another thing that has been eating me silently.
+
+143
+00:05:26,916 --> 00:05:27,949
+Burnouts.
+
+144
+00:05:27,949 --> 00:05:30,250
+You see, when I was moving into this new place,
+
+145
+00:05:30,250 --> 00:05:32,066
+I got myself two rooms out of the few
+
+146
+00:05:32,066 --> 00:05:33,933
+in the apartment that we bought.
+
+147
+00:05:33,933 --> 00:05:37,466
+Just so I could solve this long-standing psychological issue 
+
+148
+00:05:37,466 --> 00:05:41,766
+of having the work and play in one single room at my old place.
+
+149
+00:05:41,766 --> 00:05:43,800
+By separating work and non-work,
+
+150
+00:05:43,800 --> 00:05:47,716
+I felt a nice release from what feels like eternal work.
+
+151
+00:05:47,716 --> 00:05:50,066
+If I see my work table right when I wake up...
+
+152
+00:05:50,066 --> 00:05:52,433
+Ugh, that ain't a good feeling.
+
+153
+00:05:52,433 --> 00:05:55,383
+But with my laptop sitting just across my bedroom,
+
+154
+00:05:55,383 --> 00:05:58,266
+it's starting to feel a lot like my old place again.
+
+155
+00:05:58,266 --> 00:06:01,550
+Pair that to the fact that I've gotten used to a three-monitor setup,
+
+156
+00:06:01,550 --> 00:06:03,366
+I had at maximum: two,
+
+157
+00:06:03,366 --> 00:06:04,516
+or at minimum: one.
+
+158
+00:06:04,516 --> 00:06:08,033
+Instead, these early few weeks had been my most
+
+159
+00:06:08,033 --> 00:06:10,466
+unproductive weeks in my lifetime,
+
+160
+00:06:10,466 --> 00:06:12,883
+with barely any motivation working at all.
+
+161
+00:06:12,883 --> 00:06:14,683
+I was also at my all-time low.
+
+162
+00:06:14,683 --> 00:06:16,183
+Fast forward to a few weeks after that,
+
+163
+00:06:16,183 --> 00:06:18,383
+my relative offered to take them in
+
+164
+00:06:18,383 --> 00:06:21,283
+for periods where the recheckup date gap
+
+165
+00:06:21,283 --> 00:06:23,399
+spans further than a few days.
+
+166
+00:06:23,399 --> 00:06:25,149
+So we took up on that offer.
+
+167
+00:06:25,149 --> 00:06:27,766
+After a few weeks, they were cleared to work
+
+168
+00:06:27,766 --> 00:06:30,566
+and discharged, and is back to their own place.
+
+169
+00:06:30,566 --> 00:06:31,633
+Thankfully.
+
+170
+00:06:31,633 --> 00:06:34,750
+Now, with you being able to watch this video in itself is a blessing, 
+
+171
+00:06:34,750 --> 00:06:36,850
+because as of the time I published this video,
+
+172
+00:06:36,850 --> 00:06:40,616
+my entire setup had been torn down thoroughly, cleaned thoroughly,
+
+173
+00:06:40,616 --> 00:06:44,149
+and the NAS is somewhat sorted, but is still a mess.
+
+174
+00:06:44,149 --> 00:06:46,850
+I might have to redo that, if it's necessary.
+
+175
+00:06:46,850 --> 00:06:49,466
+Now, I hope to get back to the groove of content creation,
+
+176
+00:06:49,466 --> 00:06:51,133
+but we'll see what happens first.
+
+177
+00:06:51,133 --> 00:06:52,783
+Now, with that long story out of the way,
+
+178
+00:06:52,783 --> 00:06:53,949
+ I'd like to cap it off with:
+
+179
+00:06:53,949 --> 00:06:57,050
+I greatly appreciate y'all sticking around with me.
+
+180
+00:06:57,050 --> 00:06:58,833
+Despite my silence at times,
+
+181
+00:06:58,833 --> 00:07:01,899
+and constantly looking forward to my content regardless,
+
+182
+00:07:01,899 --> 00:07:05,283
+it's been a crazy rough start of 2026 for me.
+
+183
+00:07:05,283 --> 00:07:06,649
+But I hope it gets better from here.
+
+184
+00:07:06,649 --> 00:07:09,683
+While I can't promise a date of return, from what I'm seeing,
+
+185
+00:07:09,683 --> 00:07:14,016
+I predict I might return probably around May or so.
+
+186
+00:07:14,016 --> 00:07:16,283
+It's just speculation, but there will be a new video
+
+187
+00:07:16,283 --> 00:07:19,050
+when I can confirm that I can continue working comfortably.
+
+188
+00:07:19,050 --> 00:07:20,566
+There might be a stream around then.
+
+189
+00:07:20,566 --> 00:07:23,250
+With that said, thank you so much for your patience.
+
+190
+00:07:23,250 --> 00:07:24,250
+And once again,
+
+191
+00:07:24,250 --> 00:07:25,483
+OtsuMelo deshita (It's been ya girl Mel).
+
+192
+00:07:25,483 --> 00:07:26,083
+Peace.
+
