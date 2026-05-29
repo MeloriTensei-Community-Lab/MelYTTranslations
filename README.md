@@ -86,12 +86,12 @@ Because I would only do some minor checks and upload the file straight to YT.
 
 #### Rule 3: While AI assisted translations are allowed, submissions should have human level correction for any flow, contextual and grammatical related issues. 
 
-This will help keep the translations coherent and in a quality manner.
+This will help keep the translations coherent and in a quality manner. We want to make sure that AI is used for accessibility, not slop generation.
 
 ------------
 
 #### Rule 4: Be respectful of other contributors.
-It is encouraged for translators and subtitlers of the same language to come together and solve conflicts relating to the project(s) if they arise. Disagree with something? Point out the flaw(s) in a comment on the pull request or Issues ticket! (or even have a Discord group chat for that)
+It is encouraged for translators and subtitlers of the same language to come together and solve conflicts relating to the project(s) if they arise. Disagree with something? Point out the flaw(s) in a comment on the pull request or Issues ticket! (or even in my Discord server's Translators channel)
 
 ------------
 
