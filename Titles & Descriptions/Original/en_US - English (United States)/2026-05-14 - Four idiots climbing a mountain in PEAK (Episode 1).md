@@ -1,10 +1,11 @@
-# Title (A/B Testing)
-Four idiots climbing a mountain in PEAK
-My face when climbing Mount PEAK
-When the climbing in PEAK becomes stupider
+# Title
+Four idiots climbing a mountain in PEAK (Episode 1)
 
 # Description
 And the idiots really are just dumb.
+
+Video edited by @wasvreta! Thank youuuuu!
+[About closed captions] The soft coded subtitles in this video is best enjoyed on PC due to complicated isues on YT's end on rendering the style of subtitles for this video on other platforms. I'm terribly sorry for the inconvenience, and I will attempt to rectify this on future videos.
 
 Check out my page for more info about me! https://MeloriTensei.carrd.co/
 Want to see more blog commentary and early access videos? Check out my Ko-Fi below!
