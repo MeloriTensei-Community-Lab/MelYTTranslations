@@ -1,0 +1,1332 @@
+1
+00:00:00,383 --> 00:00:02,890
+So this video is gonna be a whole lot different
+
+2
+00:00:02,899 --> 00:00:07,030
+and I'm gonna start experimenting around with who I can be probably
+
+3
+00:00:07,033 --> 00:00:09,160
+quote-unquote "inspired by"
+
+4
+00:00:09,166 --> 00:00:13,180
+So in the past videos, you've been calling me DankPods from Temu
+
+5
+00:00:13,183 --> 00:00:15,760
+and I kind of appreciate that as a joke, honestly
+
+6
+00:00:15,766 --> 00:00:18,980
+So how about have this video for a little change?
+
+7
+00:00:18,983 --> 00:00:21,130
+Hello everybody and welcome-
+
+8
+00:00:21,133 --> 00:00:22,690
+Oh fuck
+
+9
+00:00:22,699 --> 00:00:25,250
+That felt so unnatural
+
+10
+00:00:25,250 --> 00:00:28,910
+Kon-Melo and welcome back to another video
+
+11
+00:00:29,066 --> 00:00:32,350
+If you know who I'm referencing, please let me know in the comments
+
+12
+00:00:32,350 --> 00:00:36,290
+and today we're gonna have a very short and simple video
+
+13
+00:00:36,299 --> 00:00:39,860
+kind of showcasing what I have done to the phone
+
+14
+00:00:39,866 --> 00:00:42,100
+that I've mentioned in a past video.
+
+15
+00:00:42,100 --> 00:00:46,140
+This is the Redmi Note 7 which is codenamed lavender
+
+16
+00:00:46,149 --> 00:00:50,210
+and a while ago I said that I'm not gonna be on crDroid for long
+
+17
+00:00:50,216 --> 00:00:53,310
+and not for long have I really done so.
+
+18
+00:00:53,316 --> 00:00:57,140
+So, I basically hop on to the said installer
+
+19
+00:00:57,149 --> 00:00:58,430
+surprising surprising
+
+20
+00:00:58,433 --> 00:00:59,930
+it does have an installer
+
+21
+00:00:59,933 --> 00:01:03,730
+and it simply just tells you to turn on developer options
+
+22
+00:01:03,733 --> 00:01:07,680
+and turn on USB debugging and make sure your bootloader is on
+
+23
+00:01:07,683 --> 00:01:10,280
+and plug in the device and away you go.
+
+24
+00:01:10,283 --> 00:01:13,580
+You're off to the races, which was shockingly simple
+
+25
+00:01:13,583 --> 00:01:16,180
+and insanely accessible.
+
+26
+00:01:16,183 --> 00:01:18,980
+At least, it's only accessible from the user-end.
+
+27
+00:01:18,983 --> 00:01:22,980
+However from the developer-end it comes in really tough
+
+28
+00:01:22,983 --> 00:01:27,230
+and the operating system we're gonna be talking about is
+
+29
+00:01:27,316 --> 00:01:29,080
+Ubuntu Touch
+
+30
+00:01:29,083 --> 00:01:31,430
+So what's so different about Ubuntu Touch?
+
+31
+00:01:31,433 --> 00:01:33,750
+So Ubuntu Touch is...
+
+32
+00:01:33,750 --> 00:01:36,730
+primarily just trying to be an alternative operating system.
+
+33
+00:01:36,733 --> 00:01:38,430
+You know how there's, on the PC
+
+34
+00:01:38,433 --> 00:01:42,860
+There is Windows and then there's Mac OS and then there's FreeBSD
+
+35
+00:01:42,866 --> 00:01:45,200
+and then there is Linux.
+
+36
+00:01:45,200 --> 00:01:48,760
+With a whole lot of other distros using the Linux kernel.
+
+37
+00:01:48,766 --> 00:01:51,860
+Forgive the really husky voice that I currently have because
+
+38
+00:01:51,866 --> 00:01:55,810
+if you hadn't read my community post, I've gone sick in the past week.
+
+39
+00:01:55,816 --> 00:01:58,180
+So I'm still kind of trying to recover
+
+40
+00:01:58,183 --> 00:02:01,830
+and there's still remnants of phlegm inside my systems
+
+41
+00:02:01,833 --> 00:02:03,630
+that I'm still trying to get out.
+
+42
+00:02:03,633 --> 00:02:06,450
+But I can't wait to get this video out no matter what
+
+43
+00:02:06,450 --> 00:02:09,810
+So I don't really know much about Ubuntu Touch
+
+44
+00:02:09,816 --> 00:02:12,440
+And I have not really done too much research prior
+
+45
+00:02:12,449 --> 00:02:15,410
+because I don't really know where to start
+
+46
+00:02:15,416 --> 00:02:19,500
+So let's get straight on with my first impressions about this operating system.
+
+47
+00:02:19,500 --> 00:02:20,330
+It's...
+
+48
+00:02:20,333 --> 00:02:24,880
+overwhelmingly different in a way that it's yet so familiar yet.
+
+49
+00:02:24,883 --> 00:02:29,730
+So overwhelmingly different so like for the start you think
+
+50
+00:02:29,733 --> 00:02:33,340
+instinctively you would open the applications by clicking...
+
+51
+00:02:33,349 --> 00:02:36,310
+I don't know swiping up or something like that
+
+52
+00:02:36,316 --> 00:02:41,360
+whereas on Ubuntu, both the PC and the phone side,
+
+53
+00:02:41,366 --> 00:02:46,750
+you have something like GNOME where you have the application toggle
+
+54
+00:02:46,750 --> 00:02:47,900
+on the corner of the screen.
+
+55
+00:02:47,900 --> 00:02:53,410
+So like say the Ubuntu GNOME, you would have it on the top corner
+
+56
+00:02:53,416 --> 00:02:54,960
+or on the dock.
+
+57
+00:02:54,966 --> 00:02:58,680
+Whereas here it's right here in the bottom corner.
+
+58
+00:02:58,683 --> 00:03:01,130
+Sometimes it works, most of the time it does work.
+
+59
+00:03:01,133 --> 00:03:03,050
+But when I say sometimes it works, I mean like
+
+60
+00:03:03,050 --> 00:03:05,060
+when the touch kind of failed on me at times
+(At the time of me trying out the OS for the first time,)
+
+61
+00:03:05,066 --> 00:03:07,230
+But most of the time it should work.
+(which was long ago, it was on the Nexus 6P,)
+
+62
+00:03:07,233 --> 00:03:11,460
+So it opens up like a full application thingamajig
+(where the touchscreen is broken AF.)
+
+63
+00:03:11,466 --> 00:03:19,060
+and on stock, surprising to me, that it has barcode reader by stock
+
+64
+00:03:19,066 --> 00:03:22,080
+So I don't know what you would use on a barcode reader
+
+65
+00:03:22,083 --> 00:03:27,630
+because the icon says QR code and the name says barcode.
+
+66
+00:03:27,633 --> 00:03:29,210
+It's a little bit confusing to me.
+
+67
+00:03:29,216 --> 00:03:33,800
+I have not done any tests because I don't have barcode to scan, unfortunately.
+
+68
+00:03:33,800 --> 00:03:36,310
+But I'm sure it'll be useful for some people
+
+69
+00:03:36,316 --> 00:03:40,130
+who are looking to use it on a QR code or something to connect to Wi-Fi
+
+70
+00:03:40,133 --> 00:03:41,330
+or something like that.
+
+71
+00:03:41,333 --> 00:03:43,460
+I'm not really too sure if this works on Ubuntu touch
+
+72
+00:03:43,466 --> 00:03:46,080
+So, please let me know in the comments below.
+
+73
+00:03:46,083 --> 00:03:49,910
+And then we finally also met with calculator, calendar,
+
+74
+00:03:49,916 --> 00:03:54,210
+camera, all the usual stuff and then this confuses me.
+
+75
+00:03:54,216 --> 00:03:57,610
+There is External Storage and then there's a File Manager.
+
+76
+00:03:57,616 --> 00:03:59,630
+Why aren't they the same place?
+
+77
+00:03:59,633 --> 00:04:01,160
+Like on that one app.
+
+78
+00:04:01,166 --> 00:04:04,330
+Why is there a separate app called External Storage?
+
+79
+00:04:04,333 --> 00:04:06,780
+Now this is my very first time starting up this application.
+
+80
+00:04:06,783 --> 00:04:09,630
+So I don't really know what to expect out of it.
+
+81
+00:04:09,633 --> 00:04:11,660
+Well, that was taking quite long.
+(After a whole minute...)
+
+82
+00:04:11,666 --> 00:04:15,050
+Well, disappointingly, I want to get out of here.
+
+83
+00:04:15,050 --> 00:04:16,360
+So how do we do that?
+
+84
+00:04:16,366 --> 00:04:20,190
+So there's two ways, so you don't really pull it up, unfortunately.
+
+85
+00:04:20,199 --> 00:04:22,030
+Because pulling up does nothing.
+
+86
+00:04:22,033 --> 00:04:26,080
+That's not what we do here in Ubuntu touch
+
+87
+00:04:26,083 --> 00:04:29,850
+Instead if you want to bring up the dock, you bring up from the left side.
+
+88
+00:04:29,850 --> 00:04:31,080
+So that's the dock.
+
+89
+00:04:31,083 --> 00:04:33,980
+However, if you want to bring up an app switcher,
+
+90
+00:04:33,983 --> 00:04:38,160
+which is what we usually use, you will bring it up from the right side.
+
+91
+00:04:38,166 --> 00:04:41,310
+So it brings up like a book like kind of pattern
+
+92
+00:04:41,316 --> 00:04:45,010
+and then to end the application you swipe it up and
+
+93
+00:04:45,016 --> 00:04:46,260
+you're back to the home screen.
+
+94
+00:04:46,266 --> 00:04:47,660
+So let's continue with that.
+
+95
+00:04:47,666 --> 00:04:51,390
+And then we got the gallery, media player, pretty classic stuff,
+
+96
+00:04:51,399 --> 00:04:52,810
+messaging
+
+97
+00:04:52,816 --> 00:04:55,380
+Then there's something called the Morph Browser.
+
+98
+00:04:55,383 --> 00:04:59,100
+I don't know why it did not come with Mozilla Firefox or something.
+
+99
+00:04:59,100 --> 00:05:02,880
+But I'm not too sure what the Morph Browser is because I haven't really touched it.
+
+100
+00:05:02,883 --> 00:05:05,050
+Then we got the music player, the notes,
+
+101
+00:05:05,050 --> 00:05:07,710
+and then there's something called the OpenStore.
+
+102
+00:05:07,716 --> 00:05:10,960
+Sounds a little different to me and I've never really heard of it.
+
+103
+00:05:10,966 --> 00:05:13,030
+But I have tried it for one application
+
+104
+00:05:13,033 --> 00:05:14,980
+and you'll see what I mean later.
+
+105
+00:05:14,983 --> 00:05:17,910
+And we got the phone, then we got the system settings,
+
+106
+00:05:17,916 --> 00:05:19,310
+terminal as per usual.
+
+107
+00:05:19,316 --> 00:05:21,830
+We got weather built-in and then
+
+108
+00:05:21,833 --> 00:05:23,480
+well, this is not really built-in
+
+109
+00:05:23,483 --> 00:05:26,110
+But I have installed YouTube through the OpenStore
+
+110
+00:05:26,116 --> 00:05:27,130
+We get into the OpenStore,
+
+111
+00:05:27,133 --> 00:05:28,130
+you just get into the OpenStore
+
+112
+00:05:28,133 --> 00:05:32,660
+and it kind of feels a little bit like the Canonical Store to some extent
+
+113
+00:05:32,666 --> 00:05:35,830
+but on mobile, so
+
+114
+00:05:35,833 --> 00:05:39,000
+There's a whole lot of open source application that you could kind of look for
+
+115
+00:05:39,000 --> 00:05:42,160
+and I'm sure a lot of people will find good use of it.
+
+116
+00:05:42,166 --> 00:05:44,660
+But to me it felt a little bit.
+
+117
+00:05:44,666 --> 00:05:45,560
+I don't know.
+
+118
+00:05:45,566 --> 00:05:49,210
+Maybe there's a little lot more open source usage.
+
+119
+00:05:49,216 --> 00:05:50,310
+Maybe it's just me.
+
+120
+00:05:50,316 --> 00:05:53,830
+I'm not really too sure but it does look like there's a whole lot of choice
+
+121
+00:05:53,833 --> 00:05:58,080
+I gotta be honest, but I haven't really see myself actually daily driving it
+
+122
+00:05:58,083 --> 00:05:59,930
+to the point that I have actually gotten used to it
+
+123
+00:05:59,933 --> 00:06:01,680
+So I don't really know much.
+
+124
+00:06:01,683 --> 00:06:04,530
+Oh my god, people still call it Google Mail
+
+125
+00:06:04,533 --> 00:06:06,730
+and then there's a whole lot of unofficial web app
+
+126
+00:06:06,733 --> 00:06:09,810
+that is to make up for the lack of applications that
+
+127
+00:06:09,816 --> 00:06:14,130
+that you can't really find on this platform primarily because
+
+128
+00:06:14,133 --> 00:06:20,560
+no one really sees this as a viable platform I guess, to make official programs of
+
+129
+00:06:20,566 --> 00:06:24,310
+So unfortunately, it's all heavily community open sourced
+
+130
+00:06:24,316 --> 00:06:27,190
+So you'll be mostly at the mercy of the community
+
+131
+00:06:27,199 --> 00:06:29,750
+to maintain the usability of the app
+
+132
+00:06:29,750 --> 00:06:33,500
+But sometimes it's good particularly on the Linux PC side
+
+133
+00:06:33,500 --> 00:06:37,480
+I actually found this to be not too big of an issue
+
+134
+00:06:37,483 --> 00:06:40,710
+But I'm not sure about how big of an issue would it be
+
+135
+00:06:40,716 --> 00:06:44,160
+for Ubuntu Touch primarily because of the far smaller community
+
+136
+00:06:44,166 --> 00:06:46,510
+and a far nicher community.
+
+137
+00:06:46,516 --> 00:06:49,350
+I don't really see any Ubuntu users-
+
+138
+00:06:49,350 --> 00:06:53,910
+Sorry, Ubuntu Touch users even after the explosion of subscribers
+
+139
+00:06:53,916 --> 00:06:56,680
+and Discord users in my server.
+
+140
+00:06:56,683 --> 00:07:00,280
+So I guess that's probably how niche it gets honestly,
+
+141
+00:07:00,283 --> 00:07:02,580
+but yeah, this is pretty much the OpenStore.
+
+142
+00:07:02,583 --> 00:07:07,430
+So let's say what if I want to get into something like say YouTube
+
+143
+00:07:07,433 --> 00:07:10,560
+and if we start off with just a YouTube web app
+
+144
+00:07:10,566 --> 00:07:12,210
+Oh, would you look at that?
+
+145
+00:07:12,216 --> 00:07:15,940
+So let's say I want to open up Michael MJD's videos
+
+146
+00:07:15,949 --> 00:07:21,580
+and considering the display is kind of capable of 1080p to some extent.
+
+147
+00:07:21,583 --> 00:07:25,110
+I wonder if this web app allows you to do so
+
+148
+00:07:25,116 --> 00:07:27,080
+Well, this is surprising.
+
+149
+00:07:27,083 --> 00:07:28,830
+You can go all the way up to 4K.
+
+150
+00:07:28,833 --> 00:07:31,310
+I assume it's probably because it's a web app
+
+151
+00:07:31,316 --> 00:07:34,410
+and it doesn't really know the real resolution
+
+152
+00:07:34,416 --> 00:07:36,510
+that the phone currently has, so...
+
+153
+00:07:36,516 --> 00:07:41,000
+It's just bringing you everything but will it actually go up there?
+
+154
+00:07:41,000 --> 00:07:43,560
+Michael: heck, even back then, it was probably a bit of a stretch.
+
+155
+00:07:43,566 --> 00:07:46,190
+Michael: As this is more of a small internet appliance
+
+156
+00:07:46,199 --> 00:07:49,030
+Michael: that could browse the web, check email, read ebooks,
+
+157
+00:07:49,033 --> 00:07:51,130
+Michael: and do a few other things too.
+
+158
+00:07:51,133 --> 00:07:53,880
+Michael: So, when I found this one for sale on e-
+(Mel pauses)
+
+159
+00:07:53,883 --> 00:07:54,560
+You know,
+
+160
+00:07:54,566 --> 00:07:56,810
+it's surprisingly good, I guess.
+
+161
+00:07:56,816 --> 00:08:01,310
+Albeit the web apps currently suffering with small things like
+
+162
+00:08:01,316 --> 00:08:02,780
+where's the title?
+
+163
+00:08:02,783 --> 00:08:06,830
+Maybe it's because the web app actually don't have a title up here
+
+164
+00:08:06,833 --> 00:08:08,560
+and then where's the like button?
+
+165
+00:08:08,566 --> 00:08:11,180
+Why can I only see the dislike button?
+
+166
+00:08:11,183 --> 00:08:12,960
+I think this is all pretty minor.
+
+167
+00:08:12,966 --> 00:08:15,160
+Can you drag it down to...
+
+168
+00:08:15,166 --> 00:08:16,330
+Oh yeah, you can do that.
+
+169
+00:08:16,333 --> 00:08:17,850
+Okay, that's cool
+
+170
+00:08:17,850 --> 00:08:23,010
+So it's almost insignificant, but it's still technically a web app to some extent
+
+171
+00:08:23,016 --> 00:08:25,680
+So you gotta have to navigate through the center console
+
+172
+00:08:25,683 --> 00:08:27,180
+that takes you around like
+
+173
+00:08:27,183 --> 00:08:30,690
+different tabs that you're supposed to expect out of a YouTube app
+
+174
+00:08:30,699 --> 00:08:35,530
+except unfortunately, it's a web app because there's no official YouTube app here.
+
+175
+00:08:35,533 --> 00:08:40,140
+So these are some of the shortfalls of being an Ubuntu Touch users
+
+176
+00:08:40,149 --> 00:08:41,360
+as far as I can see
+
+177
+00:08:41,366 --> 00:08:45,530
+However, it doesn't really stop you from properly daily driving it
+
+178
+00:08:45,533 --> 00:08:49,480
+if you're not really a very niche users like say you got games on it
+
+179
+00:08:49,483 --> 00:08:51,200
+like HoYogames and stuff like that.
+
+180
+00:08:51,200 --> 00:08:53,630
+If you're just a completely normal user,
+
+181
+00:08:53,633 --> 00:08:57,260
+so if you see yourself using something like like a general apps like
+
+182
+00:08:57,266 --> 00:09:02,360
+using it for office or some basic text messaging or some note-taking.
+
+183
+00:09:02,366 --> 00:09:06,790
+Then honestly, I don't really see how too big of a problem would it be
+
+184
+00:09:06,799 --> 00:09:10,640
+because I think it has reached a point where it's a bit functional
+
+185
+00:09:10,649 --> 00:09:14,460
+but not too functional to a point that is 100% reliable,
+
+186
+00:09:14,466 --> 00:09:19,960
+but it is still functional enough for it to be a working operating system
+
+187
+00:09:19,966 --> 00:09:21,180
+that you can actually use.
+
+188
+00:09:21,183 --> 00:09:24,310
+Now for people who are looking to tinker with this phone...
+
+189
+00:09:24,316 --> 00:09:28,160
+But before that, we're gonna quickly close off the applications here...
+
+190
+00:09:28,166 --> 00:09:30,430
+If you're looking to tinker with this phone,
+
+191
+00:09:30,433 --> 00:09:33,910
+fortunately, because it's Linux, because it's Ubuntu,
+
+192
+00:09:33,916 --> 00:09:38,430
+you can just feel free to open up the terminal and do your typical terminal things.
+
+193
+00:09:38,433 --> 00:09:41,480
+However, the default user always starts with "phablet"
+
+194
+00:09:41,483 --> 00:09:44,580
+and the device name is always "ubuntu-phablet"
+
+195
+00:09:44,583 --> 00:09:47,700
+and I mean you could do all the most basic things
+
+196
+00:09:47,700 --> 00:09:51,250
+like say for example updating your applications through apt
+
+197
+00:09:51,250 --> 00:09:53,610
+instead of using the OpenStore.
+
+198
+00:09:53,616 --> 00:09:54,730
+So like say
+
+199
+00:09:54,733 --> 00:09:59,160
+you can do "sudo apt update"
+
+200
+00:09:59,166 --> 00:10:03,230
+And then it's gonna ask for your password if you happen to have any password
+
+201
+00:10:03,233 --> 00:10:04,890
+which we'll get to that in a moment.
+
+202
+00:10:04,899 --> 00:10:06,000
+It's kind of a bit funny.
+
+203
+00:10:06,000 --> 00:10:06,810
+I gotta be honest
+
+204
+00:10:06,816 --> 00:10:09,980
+and then obviously you would have to go through repos and all that stuff,
+
+205
+00:10:09,983 --> 00:10:14,780
+typical of what apt does but on the phone, on ARM, in particular.
+
+206
+00:10:14,783 --> 00:10:18,660
+so you could pretty much do anything that you have already been doing here
+
+207
+00:10:18,666 --> 00:10:22,880
+except the major difference being is that you're facing with an architectural difference
+
+208
+00:10:22,883 --> 00:10:26,890
+which means the range of applications that you can install through apt
+
+209
+00:10:26,899 --> 00:10:31,500
+might be a bit limited and as not as far as I'm aware of
+
+210
+00:10:31,500 --> 00:10:34,450
+But when I was asking the question in my Discord server
+
+211
+00:10:34,450 --> 00:10:37,060
+about what should I do with Ubuntu Touch?
+
+212
+00:10:37,066 --> 00:10:40,710
+I've got requests of trying to run a Minecraft server on it.
+
+213
+00:10:40,716 --> 00:10:44,660
+But unfortunately, I could not find Java for Ubuntu touch.
+
+214
+00:10:44,666 --> 00:10:48,110
+There is not a repo that I'm aware of
+
+215
+00:10:48,116 --> 00:10:52,210
+that has Java or OpenJDK in some sort of way.
+
+216
+00:10:52,216 --> 00:10:55,530
+So I don't think it's possible at that moment
+
+217
+00:10:55,533 --> 00:11:00,260
+because of the limitations of not being able to find a Java as a library
+
+218
+00:11:00,266 --> 00:11:03,160
+and trying to run Minecraft as client.
+
+219
+00:11:03,166 --> 00:11:07,460
+Unfortunately, too is a problem because apparently on some of the forums out there
+
+220
+00:11:07,466 --> 00:11:09,290
+that I've searched up on Google.
+
+221
+00:11:09,299 --> 00:11:12,480
+They say that there is missing OpenGL library.
+
+222
+00:11:12,483 --> 00:11:17,480
+So that too is not an option unfortunately, but if you have any ideas,
+
+223
+00:11:17,483 --> 00:11:18,960
+please let me know in the comments below
+
+224
+00:11:18,966 --> 00:11:22,140
+and maybe someone else could probably give it a try
+
+225
+00:11:22,149 --> 00:11:26,680
+But someone I did see there's one very oddly specific website
+
+226
+00:11:26,683 --> 00:11:30,880
+that actually manages to run a Minecraft server on Ubuntu Touch
+
+227
+00:11:30,883 --> 00:11:32,430
+Well, big props to you, I guess.
+
+228
+00:11:32,433 --> 00:11:35,350
+I don't know how the heck did you manage to bring Java over?
+
+229
+00:11:35,350 --> 00:11:38,600
+But great job, I guess kind of shows that it is very possible.
+
+230
+00:11:38,600 --> 00:11:42,080
+Whatever you could do on the desktop or as long as you know how to convert it to arm,
+
+231
+00:11:42,083 --> 00:11:44,910
+then it might be possible to bring it to Ubuntu Touch.
+
+232
+00:11:44,916 --> 00:11:47,200
+So yeah, there's that.
+
+233
+00:11:47,200 --> 00:11:50,360
+'Right. Let's get on to one of the thing that jumped out to me.
+
+234
+00:11:50,366 --> 00:11:52,180
+So when you locked up your device,
+
+235
+00:11:52,183 --> 00:11:55,750
+by the default settings, for probably some of the device,
+
+236
+00:11:55,750 --> 00:12:00,160
+or half the Android device, the "double touch to wake" is on by default
+
+237
+00:12:00,166 --> 00:12:01,760
+while the other half do not.
+
+238
+00:12:01,766 --> 00:12:06,160
+So like I'm sure the Pixels do not have it on.
+
+239
+00:12:06,166 --> 00:12:11,040
+Maybe I may be remembering it wrongly, but please correct me in the comments.
+
+240
+00:12:11,049 --> 00:12:16,500
+But specifically Samsung double tap to wake is, I think on.
+(Correct me if I'm wrong.)
+
+241
+00:12:16,500 --> 00:12:20,960
+So instinctively, I did that and unfortunately, it doesn't wake up.
+
+242
+00:12:20,966 --> 00:12:23,390
+So I have to press the power button.
+
+243
+00:12:23,399 --> 00:12:26,910
+You'll be met with that which is kind of interesting
+
+244
+00:12:26,916 --> 00:12:29,630
+It's a bit, well, odd
+
+245
+00:12:29,633 --> 00:12:34,110
+I'm not really too sure what this signifies like this ring thingamajig.
+
+246
+00:12:34,116 --> 00:12:36,530
+But it kind of did confuse me a little bit.
+
+247
+00:12:36,533 --> 00:12:40,180
+So and then to unlock you can swipe either sides.
+
+248
+00:12:40,183 --> 00:12:43,730
+So you can swipe to the left you swipe to the right any of the sides.
+
+249
+00:12:43,733 --> 00:12:46,210
+You can also bring up the dock if you feel like it,
+
+250
+00:12:46,216 --> 00:12:48,880
+which you can't really fully expand it, right?
+
+251
+00:12:48,883 --> 00:12:51,730
+Yeah, you have to unlock it before you can open it fully.
+
+252
+00:12:51,733 --> 00:12:54,510
+So it still takes you to home screen after that.
+
+253
+00:12:54,516 --> 00:12:55,480
+So...
+
+254
+00:12:55,483 --> 00:12:58,860
+right, so now getting into the screen lock part of things.
+
+255
+00:12:58,866 --> 00:13:01,210
+So to do that we go all the way down to system
+
+256
+00:13:01,216 --> 00:13:05,010
+and then we go security, privacy, locking and unlocking,
+
+257
+00:13:05,016 --> 00:13:08,630
+and then lock security and here you can use a passphrase.
+
+258
+00:13:08,633 --> 00:13:12,480
+You can use biometrics, you can use passcodes.
+
+259
+00:13:12,483 --> 00:13:16,910
+So what if I set a passcode like say one two, three four...
+
+260
+00:13:16,916 --> 00:13:20,030
+one two three four and set
+
+261
+00:13:20,033 --> 00:13:22,510
+and it'll ask you if you're doing a digits passcode
+
+262
+00:13:22,516 --> 00:13:27,230
+Would you like to have a keyboard prompt or would you like to have a circle pattern
+
+263
+00:13:27,233 --> 00:13:31,500
+which is a little different to me, I guess, from the sound of it.
+
+264
+00:13:31,500 --> 00:13:33,890
+So let's probably give it a try.
+
+265
+00:13:33,899 --> 00:13:36,580
+Oh, so you could add you can add some biometrics to it,
+
+266
+00:13:36,583 --> 00:13:38,460
+but I'm not gonna do that because I'm gloved.
+
+267
+00:13:38,466 --> 00:13:43,530
+So there's really no point doing that and let's have a look
+
+268
+00:13:45,816 --> 00:13:47,910
+Oh okay,
+
+269
+00:13:47,916 --> 00:13:53,530
+that's interesting, one two three four...
+
+270
+00:13:53,649 --> 00:13:56,730
+It did jumped out to me earlier that it's that it says you can swipe to it
+
+271
+00:13:56,733 --> 00:13:58,360
+and you do that...
+
+272
+00:13:58,366 --> 00:13:59,510
+(gasp)
+
+273
+00:13:59,516 --> 00:14:00,580
+What???
+
+274
+00:14:00,583 --> 00:14:01,730
+Okay, that is cool.
+
+275
+00:14:01,733 --> 00:14:05,380
+It's like you when when your finger enters the button it touches
+
+276
+00:14:05,383 --> 00:14:07,180
+and then you leave it leaves.
+
+277
+00:14:07,183 --> 00:14:07,810
+That's kind of cool.
+
+278
+00:14:07,816 --> 00:14:09,730
+You can just swipe your way through it.
+
+279
+00:14:09,733 --> 00:14:11,000
+That's kind of awesome.
+
+280
+00:14:11,000 --> 00:14:15,010
+Well, the reason why I got impressed is because I was using the keyboard one
+
+281
+00:14:15,016 --> 00:14:18,960
+which was just a touch pad that is like a keyboard touch pad that you normally have
+
+282
+00:14:18,966 --> 00:14:21,540
+with a T9 dialing kind of thing.
+
+283
+00:14:21,549 --> 00:14:26,100
+So it was a bit unimpressive, but that meant for that particular style.
+
+284
+00:14:26,100 --> 00:14:26,930
+Right.
+
+285
+00:14:26,933 --> 00:14:29,810
+So there's one thing that was a bit funny with the terminal.
+
+286
+00:14:29,816 --> 00:14:34,180
+I just mentioned earlier and we're gonna get into that right now.
+
+287
+00:14:34,799 --> 00:14:38,600
+So on the start of the terminal, it would ask for your authentication
+
+288
+00:14:38,600 --> 00:14:42,260
+So instinctively you would type your password in
+
+289
+00:14:42,266 --> 00:14:45,260
+but it's using a full qwerty keyboard to do that
+
+290
+00:14:45,266 --> 00:14:46,450
+Hilarious, isn't it?
+
+291
+00:14:46,450 --> 00:14:47,030
+Okay
+
+292
+00:14:47,033 --> 00:14:48,510
+So now that we're in the terminal
+
+293
+00:14:48,516 --> 00:14:52,330
+like say, what if I want to do something like like "sudo apt" again.
+
+294
+00:14:52,333 --> 00:14:57,680
+So like say I press enter and then it says enter password for phablet.
+
+295
+00:14:57,683 --> 00:15:01,040
+To some people you would think password and passcodes are different.
+
+296
+00:15:01,049 --> 00:15:04,010
+Unfortunately in this case, it's completely the same.
+
+297
+00:15:04,016 --> 00:15:06,230
+So you just type,
+
+298
+00:15:07,983 --> 00:15:09,030
+and you're through.
+
+299
+00:15:09,033 --> 00:15:11,580
+Which is kind of a bit funny to me at times
+
+300
+00:15:11,583 --> 00:15:13,830
+and rare times is a little bit funny.
+
+301
+00:15:13,833 --> 00:15:18,750
+Because like I thought if it had already asked you for your permissions
+
+302
+00:15:18,750 --> 00:15:20,760
+from the beginning when you open up the terminal app,
+
+303
+00:15:20,766 --> 00:15:22,250
+then why did it ask you again
+
+304
+00:15:22,250 --> 00:15:26,700
+when you when you execute a sudo command for the first time.
+
+305
+00:15:26,700 --> 00:15:29,790
+So I probably need some explanations to that.
+
+306
+00:15:29,799 --> 00:15:31,630
+So, please let me know in the comments below for that.
+
+307
+00:15:31,633 --> 00:15:35,530
+But yeah, however I don't really have plans of switching this phone
+
+308
+00:15:35,533 --> 00:15:40,780
+back to Android because there isn't really any ROMs out there that is kind of
+
+309
+00:15:40,783 --> 00:15:44,850
+maintained or functioned so I kind of want to stick around in Ubuntu Touch
+
+310
+00:15:44,850 --> 00:15:50,760
+and hopefully, with more comment suggestions, on what you want me to do with the phone
+
+311
+00:15:50,766 --> 00:15:55,250
+Then let me know and probably give me some exact instructions in the comments as well
+
+312
+00:15:55,250 --> 00:15:57,000
+so that I know what to do
+
+313
+00:15:57,000 --> 00:15:59,010
+Then maybe we'll test it out on another video.
+
+314
+00:15:59,016 --> 00:16:02,560
+But anyways with that said, thank you so much for watching
+
+315
+00:16:02,566 --> 00:16:04,180
+and be sure to subscribe.
+
+316
+00:16:04,183 --> 00:16:08,780
+Be sure to notification thingymajig like everything, if you like it.
+
+317
+00:16:08,783 --> 00:16:10,180
+You know what, you know what to do.
+
+318
+00:16:10,183 --> 00:16:13,330
+If you like gaming coming out of me, feel free to check out my live tab.
+
+319
+00:16:13,333 --> 00:16:16,130
+I'll be doing a lot of gameplay streams on the live tab
+
+320
+00:16:16,133 --> 00:16:20,250
+because I did realize that I could probably just have gaming on that side
+
+321
+00:16:20,250 --> 00:16:24,810
+and then a little bit of tech on this video side to keep my viewerbase balanced.
+
+322
+00:16:24,816 --> 00:16:28,230
+So yeah with that said, thank you so much for watching.
+
+323
+00:16:28,233 --> 00:16:29,660
+OtsuMelo deshita [It's been ya girl, Mel].
+
+324
+00:16:29,666 --> 00:16:32,180
+and I'll catch you guys next time.
+
+325
+00:16:32,183 --> 00:16:36,200
+See ya
+
+326
+00:16:37,649 --> 00:16:43,680
+[Ko-fi] Thank you for supporting me financially!
+Members: Aerostatik, Natalie, Jo, Xandra~
+
+327
+00:16:44,616 --> 00:16:52,130
+[MeloriTensei 転性メロリ] Thank you for watching!
+Check out my other contents!
+
+328
+00:16:52,133 --> 00:16:53,430
+No, this imitation is not permanent.
+
+329
+00:16:53,433 --> 00:16:54,390
+Phew
+
+330
+00:16:54,399 --> 00:16:57,080
+That was a really simple video I gotta be honest,
+
+331
+00:16:57,083 --> 00:17:00,640
+although I got really nervous.
+

@@ -1,0 +1,3342 @@
+1
+00:00:00,280 --> 00:00:02,120
+Salutations!
+
+2
+00:00:02,120 --> 00:00:04,680
+Welcome to Melori's Tensei's…
+
+3
+00:00:04,680 --> 00:00:06,000
+Oh, Melori's Tensei?
+
+4
+00:00:06,000 --> 00:00:07,991
+What the fuck?
+
+5
+00:00:07,991 --> 00:00:08,000
+Heh.
+Pfft.
+
+6
+00:00:08,000 --> 00:00:10,640
+So, you're an iPhone user like I am.
+
+7
+00:00:10,640 --> 00:00:14,520
+Pretty much an iPhone user that 
+does not use the ecosystem.
+
+8
+00:00:14,520 --> 00:00:16,000
+Well, salutations!
+
+9
+00:00:16,000 --> 00:00:18,840
+I'm Melori Valentine, and 
+this is my personal guide
+
+10
+00:00:18,840 --> 00:00:21,840
+to ditching the walled garden ecosystem.
+
+11
+00:00:21,840 --> 00:00:23,440
+Though with disclaimer,
+
+12
+00:00:23,440 --> 00:00:25,880
+that some of the services that I'll be using
+
+13
+00:00:25,880 --> 00:00:28,040
+might not necessarily respect your privacy.
+
+14
+00:00:28,040 --> 00:00:32,000
+So, please do your own 
+research about these services.
+
+15
+00:00:32,000 --> 00:00:36,000
+There might be some services that might 
+be a bit of an anti-feature for you.
+
+16
+00:00:36,000 --> 00:00:38,120
+So, for those privacy-concerned users,
+
+17
+00:00:38,120 --> 00:00:42,000
+please stick around in the video, 
+and I'll show you a very cool list.
+
+18
+00:00:42,000 --> 00:00:44,160
+Or you can just jump straight 
+to the description and just…
+
+19
+00:00:44,160 --> 00:00:44,840
+I don't know.
+
+20
+00:00:44,840 --> 00:00:47,360
+That's the end of the video for you, I guess.
+
+21
+00:00:47,360 --> 00:00:47,600
+Okay.
+I'm nah…
+
+22
+00:00:47,600 --> 00:00:49,000
+I'm just joking.
+
+23
+00:00:49,000 --> 00:00:49,680
+Alright.
+
+24
+00:00:49,680 --> 00:00:51,160
+Let's get straight to…
+
+25
+00:00:51,160 --> 00:00:55,040
+First up, the biggest elephant in the room.
+
+26
+00:00:55,040 --> 00:00:57,640
+Because I know many people 
+will click off this video,
+
+27
+00:00:57,640 --> 00:01:00,520
+and they're gonna go away and say 
+goodbye and crash my algorithm.
+
+28
+00:01:00,520 --> 00:01:03,480
+So, we're gonna go straight from 
+the biggest to the smallest instead.
+
+29
+00:01:03,480 --> 00:01:07,360
+So, first up is going to be…
+
+30
+00:01:07,360 --> 00:01:08,520
+Photo Sync!
+
+31
+00:01:08,520 --> 00:01:12,200
+Now, we all have precious photos 
+that we like to sync up to the cloud,
+
+32
+00:01:12,200 --> 00:01:15,600
+so that nothing gets lost, 
+even on the time of taking.
+
+33
+00:01:15,600 --> 00:01:17,480
+So, what do we use?
+
+34
+00:01:17,480 --> 00:01:21,320
+So, for me, however, I use two 
+different solutions at the same time.
+
+35
+00:01:21,320 --> 00:01:23,680
+The first one being using MEGA.
+
+36
+00:01:23,680 --> 00:01:28,720
+So, MEGA is pretty popular as 
+one of the cloud services that…
+
+37
+00:01:28,720 --> 00:01:34,000
+Quote-unquote, "online privacy for 
+everyone", or cares for privacy.
+
+38
+00:01:34,000 --> 00:01:39,080
+So, you either take their word for 
+it, or do a plenty of research.
+
+39
+00:01:39,080 --> 00:01:42,840
+And speaking of research, two years 
+ago, as of the filming this video,
+
+40
+00:01:42,840 --> 00:01:46,360
+there might be a little bit 
+of a trust problem with MEGA.
+
+41
+00:01:46,360 --> 00:01:49,600
+So, for me, I do trust MEGA a little bit,
+
+42
+00:01:49,600 --> 00:01:54,800
+as long as my photos are not really 
+mission-critical or sensitive.
+
+43
+00:01:54,800 --> 00:01:57,160
+So, you be your own judge for this.
+
+44
+00:01:57,160 --> 00:01:59,680
+I'll link those resources 
+in the description below.
+
+45
+00:01:59,680 --> 00:02:04,280
+Now, for the second one, in case 
+MEGA goes to shit, I use SeaFile.
+
+46
+00:02:04,280 --> 00:02:09,280
+Well, SeaFile is mainly a personally 
+self-hosted cloud sync server.
+
+47
+00:02:09,280 --> 00:02:14,960
+So, this also means you need a little bit of a 
+technical know-how to be able to host a server.
+
+48
+00:02:14,960 --> 00:02:19,160
+However, functionality-wise, it is more 
+or less the same as MEGA, Google Drive,
+
+49
+00:02:19,160 --> 00:02:23,440
+a plenty lot, but it is a little, 
+kind of like, clean-looking, I guess?
+
+50
+00:02:23,440 --> 00:02:27,320
+It doesn't come smacking at you with, 
+like, premium features this and that,
+
+51
+00:02:27,320 --> 00:02:29,160
+because you have control over your files.
+
+52
+00:02:29,160 --> 00:02:31,240
+This sounds like a really awesome idea.
+
+53
+00:02:31,240 --> 00:02:35,120
+So, this is my current secondary backup option.
+
+54
+00:02:35,120 --> 00:02:37,120
+So, there you have it.
+
+55
+00:02:37,120 --> 00:02:41,400
+However, SeaFile do come with, 
+well, kind of bare of features.
+
+56
+00:02:41,400 --> 00:02:42,760
+Like, how do I say this?
+
+57
+00:02:42,760 --> 00:02:46,360
+You have extremely basic Office, 
+and that's pretty much it.
+
+58
+00:02:46,360 --> 00:02:50,240
+You can't really do much of it, like, 
+sharing notes, that does not exist yet.
+
+59
+00:02:50,240 --> 00:02:53,040
+So, this is where NextCloud comes in.
+
+60
+00:02:53,040 --> 00:02:56,400
+NextCloud is a lot more whole 
+and a lot more complete,
+
+61
+00:02:56,400 --> 00:03:00,000
+because it is more catered 
+to the corporate platform.
+
+62
+00:03:00,000 --> 00:03:03,840
+And even if you do host it 
+on your casual platform,
+
+63
+00:03:03,840 --> 00:03:06,520
+it kind of feels professional to some extent.
+
+64
+00:03:06,520 --> 00:03:08,960
+I'm also personally a NextCloud user.
+
+65
+00:03:08,960 --> 00:03:12,040
+However, I don't find myself using 
+all the features on NextCloud,
+
+66
+00:03:12,040 --> 00:03:15,920
+so I can't really say too much for 
+the features that are available there.
+
+67
+00:03:15,920 --> 00:03:19,000
+But once again, with SeaFile and NextCloud, so,
+
+68
+00:03:19,000 --> 00:03:21,920
+the security can only be as 
+good as the hosters themselves.
+
+69
+00:03:21,920 --> 00:03:23,280
+You gotta keep that in mind.
+
+70
+00:03:23,280 --> 00:03:27,520
+It's not really a one-click 
+setup and forget solution.
+
+71
+00:03:27,520 --> 00:03:31,040
+You would have to take note of 
+how you are supposed to host it,
+
+72
+00:03:31,040 --> 00:03:34,160
+how you're gonna configure it, 
+and how you're gonna secure it.
+
+73
+00:03:34,160 --> 00:03:35,680
+Pretty much most of that.
+
+74
+00:03:35,680 --> 00:03:38,720
+However, it's still kind of 
+setup and forget to some extent.
+
+75
+00:03:38,720 --> 00:03:41,040
+There are some bit of maintenance occasionally,  
+
+76
+00:03:41,040 --> 00:03:44,040
+like, from time to time, like 
+months or something like that.
+
+77
+00:03:44,040 --> 00:03:48,000
+But if you're really, really privacy 
+concerned or privacy conscious,  
+
+78
+00:03:48,000 --> 00:03:50,120
+this might be a solution for you.
+
+79
+00:03:50,120 --> 00:03:54,000
+Right, with photo sync and cloud sync out 
+of the way, let's head on to the next one.
+
+80
+00:03:54,000 --> 00:03:57,760
+So, if you happen to use Apple 
+Keychain, and you thought to yourself,
+
+81
+00:03:57,760 --> 00:03:59,880
+how do I bring it to other platforms,
+
+82
+00:03:59,880 --> 00:04:03,800
+because I don't just use an 
+iPhone and I don't just use a Mac.
+
+83
+00:04:03,800 --> 00:04:06,800
+Let's say I got a Windows computer 
+and I got everything else,
+
+84
+00:04:06,800 --> 00:04:09,000
+like Linux, Android, whatever that is.
+
+85
+00:04:09,000 --> 00:04:10,480
+How do we bring them over?
+
+86
+00:04:10,480 --> 00:04:13,960
+Well, obviously, you gotta ditch the Keychain.
+
+87
+00:04:13,960 --> 00:04:16,600
+There's really not much to say, 
+you gotta ditch the Keychain.
+
+88
+00:04:16,600 --> 00:04:21,040
+So, there are a few more alternatives 
+they can pick up instead of the Keychain.
+
+89
+00:04:21,040 --> 00:04:23,440
+And on the very top, I got Bitwarden.
+
+90
+00:04:23,440 --> 00:04:25,760
+Bitwarden is one of my personal favorite
+
+91
+00:04:25,760 --> 00:04:29,760
+because its code can be independently audited.
+
+92
+00:04:29,760 --> 00:04:32,400
+Though I may not necessarily be a security expert,
+
+93
+00:04:32,400 --> 00:04:36,680
+it is that bit of assurance that 
+professionals can check the code
+
+94
+00:04:36,680 --> 00:04:40,760
+and call out to the public for 
+that, should there be any issues.
+
+95
+00:04:40,760 --> 00:04:44,880
+And accountability can be 
+held on Bitwarden themselves,
+
+96
+00:04:44,880 --> 00:04:46,760
+which sounds really important to me
+
+97
+00:04:46,760 --> 00:04:50,920
+because I care more about a 
+really clean and secure code
+
+98
+00:04:50,920 --> 00:04:54,960
+over a very paper guarantee from a company.
+
+99
+00:04:54,960 --> 00:04:58,360
+So, Bitwarden is definitely on the top of my list.
+
+100
+00:04:58,360 --> 00:05:01,320
+Now, Bitwarden lets you save passwords, notes,
+
+101
+00:05:01,320 --> 00:05:04,160
+and there's a little bit of secure vault.
+
+102
+00:05:04,160 --> 00:05:06,640
+However, you're gonna need 
+a pro subscription for that,
+
+103
+00:05:06,640 --> 00:05:09,240
+unless you self-host your 
+own server. (*Check desc)
+
+104
+00:05:09,240 --> 00:05:11,120
+Now, correct me if I'm wrong, however,
+
+105
+00:05:11,120 --> 00:05:15,680
+Bitwarden does give you an option to 
+self-host your own Bitwarden server.
+
+106
+00:05:15,680 --> 00:05:18,080
+So, you can store your password in your own server
+
+107
+00:05:18,080 --> 00:05:20,920
+rather than Bitwarden's own 
+servers, which is pretty awesome,
+
+108
+00:05:20,920 --> 00:05:22,680
+but I don't really do that for myself
+
+109
+00:05:22,680 --> 00:05:26,080
+because I don't really trust my own server.
+
+110
+00:05:26,080 --> 00:05:27,480
+I'll explain in a moment.
+
+111
+00:05:27,480 --> 00:05:30,160
+Now, following down the list, we got ProtonPass.
+
+112
+00:05:30,160 --> 00:05:34,040
+ProtonPass, however, I have 
+not personally used ProtonPass,
+
+113
+00:05:34,040 --> 00:05:38,240
+but I am a user within the Proton ecosystem,
+
+114
+00:05:38,240 --> 00:05:41,280
+namely ProtonMail and ProtonVPN.
+
+115
+00:05:41,280 --> 00:05:43,960
+However, I've never really experienced ProtonPass,
+
+116
+00:05:43,960 --> 00:05:46,280
+so you be your own judge, give it a try,
+
+117
+00:05:46,920 --> 00:05:50,280
+maybe do a little bit of a 
+back and forth testing with it.
+
+118
+00:05:50,280 --> 00:05:54,000
+But, I have trusted Proton as 
+a company for quite some time.
+
+119
+00:05:54,000 --> 00:05:56,760
+There may be one particular incident,
+
+120
+00:05:56,760 --> 00:06:00,120
+but it can get a teeny tiny bit concerning
+
+121
+00:06:00,120 --> 00:06:05,000
+depending on how far is your boundaries 
+to what you allow Proton to log.
+
+122
+00:06:05,000 --> 00:06:10,400
+They say zero logging, but obviously they 
+refer to the content that is zero logging,
+
+123
+00:06:10,400 --> 00:06:13,640
+but your access logs might still be there.
+
+124
+00:06:13,640 --> 00:06:15,200
+So, please keep that in mind.
+
+125
+00:06:15,200 --> 00:06:17,920
+That may potentially be a law in some places,
+
+126
+00:06:17,920 --> 00:06:20,480
+so this might be a little bit of a factor
+
+127
+00:06:20,480 --> 00:06:24,760
+that might be a tipping point for some people 
+who are really, really privacy sensitive.
+
+128
+00:06:24,760 --> 00:06:28,800
+Moving on to a really 
+proprietary* company, Dashlane.
+
+129
+00:06:28,800 --> 00:06:31,440
+So, I have previously used Dashlane before,
+
+130
+00:06:31,440 --> 00:06:34,400
+however, at the time, it was like 
+many, many years ago already.
+
+131
+00:06:34,400 --> 00:06:38,000
+You might have heard of Dashlane 
+sponsoring a lot of YouTubers
+
+132
+00:06:38,000 --> 00:06:42,480
+and basically just promoting their 
+password manager and so forth.
+
+133
+00:06:42,480 --> 00:06:46,160
+That is at least, they've done it after LastPass,
+
+134
+00:06:46,160 --> 00:06:47,680
+but we'll get to that in a moment.
+
+135
+00:06:47,680 --> 00:06:50,960
+And I thought to myself, maybe 
+I should give Dashlane a try.
+
+136
+00:06:50,960 --> 00:06:52,760
+Maybe, let's see what's different about it.
+
+137
+00:06:52,760 --> 00:06:57,400
+And when I tried it, it's pretty awesome 
+that when you do pay for a subscription,
+
+138
+00:06:57,400 --> 00:06:59,880
+that means you also have a file vault.
+
+139
+00:06:59,880 --> 00:07:00,560
+That's cool.
+
+140
+00:07:00,560 --> 00:07:04,400
+So, I kept a lot of documents at the 
+time in there, and that is pretty cool.
+
+141
+00:07:04,400 --> 00:07:06,760
+However, I do have one personal complaint.
+
+142
+00:07:06,760 --> 00:07:10,680
+I'm not sure this is resolved yet because 
+I'm no longer a Dashlane customer.
+
+143
+00:07:10,680 --> 00:07:13,320
+But as of many, many years ago in my past,
+
+144
+00:07:13,320 --> 00:07:16,400
+at that time, Dashlane was 
+acting a little bit funny.
+
+145
+00:07:16,400 --> 00:07:19,040
+I'm not talking about like privacy funny.
+
+146
+00:07:19,040 --> 00:07:21,560
+I mean like behavioral funny.
+
+147
+00:07:21,560 --> 00:07:25,440
+It's like sometimes it bugs out 
+with the auto-fill features.
+
+148
+00:07:25,440 --> 00:07:29,120
+Sometimes even with the saving feature, 
+sometimes I might lose some entries,
+
+149
+00:07:29,120 --> 00:07:31,880
+but particularly the ones that 
+I created brand new instead.
+
+150
+00:07:31,880 --> 00:07:35,680
+The existing ones stay the way it 
+is, but it's kind of funny still.
+
+151
+00:07:35,680 --> 00:07:40,760
+Like, it kind of did get in my way and it 
+takes off like a couple of minutes of my time.
+
+152
+00:07:40,760 --> 00:07:44,840
+Which is not really wise as a university 
+student at the time of subscription.
+
+153
+00:07:44,840 --> 00:07:46,440
+So, Dashlane, if you have fixed it,  
+
+154
+00:07:46,440 --> 00:07:49,760
+please let me know in the comments 
+below if you happen to be watching this.
+
+155
+00:07:49,760 --> 00:07:52,280
+Though I won't guarantee you 
+that I'll be a customer again
+
+156
+00:07:52,280 --> 00:07:55,000
+because I currently don't have money.
+
+157
+00:07:55,000 --> 00:07:56,120
+Right, moving on.
+
+158
+00:07:56,120 --> 00:08:00,960
+There is a password manager I would like 
+you to completely ignore at the moment.
+
+159
+00:08:00,960 --> 00:08:02,200
+Personally, at least.
+
+160
+00:08:02,200 --> 00:08:03,480
+It is LastPass.
+
+161
+00:08:03,480 --> 00:08:05,480
+So, I have used LastPass before.
+
+162
+00:08:05,480 --> 00:08:08,120
+LastPass as a product was really really good.
+
+163
+00:08:08,120 --> 00:08:13,080
+Like I genuinely like it and sponsors 
+weren't really lying about it.
+
+164
+00:08:13,080 --> 00:08:16,920
+However, ever since its previous 
+security breach long long time ago,
+
+165
+00:08:16,920 --> 00:08:20,200
+it kind of got a little bit concerning 
+for me to the point that it's like,
+
+166
+00:08:20,200 --> 00:08:22,640
+"can I trust them any longer?"
+
+167
+00:08:22,640 --> 00:08:25,520
+And it kind of got a little 
+bit, well, very worrying.
+
+168
+00:08:25,520 --> 00:08:27,960
+It's like you paid to get hacked?
+
+169
+00:08:27,960 --> 00:08:29,000
+Huh?
+
+170
+00:08:29,000 --> 00:08:31,040
+So, I thought to myself, you know what?
+
+171
+00:08:31,040 --> 00:08:31,600
+I'm out.
+
+172
+00:08:31,600 --> 00:08:32,320
+Sorry.
+
+173
+00:08:32,320 --> 00:08:34,840
+That's how I switched to Dashlane.
+
+174
+00:08:34,840 --> 00:08:36,200
+It's kind of wild.
+
+175
+00:08:36,200 --> 00:08:40,960
+However, LastPass said that they're 
+going to keep enforcing the security
+
+176
+00:08:40,960 --> 00:08:42,520
+and leveling up the security.
+
+177
+00:08:42,520 --> 00:08:48,800
+So, my personal advice is threat with extreme 
+caution if you insist of using LastPass.
+
+178
+00:08:48,800 --> 00:08:52,280
+However, I would have recommended 
+you to use Bitwarden instead.
+
+179
+00:08:52,280 --> 00:08:53,120
+Right, moving on.
+
+180
+00:08:53,120 --> 00:08:54,760
+Two-factor authentication.
+
+181
+00:08:54,760 --> 00:08:57,120
+Particularly, the ones 
+where you have to type those
+
+182
+00:08:57,120 --> 00:09:00,000
+four-digit or six-digit or eight-digit numbers
+
+183
+00:09:00,000 --> 00:09:03,440
+whenever you need to log in to 
+some places like websites like Yu-
+
+184
+00:09:03,440 --> 00:09:04,120
+Yugo?
+
+185
+00:09:04,120 --> 00:09:05,040
+What the fuck?
+
+186
+00:09:05,040 --> 00:09:09,160
+Some places like Google, 
+Facebook, Instagram, so forth.
+
+187
+00:09:09,160 --> 00:09:10,400
+Man, I'm such a boomer.
+
+188
+00:09:10,400 --> 00:09:12,440
+You would need something that's kind of basic
+
+189
+00:09:12,440 --> 00:09:16,160
+and usually these websites will tell 
+you to install Google Authenticator
+
+190
+00:09:16,160 --> 00:09:18,040
+or Microsoft Authenticator.
+
+191
+00:09:18,040 --> 00:09:21,480
+I would personally go against 
+that and I'll explain in a moment.
+
+192
+00:09:21,480 --> 00:09:24,080
+But first, we'll get it 
+right into the alternatives.
+
+193
+00:09:24,080 --> 00:09:27,040
+My top recommendation, however, is 2FAS.
+
+194
+00:09:27,040 --> 00:09:31,800
+So, 2FAS is amazing and it's really 
+snappy and it's kind of transparent
+
+195
+00:09:31,800 --> 00:09:35,280
+and you can also audit the code 
+similar to how Bitwarden does theirs.
+
+196
+00:09:35,280 --> 00:09:38,800
+It's honestly a very robust way to handle things.
+
+197
+00:09:38,800 --> 00:09:42,280
+They have talked a lot about their 
+mentality on their YouTube channel.
+
+198
+00:09:42,280 --> 00:09:46,120
+So, I hope they keep that 
+mentality throughout so far.
+
+199
+00:09:46,120 --> 00:09:49,160
+And I hope they don't sell out 
+to some big giant corporate
+
+200
+00:09:49,160 --> 00:09:52,320
+like a certain company that I 
+will talk about in a moment.
+
+201
+00:09:52,320 --> 00:09:54,640
+And the one good thing about 2FAS, however,
+
+202
+00:09:54,640 --> 00:09:58,680
+is that it allows you to use iCloud 
+Sync to save your keys as a backup.
+
+203
+00:09:58,680 --> 00:10:03,240
+However, if you are not really comfortable 
+with saving things in the cloud, that's fine.
+
+204
+00:10:03,240 --> 00:10:06,680
+Turn that toggle off and you'll 
+be completely local again.
+
+205
+00:10:06,680 --> 00:10:09,120
+The one cool thing I really 
+like about 2FAS, however,
+
+206
+00:10:09,120 --> 00:10:12,840
+is this amazing feature where you 
+can just have a browser extension
+
+207
+00:10:12,840 --> 00:10:14,280
+and you just click on it...
+
+208
+00:10:14,280 --> 00:10:17,320
+And it pings your phone and you just press accept
+
+209
+00:10:17,320 --> 00:10:19,080
+and then it auto-fills the password for you.
+
+210
+00:10:19,080 --> 00:10:23,120
+So, you don't have to go look up and 
+down and up and down for the keys.
+
+211
+00:10:23,120 --> 00:10:25,640
+Which I honestly think is 
+seriously an awesome feature
+
+212
+00:10:25,640 --> 00:10:27,360
+for people who are really really lazy
+
+213
+00:10:27,360 --> 00:10:30,600
+or they just have limited access 
+to the keypad on their keyboard
+
+214
+00:10:30,600 --> 00:10:31,440
+or something like that.
+
+215
+00:10:31,440 --> 00:10:33,280
+Or they just outright don't have a keypad.
+
+216
+00:10:33,280 --> 00:10:35,160
+Like say, TKL users.
+
+217
+00:10:35,160 --> 00:10:36,440
+TKL keyboard users.
+
+218
+00:10:36,440 --> 00:10:37,440
+Yeah, I see you.
+
+219
+00:10:37,440 --> 00:10:39,080
+And 60% keyboard users.
+
+220
+00:10:39,080 --> 00:10:40,160
+Yeah, I see you too.
+
+221
+00:10:40,160 --> 00:10:42,280
+Hey, custom keyboards, let's go!
+
+222
+00:10:42,280 --> 00:10:43,680
+Anyways, back to the main topic.
+
+223
+00:10:44,800 --> 00:10:47,560
+And they also allowed you to export your keys
+
+224
+00:10:47,560 --> 00:10:50,360
+so you can bring it cross-platform 
+to the Android side.
+
+225
+00:10:50,360 --> 00:10:52,800
+Say, you have both devices like I do.
+
+226
+00:10:52,800 --> 00:10:55,560
+Like say, both an iOS and an Android device.
+
+227
+00:10:55,560 --> 00:10:59,680
+I would export it and then I'll take it 
+to the Android site and import it there.
+
+228
+00:10:59,680 --> 00:11:01,480
+So, I got two points of entry.
+
+229
+00:11:01,480 --> 00:11:03,840
+Though, preferences is always preferences.
+
+230
+00:11:03,840 --> 00:11:06,600
+So, you don't necessarily 
+have to do exactly what I did.
+
+231
+00:11:06,600 --> 00:11:09,480
+But at least that's a 
+scenario that you can imagine.
+
+232
+00:11:09,480 --> 00:11:12,640
+Right, following that, how do we make this better?
+
+233
+00:11:12,640 --> 00:11:16,240
+Clearly, there is a point of inconvenience for me.
+
+234
+00:11:16,240 --> 00:11:19,000
+So, you know how I just 
+mentioned little seconds ago
+
+235
+00:11:19,000 --> 00:11:21,720
+about how you need to export the keys
+
+236
+00:11:21,720 --> 00:11:24,640
+and take it manually to the Android site.
+
+237
+00:11:24,640 --> 00:11:27,760
+How do we do this a lot more automatically?
+
+238
+00:11:27,760 --> 00:11:29,240
+And that's where I found Ente.
+
+239
+00:11:29,760 --> 00:11:32,120
+However, I have no personal experience with Ente.
+
+240
+00:11:32,120 --> 00:11:35,280
+But Ente seems like a photo sync platform.
+
+241
+00:11:35,280 --> 00:11:37,440
+A more encrypted photosync platform.
+
+242
+00:11:37,440 --> 00:11:39,360
+But it is under a subscription basis.
+
+243
+00:11:39,360 --> 00:11:42,920
+So, it kind of deterred me from considering Ente.
+
+244
+00:11:42,920 --> 00:11:44,800
+However, if you scroll just a little bit down
+
+245
+00:11:44,800 --> 00:11:46,960
+and you see products and you get Auth.
+
+246
+00:11:46,960 --> 00:11:48,880
+Wow, it's Ente Auth.
+
+247
+00:11:48,880 --> 00:11:54,280
+It's an authenticator that is 
+free and cross-platform sync.
+
+248
+00:11:54,280 --> 00:11:56,560
+However, I don't have 
+experience with Ente Auth yet.
+
+249
+00:11:56,560 --> 00:11:59,720
+But I am looking forward to 
+try it out after this video.
+
+250
+00:11:59,720 --> 00:12:05,720
+So, if I do talk about securities or 2FAs 
+or anything related to it on a video.
+
+251
+00:12:05,720 --> 00:12:08,800
+I would probably talk about 
+my reviews on that video then.
+
+252
+00:12:08,800 --> 00:12:12,000
+Please do keep an eye on my channel 
+and be sure to subscribe for that.
+
+253
+00:12:12,000 --> 00:12:14,120
+However, it sounds really really awesome that
+
+254
+00:12:14,120 --> 00:12:19,480
+it's kind of like 2FAS but a little 
+more cloud-focused and encrypted.
+
+255
+00:12:19,480 --> 00:12:21,480
+It may not necessarily be a cup of tea
+
+256
+00:12:21,480 --> 00:12:25,920
+for people who are more local-focused 
+rather than cloud-focused.
+
+257
+00:12:25,920 --> 00:12:30,320
+So, if you are more of that 
+person, 2FAS would be for you.
+
+258
+00:12:30,320 --> 00:12:33,840
+However, there is an alternative to 
+2FAS when it comes to being local.
+
+259
+00:12:33,840 --> 00:12:35,840
+There is Aegis Authenticator*.
+
+260
+00:12:35,840 --> 00:12:37,960
+Though I don't have personal 
+experience with Aegis,
+
+261
+00:12:37,960 --> 00:12:44,760
+but I have heard of a lot of 
+recommendations in the 2FA subreddit.
+
+262
+00:12:44,760 --> 00:12:47,360
+And there were plenty of them in fact.
+
+263
+00:12:47,360 --> 00:12:49,240
+The reason being is pretty simple.
+
+264
+00:12:49,240 --> 00:12:52,760
+You can just access the source 
+code and audit the code yourself.
+
+265
+00:12:52,760 --> 00:12:55,120
+Which is pretty freaking awesome in my opinion.
+
+266
+00:12:55,120 --> 00:13:00,200
+It's kind of like the transparency 
+is just there for you to see.
+
+267
+00:13:00,200 --> 00:13:01,080
+Which is kind of awesome.
+
+268
+00:13:01,080 --> 00:13:02,760
+And it's also available in F-Droid
+
+269
+00:13:02,760 --> 00:13:06,080
+which is an alternative 
+download store that you can use
+
+270
+00:13:06,080 --> 00:13:08,440
+if you don't feel like wanting to use Google Play
+
+271
+00:13:08,440 --> 00:13:10,120
+or you just don't trust Google Play.
+
+272
+00:13:10,120 --> 00:13:14,120
+Or you rooted your device or you use a custom 
+ROM that does not have Google Play Store
+
+273
+00:13:14,120 --> 00:13:16,280
+and you still do not want 
+to have Google Play Store.
+
+274
+00:13:16,280 --> 00:13:18,360
+It's kind of awesome to have options like this.
+
+275
+00:13:18,360 --> 00:13:20,480
+So, big ups for Aegis.
+
+276
+00:13:20,480 --> 00:13:23,760
+Now, we're getting into the dangerous zone.
+
+277
+00:13:23,760 --> 00:13:27,360
+Now, let's get into those 
+that we should avoid outright.
+
+278
+00:13:27,360 --> 00:13:28,640
+Ravio OTP.
+
+279
+00:13:28,640 --> 00:13:32,840
+Initially, Ravio was being 
+recommended a lot by the subreddit.
+
+280
+00:13:32,840 --> 00:13:37,800
+However, ever so recently, Ravio 
+has sold out to a sketchy company.
+
+281
+00:13:37,800 --> 00:13:39,520
+Sketchy enough that…
+
+282
+00:13:39,520 --> 00:13:40,320
+Here, let me get this.
+
+283
+00:13:40,320 --> 00:13:42,560
+Let me set the story for you, okay?
+
+284
+00:13:42,560 --> 00:13:44,720
+Ravio was competitive to Aegis
+
+285
+00:13:44,720 --> 00:13:48,800
+because its source code was open 
+on GitHub during its launch.
+
+286
+00:13:48,800 --> 00:13:51,920
+However, ever since they got sold 
+out to a big sketchy company,
+
+287
+00:13:51,920 --> 00:13:55,760
+that big sketchy company shut down the repo,
+
+288
+00:13:55,760 --> 00:14:01,120
+hid everything relating to 
+transparency and all you got is this.
+
+289
+00:14:01,120 --> 00:14:02,120
+This website.
+
+290
+00:14:02,120 --> 00:14:03,720
+That's all there is to it.
+
+291
+00:14:03,720 --> 00:14:06,160
+Do you see where I'm going at right now?
+
+292
+00:14:06,160 --> 00:14:07,520
+Now, you catch my drift.
+
+293
+00:14:07,520 --> 00:14:11,040
+You don't know if this app is safe anymore or not
+
+294
+00:14:11,040 --> 00:14:13,240
+because there's no way to audit the code.
+
+295
+00:14:13,240 --> 00:14:16,880
+So, Ravio OTP for me is a big deal breaker.
+
+296
+00:14:16,880 --> 00:14:18,240
+Hell no, I'm not picking it up.
+
+297
+00:14:18,240 --> 00:14:19,200
+Thank you very much.
+
+298
+00:14:19,200 --> 00:14:20,680
+And here's another one.
+
+299
+00:14:20,680 --> 00:14:22,280
+Twilio Authy.
+
+300
+00:14:22,280 --> 00:14:26,120
+Now, Twilio Authy at the time of my usage,
+
+301
+00:14:26,120 --> 00:14:29,080
+it was really, really painful to use.
+
+302
+00:14:29,080 --> 00:14:33,520
+So for one, for logins, you need 
+to use your phone number to log in,
+
+303
+00:14:33,520 --> 00:14:35,640
+which genuinely freaking suck.
+
+304
+00:14:35,640 --> 00:14:39,240
+And now, I think it seems like 
+from looking at this documentation,
+
+305
+00:14:39,240 --> 00:14:43,000
+it looks like they made it even 
+more confusing for people to use.
+
+306
+00:14:43,000 --> 00:14:45,320
+You still log in with your phone number.
+
+307
+00:14:45,320 --> 00:14:50,400
+And as you may know, SMS 
+OTP is not exactly secure.
+
+308
+00:14:50,400 --> 00:14:56,280
+If you live in a place where it's 
+susceptible to SIM swap or interceptions,
+
+309
+00:14:56,280 --> 00:14:58,480
+this will be really, really bad for you.
+
+310
+00:14:58,480 --> 00:14:59,920
+So, there's that.
+
+311
+00:14:59,920 --> 00:15:01,760
+So, that's a big no for me.
+
+312
+00:15:01,760 --> 00:15:04,320
+And lastly, Google Authenticator.
+
+313
+00:15:04,320 --> 00:15:08,680
+Now, Google keeps saying, "oh, we're 
+securing everything in the background
+
+314
+00:15:08,680 --> 00:15:11,040
+and everything in the back is secure.
+
+315
+00:15:11,040 --> 00:15:14,520
+So, there won't be a hacking software 
+that will be breaking into it."
+
+316
+00:15:14,520 --> 00:15:17,040
+Have you looked at what's in your face?
+
+317
+00:15:17,040 --> 00:15:20,000
+So, the problem with Google 
+Authenticator, however,
+
+318
+00:15:20,000 --> 00:15:23,360
+is that if you can break 
+whatever's in front of you,
+
+319
+00:15:23,360 --> 00:15:28,640
+you immediately get access to all the 
+keys inside, which is not really good.
+
+320
+00:15:28,640 --> 00:15:34,000
+So, like, say for example, Google 
+Passwords in Google Chrome.
+
+321
+00:15:34,000 --> 00:15:38,720
+If they can bypass your admin permissions, 
+your secrets are no longer a secret.
+
+322
+00:15:38,720 --> 00:15:41,040
+Same logic goes to on your Android phone.
+
+323
+00:15:41,040 --> 00:15:46,080
+If your device has a security vulnerability 
+that bypasses your screen lock,
+
+324
+00:15:46,080 --> 00:15:49,360
+you've set yourself up for a serious problem.
+
+325
+00:15:49,360 --> 00:15:54,440
+So, personally, I genuinely do not like 
+Google Authenticator for that reason.
+
+326
+00:15:54,440 --> 00:15:58,200
+So, if you're using mission critical 
+services or websites like this,
+
+327
+00:15:58,200 --> 00:16:00,880
+Google Authenticator is a hard no-no for me.
+
+328
+00:16:00,880 --> 00:16:02,960
+So, we're going to yeet that.
+
+329
+00:16:02,960 --> 00:16:06,000
+Speaking of yeeting, I've 
+done it a long, long time ago.
+
+330
+00:16:06,000 --> 00:16:07,320
+Right, moving on.
+
+331
+00:16:07,320 --> 00:16:10,960
+So, if you remember from the photo 
+section at the beginning of the video,
+
+332
+00:16:10,960 --> 00:16:14,040
+I talked about how you can 
+synchronize your photos and stuff.
+
+333
+00:16:14,040 --> 00:16:16,240
+Let's say what about all your other stuff?
+
+334
+00:16:16,240 --> 00:16:21,760
+So, like, say your documents or programs 
+that you want to back up or audio files,
+
+335
+00:16:21,760 --> 00:16:24,680
+anything outside of photos, what do we use?
+
+336
+00:16:24,680 --> 00:16:29,920
+Now, if you remember from earlier, you would 
+see that SeaFile is back on the list again.
+
+337
+00:16:29,920 --> 00:16:34,560
+However, I would also bring in Nextcloud 
+as well because both of them are kind of  
+
+338
+00:16:34,560 --> 00:16:38,040
+cool when it comes to being a file sync platform.
+
+339
+00:16:38,040 --> 00:16:42,920
+However, there is a downside to that, 
+but we'll get to that in a moment.
+
+340
+00:16:42,920 --> 00:16:47,920
+Now, say if you have a server that 
+operates on an operating system like
+
+341
+00:16:47,920 --> 00:16:52,280
+unRaid, TrueNAS, Proxmox, and the sort.
+
+342
+00:16:52,280 --> 00:16:56,160
+Then you would usually find yourself 
+using network attached storage
+
+343
+00:16:56,160 --> 00:16:59,200
+kind of thing called SMB or Samba.
+
+344
+00:16:59,200 --> 00:17:02,640
+And Samba is basically a protocol 
+that allows you to connect
+
+345
+00:17:02,640 --> 00:17:05,600
+to network attached storage within your network.
+
+346
+00:17:05,600 --> 00:17:07,520
+It's also being used on Windows
+
+347
+00:17:07,520 --> 00:17:11,160
+and plenty of other platforms 
+that happen to support it as well.
+
+348
+00:17:11,160 --> 00:17:15,040
+Which I would say pretty much if 
+you have devices that are smart,
+
+349
+00:17:15,040 --> 00:17:18,240
+like your computer and your smartphone, 
+you can pretty much access it.
+
+350
+00:17:18,240 --> 00:17:19,440
+No problem.
+
+351
+00:17:19,440 --> 00:17:24,200
+So, the Apple Files app genuinely 
+sucks in various things.
+
+352
+00:17:24,200 --> 00:17:29,280
+You can even see that it is pretty evident 
+on Linus Media Group's channel, Mac Address.
+
+353
+00:17:29,280 --> 00:17:33,320
+When Jonathan Horst complained about the 
+Files app, there were plenty of complaints.
+
+354
+00:17:33,320 --> 00:17:35,800
+And one of which happens to resonate with me,  
+
+355
+00:17:35,800 --> 00:17:39,320
+which is the inability to 
+refresh on the Files app.
+
+356
+00:17:39,320 --> 00:17:41,080
+What kind of stupid thing is that?
+
+357
+00:17:41,080 --> 00:17:44,320
+The inability to refresh 
+with the Files app also means
+
+358
+00:17:44,320 --> 00:17:49,200
+you're unable to reestablish connections 
+with your network attached storage.
+
+359
+00:17:49,200 --> 00:17:51,640
+That is, either you change passwords
+
+360
+00:17:51,640 --> 00:17:53,400
+or you've changed folder structures
+
+361
+00:17:53,400 --> 00:17:57,760
+so dramatically different that it 
+is to the point of no recognition.
+
+362
+00:17:57,760 --> 00:18:02,520
+And the Files app would just think, oh, the 
+file structure is basically still that way.
+
+363
+00:18:02,520 --> 00:18:05,200
+And then it will stay frozen in time forever.
+
+364
+00:18:05,200 --> 00:18:06,600
+How do we avoid that?
+
+365
+00:18:06,600 --> 00:18:09,840
+Well, sadly, you would have to 
+resort to third-party solutions.
+
+366
+00:18:09,840 --> 00:18:13,120
+Which is where this program 
+comes in, ES File Explorer.
+
+367
+00:18:13,120 --> 00:18:18,080
+It's an app made by a subsidiary of 
+Baidu, so please be your own judge.
+
+368
+00:18:18,080 --> 00:18:21,760
+If you do think Baidu is a 
+bit of a malicious company,
+
+369
+00:18:21,760 --> 00:18:25,080
+especially on their origins, 
+please keep that in mind.
+
+370
+00:18:25,080 --> 00:18:28,080
+However, in my personal experience 
+of using ES File Explorer,
+
+371
+00:18:28,080 --> 00:18:32,040
+if you have trackers completely turned 
+off, it's kind of a pretty good app.
+
+372
+00:18:32,040 --> 00:18:33,400
+At least for the iOS side.
+
+373
+00:18:33,400 --> 00:18:37,480
+On the Android side, I would have recommended 
+you to use Solid Explorer instead.
+
+374
+00:18:37,480 --> 00:18:42,720
+Whereas on the iOS side, I highly recommend 
+using this because it carries things around.
+
+375
+00:18:42,720 --> 00:18:45,480
+At least it works in the kind of fashion.
+
+376
+00:18:45,480 --> 00:18:48,280
+If you do have any other File 
+Explorer that you would recommend,
+
+377
+00:18:48,280 --> 00:18:49,760
+please let me know in the description below.
+
+378
+00:18:49,760 --> 00:18:50,560
+Description?
+
+379
+00:18:50,560 --> 00:18:51,360
+What the fuck?
+
+380
+00:18:51,360 --> 00:18:53,160
+That's the second time I've said this already.
+
+381
+00:18:53,160 --> 00:18:54,800
+Please let me know in the comments below.
+
+382
+00:18:54,800 --> 00:18:57,600
+So the one good thing about 
+ES File Explorer, however,
+
+383
+00:18:57,600 --> 00:19:00,960
+is that when you want to take out 
+your photos into your SMB servers,
+
+384
+00:19:00,960 --> 00:19:03,320
+you can just use it to move*.
+
+385
+00:19:03,320 --> 00:19:08,520
+Which means it will basically just copy the 
+stuff over and then delete it on the local end.
+
+386
+00:19:08,520 --> 00:19:11,320
+So say you take a lot of videos 
+and you want to take it out
+
+387
+00:19:11,320 --> 00:19:13,600
+like how you do with a USB drive or something.
+
+388
+00:19:13,600 --> 00:19:15,720
+This is like the network's version of it.
+
+389
+00:19:15,720 --> 00:19:19,240
+So in my personal opinion, this 
+is genuinely kind of awesome.
+
+390
+00:19:19,240 --> 00:19:21,240
+However, there is a different solution.
+
+391
+00:19:21,240 --> 00:19:24,280
+So say you have a server that runs Syncthing,
+
+392
+00:19:24,280 --> 00:19:28,560
+which is one of the most awesome 
+decentralized file synchronization program.
+
+393
+00:19:28,560 --> 00:19:33,520
+Which kind of is like, think of it 
+like Soul Link in Honkai Impact.
+
+394
+00:19:33,520 --> 00:19:35,040
+I guess you don't play Honkai Impact then.
+
+395
+00:19:35,040 --> 00:19:35,800
+Don't worry about it.
+
+396
+00:19:35,800 --> 00:19:37,360
+Basically, if you kill one of them,
+
+397
+00:19:37,360 --> 00:19:39,960
+the other resurrects the one that you just killed.
+
+398
+00:19:39,960 --> 00:19:42,680
+So this is kind of an awesome idea in my opinion.
+
+399
+00:19:42,680 --> 00:19:47,680
+But that also means you would need 
+to have both copies on both ends.
+
+400
+00:19:47,680 --> 00:19:51,320
+However, if that's kind of your cup of 
+tea, then you would have Möbius Sync.
+
+401
+00:19:51,320 --> 00:19:54,760
+Though I haven't really used Möbius 
+Sync because I don't really have money
+
+402
+00:19:54,760 --> 00:19:57,360
+to buy the full-fledged version to review.
+
+403
+00:19:57,360 --> 00:19:58,640
+So, uh…
+
+404
+00:19:59,400 --> 00:20:02,400
+However, I have used Syncthing 
+in every other platform
+
+405
+00:20:02,400 --> 00:20:06,720
+that is available for free like 
+Android, Windows, and so forth.
+
+406
+00:20:06,720 --> 00:20:08,360
+And it has been really, really robust.
+
+407
+00:20:08,360 --> 00:20:11,280
+And this is how I've been 
+moving my files around so far.
+
+408
+00:20:11,280 --> 00:20:15,000
+So if you really, really want to consolidate 
+your files in the form of Syncthing,
+
+409
+00:20:15,000 --> 00:20:17,440
+I would recommend doing that instead.
+
+410
+00:20:17,440 --> 00:20:18,640
+Right, moving on.
+
+411
+00:20:18,640 --> 00:20:22,440
+Now we've reached a point where we 
+kind of go thinking to ourselves.
+
+412
+00:20:22,440 --> 00:20:25,440
+Okay, we've protected ourselves from the ecosystem
+
+413
+00:20:25,440 --> 00:20:27,320
+from most of the major standpoint.
+
+414
+00:20:27,320 --> 00:20:28,640
+Now let's get into the browser.
+
+415
+00:20:29,200 --> 00:20:34,160
+Now, the browser market may be a 
+little teeny tiny bit funny and…
+
+416
+00:20:34,160 --> 00:20:35,040
+I don't know.
+
+417
+00:20:35,040 --> 00:20:36,440
+It's a little bit…
+
+418
+00:20:36,440 --> 00:20:37,360
+Ehhh…
+
+419
+00:20:37,360 --> 00:20:40,760
+You're going to trust at your own volition.
+
+420
+00:20:40,760 --> 00:20:42,520
+However, I have done my research
+
+421
+00:20:42,520 --> 00:20:47,920
+and plenty of people on the iOS subreddit 
+has recommended to use Brave Browser.
+
+422
+00:20:47,920 --> 00:20:52,520
+Though Brave Browser does come with a 
+built-in ad blocker and a built-in PIP.
+
+423
+00:20:52,520 --> 00:20:57,960
+So you can kind of just do whatever 
+YouTube thing you couldn't do
+
+424
+00:20:57,960 --> 00:21:00,480
+on the free version on that browser.
+
+425
+00:21:00,480 --> 00:21:03,120
+To which I cannot legally directly address.
+
+426
+00:21:03,120 --> 00:21:05,360
+But it is kind of a janky way to do it.
+
+427
+00:21:05,360 --> 00:21:07,160
+And I kind of respect the hustle.
+
+428
+00:21:07,160 --> 00:21:10,240
+But Brave does more than just that.
+
+429
+00:21:10,240 --> 00:21:12,440
+They have a search engine of themselves,
+
+430
+00:21:12,440 --> 00:21:15,160
+which I haven't really gone around trying.
+
+431
+00:21:15,160 --> 00:21:18,560
+But apparently, they have their 
+own search indexes as well.
+
+432
+00:21:18,560 --> 00:21:22,680
+So that's like independent of 
+Bing, independent of Google.
+
+433
+00:21:22,680 --> 00:21:25,000
+And DuckDuckGo is based on Bing.
+
+434
+00:21:25,000 --> 00:21:29,280
+And you got SearX is kind of like based on Google.
+
+435
+00:21:29,280 --> 00:21:31,040
+Whoogle is also Google.
+
+436
+00:21:31,040 --> 00:21:33,440
+So Brave is like an index of its own.
+
+437
+00:21:33,440 --> 00:21:34,720
+Though I haven't gone around trying it,
+
+438
+00:21:34,720 --> 00:21:37,560
+so I can't really explain that to you just yet.
+
+439
+00:21:37,560 --> 00:21:42,120
+But if you do want the most basic 
+tracking and ad blocking browser,
+
+440
+00:21:42,120 --> 00:21:44,440
+I guess Brave might be a good option.
+
+441
+00:21:44,440 --> 00:21:47,560
+However, alternatively, you 
+can also try out Firefox.
+
+442
+00:21:47,560 --> 00:21:50,400
+However, Firefox does not come with ad blocking.
+
+443
+00:21:50,400 --> 00:21:53,600
+And extension support is 
+only available on Android.
+
+444
+00:21:53,600 --> 00:21:58,600
+So Firefox is, if anything, the 
+only thing that makes it convenient
+
+445
+00:21:58,600 --> 00:22:00,920
+is just if you happen to use Firefox on your PC,
+
+446
+00:22:00,920 --> 00:22:04,760
+then synchronizing the bookmarks and possibly tabs  
+
+447
+00:22:04,760 --> 00:22:07,920
+that you want to move over 
+would be easier that way.
+
+448
+00:22:07,920 --> 00:22:09,720
+However, there's a tiny caveat.
+
+449
+00:22:09,720 --> 00:22:12,400
+So I have previously used Firefox before.
+
+450
+00:22:12,400 --> 00:22:15,240
+And there was a little bit 
+funny going on in the code
+
+451
+00:22:15,240 --> 00:22:19,720
+that if you open and close your 
+Firefox app way too quickly,
+
+452
+00:22:19,720 --> 00:22:25,600
+there are times where its cache gets so 
+corrupted that all your tabs disappear.
+
+453
+00:22:25,600 --> 00:22:30,200
+I have two instances of mine where 
+20-ish of my tabs all disappear
+
+454
+00:22:30,200 --> 00:22:32,360
+and I don't know how to retrieve it.
+
+455
+00:22:32,360 --> 00:22:34,360
+And that in itself is kind of concerning
+
+456
+00:22:34,360 --> 00:22:37,840
+because I couldn't even find it on Firefox sync.
+
+457
+00:22:37,840 --> 00:22:42,440
+So Mozilla, if you do catch that, 
+I hope you can resolve this ASAP.
+
+458
+00:22:42,440 --> 00:22:44,280
+Now I get it, Mozilla.
+
+459
+00:22:44,280 --> 00:22:45,120
+I get it.
+
+460
+00:22:45,120 --> 00:22:49,760
+All browsers on iOS is more 
+or less just Apple WebKit
+
+461
+00:22:49,760 --> 00:22:54,040
+with a little bit of a wrapper 
+and extra stuff on top of it.
+
+462
+00:22:54,040 --> 00:22:57,120
+But come on, you got a big market here as well.
+
+463
+00:22:57,120 --> 00:23:01,280
+However, if you can't stand the anomalies 
+that you get from third-party browsers
+
+464
+00:23:01,280 --> 00:23:03,200
+and you still want to stick with Safari,
+
+465
+00:23:03,200 --> 00:23:06,920
+I recommend you check out all 
+these following extensions.
+
+466
+00:23:06,920 --> 00:23:07,320
+Hyperweb.
+
+467
+00:23:07,320 --> 00:23:10,240
+Hyperweb is kind of an all-in-one extension.
+
+468
+00:23:10,240 --> 00:23:12,040
+And you can do ad blocking,
+
+469
+00:23:12,040 --> 00:23:15,400
+overriding search engines so you 
+can use your own search engine
+
+470
+00:23:15,400 --> 00:23:18,040
+instead of whatever Safari provides you.
+
+471
+00:23:18,040 --> 00:23:22,800
+And you can do custom CSS and 
+JavaScript injection as what it says,
+
+472
+00:23:22,800 --> 00:23:24,560
+though I have not really used it myself.
+
+473
+00:23:24,560 --> 00:23:26,240
+So I can't really tell you.
+
+474
+00:23:26,240 --> 00:23:28,920
+Perhaps it may be something 
+along the lines of TamperMonkey,
+
+475
+00:23:28,920 --> 00:23:31,720
+but I can't really guarantee you that either.
+
+476
+00:23:31,720 --> 00:23:37,480
+And there are also some additional features 
+like creating custom search filters.
+
+477
+00:23:37,480 --> 00:23:41,120
+So the search filter will be a lot 
+more biased to more trusted platforms.
+
+478
+00:23:41,120 --> 00:23:43,720
+Like say, if you're searching 
+for something medical,
+
+479
+00:23:43,720 --> 00:23:48,600
+it will give you WebMD and other 
+more trusted medical websites.
+
+480
+00:23:48,600 --> 00:23:50,920
+Also, don't call me on that about WebMD.
+
+481
+00:23:50,920 --> 00:23:53,440
+According to WebMD, you have cancer.
+
+482
+00:23:53,440 --> 00:23:56,600
+According to WebMD, you have cancer.
+
+483
+00:23:56,600 --> 00:23:59,040
+And following that, AdGuard for iOS.
+
+484
+00:23:59,040 --> 00:24:00,680
+AdGuard may be a little bit heavy.
+
+485
+00:24:00,680 --> 00:24:05,320
+So if you use the ad blocking feature on 
+Hyperweb, I think it should be enough.
+
+486
+00:24:05,320 --> 00:24:09,040
+However, if you do want a 
+bit of a sanity assurance,
+
+487
+00:24:09,040 --> 00:24:11,440
+then you should totally check out AdGuard as well.
+
+488
+00:24:11,440 --> 00:24:14,160
+AdGuard is kind of powerful on its free version,
+
+489
+00:24:14,160 --> 00:24:16,920
+so you can basically turn everything on.
+
+490
+00:24:16,920 --> 00:24:18,840
+However, your browsing experience might hitch
+
+491
+00:24:18,840 --> 00:24:23,720
+so much that it becomes probably like a 
+loading time of four to five seconds, honestly.
+
+492
+00:24:23,720 --> 00:24:26,200
+But don't just take my word for it.
+
+493
+00:24:26,200 --> 00:24:29,240
+Experiment with your setup and see what suits you.
+
+494
+00:24:29,240 --> 00:24:33,680
+And there are three different other 
+extensions that I use on the side of it
+
+495
+00:24:33,680 --> 00:24:36,600
+that kind of enhances the experience of Safari
+
+496
+00:24:36,600 --> 00:24:38,360
+so it feels less miserable.
+
+497
+00:24:38,360 --> 00:24:40,400
+One of which is Web Inspector.
+
+498
+00:24:40,400 --> 00:24:43,920
+And you might be very familiar 
+if you're on a browser.
+
+499
+00:24:43,920 --> 00:24:46,280
+You press F12, that's the inspector.
+
+500
+00:24:46,280 --> 00:24:47,200
+Pretty much that.
+
+501
+00:24:47,200 --> 00:24:50,640
+So if you're into looking into web elements,
+
+502
+00:24:50,640 --> 00:24:52,840
+then I highly recommend Web Inspector.
+
+503
+00:24:52,840 --> 00:24:55,120
+And following that, PiPifier.
+
+504
+00:24:55,120 --> 00:24:58,840
+So you might be familiar 
+with Picture-in-Picture view.
+
+505
+00:24:58,840 --> 00:25:02,760
+So like say, if you happen to be a YouTube 
+Premium user, you would understand that.
+
+506
+00:25:02,760 --> 00:25:05,960
+Which is a feature that lets you, when you exit,
+
+507
+00:25:05,960 --> 00:25:08,440
+you can kind of have it in like a tiny window
+
+508
+00:25:08,440 --> 00:25:10,840
+that you can watch alongside 
+as you do other stuff.
+
+509
+00:25:10,840 --> 00:25:11,960
+That's PiP.
+
+510
+00:25:11,960 --> 00:25:16,200
+However, obviously if you don't have 
+Premium on YouTube, you can't do that.
+
+511
+00:25:16,200 --> 00:25:19,560
+But there is an extension 
+that kind of lets you do that.
+
+512
+00:25:19,560 --> 00:25:23,080
+At least it works for the time 
+being, at the time of filming.
+
+513
+00:25:23,080 --> 00:25:29,040
+And the PiPifier is available on the Mac 
+App Store and namely, the iOS App Store.
+
+514
+00:25:29,040 --> 00:25:33,160
+So you can basically PiPify 
+whatever videos that you're watching
+
+515
+00:25:33,160 --> 00:25:36,320
+on the Safari browser version of YouTube.
+
+516
+00:25:36,320 --> 00:25:39,120
+And following that, we got TLS Inspector.
+
+517
+00:25:39,120 --> 00:25:43,480
+TLS Inspector is basically what you 
+would do when you click on the padlock
+
+518
+00:25:43,480 --> 00:25:48,040
+and look at the security information 
+of this website you're currently on.
+
+519
+00:25:48,040 --> 00:25:52,480
+Say like, what kind of HTTP 
+security it is and stuff like that.
+
+520
+00:25:52,480 --> 00:25:54,440
+View certificates and stuff like that.
+
+521
+00:25:54,440 --> 00:25:57,640
+This is basically what TLS Inspector does on iOS.
+
+522
+00:25:57,640 --> 00:26:03,040
+So you would know if a certain 
+certificate is expired or is invalid.
+
+523
+00:26:03,040 --> 00:26:05,960
+This is how you make yourself 
+a little bit more aware
+
+524
+00:26:05,960 --> 00:26:10,480
+about HTTPS and TLS security on Safari.
+
+525
+00:26:10,480 --> 00:26:13,600
+Because built-in Safari 
+apparently does not have that.
+
+526
+00:26:13,600 --> 00:26:16,240
+And I'm a little bit icky about it
+
+527
+00:26:16,240 --> 00:26:20,800
+because there are some websites 
+that are meant to be trustworthy.
+
+528
+00:26:20,800 --> 00:26:27,200
+Somebody in the tech department 
+forgetting to update their certificates.
+
+529
+00:26:27,200 --> 00:26:28,880
+Okay, so with that said.
+
+530
+00:26:28,880 --> 00:26:31,880
+These are the five Safari 
+extensions that I recommend.
+
+531
+00:26:31,880 --> 00:26:33,200
+So let's move on.
+
+532
+00:26:33,200 --> 00:26:36,280
+So for someone who likes 
+to take some notes out of…
+
+533
+00:26:36,280 --> 00:26:37,920
+Say they want to take a quick note.
+
+534
+00:26:37,920 --> 00:26:41,320
+You know, back in those days, 
+back in the old Hollywood times.
+
+535
+00:26:41,320 --> 00:26:44,480
+People always had these notepads in their hand
+
+536
+00:26:44,480 --> 00:26:45,800
+and they just quickly write a note
+
+537
+00:26:45,800 --> 00:26:47,680
+so that they can remind themselves in a moment.
+
+538
+00:26:47,680 --> 00:26:49,320
+How about we do that digitally?
+
+539
+00:26:49,320 --> 00:26:52,840
+So obviously you would have Apple 
+Reminders and stuff like that.
+
+540
+00:26:52,840 --> 00:26:57,400
+However, what if I want to bring it 
+cross-platform to elsewhere as well?
+
+541
+00:26:57,400 --> 00:26:59,400
+We're gonna keep that in mind most of the time.
+
+542
+00:26:59,400 --> 00:27:04,160
+So I've got some recommendations 
+from fellow good Samaritans online
+
+543
+00:27:04,160 --> 00:27:07,160
+and also some parts of the iOS subreddit.
+
+544
+00:27:07,160 --> 00:27:09,680
+And most people recommended Joplin.
+
+545
+00:27:09,680 --> 00:27:13,400
+Joplin to me in first 
+impressions kind of feels like
+
+546
+00:27:13,400 --> 00:27:19,360
+when you have Apple Reminders, 
+Apple Notes, and Trello have a baby.
+
+547
+00:27:19,360 --> 00:27:22,040
+Which inherently is not 
+really that bad in my opinion
+
+548
+00:27:22,040 --> 00:27:24,600
+because I am personally a Trello user.
+
+549
+00:27:24,600 --> 00:27:27,200
+That's how I've been reading my notes so far.
+
+550
+00:27:27,200 --> 00:27:29,920
+Though I don't have personal 
+experience with Joplin.
+
+551
+00:27:29,920 --> 00:27:32,400
+But I'm looking forward to try it one day.
+
+552
+00:27:32,400 --> 00:27:36,560
+And I was told that Joplin 
+allows you to backup your notes
+
+553
+00:27:36,560 --> 00:27:39,240
+in cloud services like Dropbox and so forth.
+
+554
+00:27:39,240 --> 00:27:41,800
+So I would be very much looking forward to that.
+
+555
+00:27:41,800 --> 00:27:44,680
+Hopefully it would optimize my experience.
+
+556
+00:27:44,680 --> 00:27:46,040
+Maybe it might not.
+
+557
+00:27:46,040 --> 00:27:46,560
+Who knows?
+
+558
+00:27:46,560 --> 00:27:48,040
+I'll update you in the future.
+
+559
+00:27:48,040 --> 00:27:49,000
+Now moving on.
+
+560
+00:27:49,000 --> 00:27:52,520
+This is where I'm gonna tell you 
+to tread with extreme caution.
+
+561
+00:27:52,520 --> 00:27:57,360
+Because if you're very privacy conscious, 
+you wouldn't want to use these.
+
+562
+00:27:57,360 --> 00:28:00,040
+So namely one of these is Google Keep.
+
+563
+00:28:00,040 --> 00:28:00,960
+Okay, I get it.
+
+564
+00:28:00,960 --> 00:28:02,160
+Reality check.
+
+565
+00:28:02,160 --> 00:28:06,560
+Google is interestingly "a kind of company".
+
+566
+00:28:06,560 --> 00:28:12,040
+But it is hard to deny that Google Keep has 
+been really really useful for me so far.
+
+567
+00:28:12,040 --> 00:28:16,920
+But privacy wise, I wouldn't say 
+it's necessarily that convenient.
+
+568
+00:28:16,920 --> 00:28:21,760
+So my best shot is if you are keeping quick notes
+
+569
+00:28:21,760 --> 00:28:24,600
+that are not really private or sensitive.
+
+570
+00:28:24,600 --> 00:28:28,120
+I guess Google Keep may just be fine.
+
+571
+00:28:28,760 --> 00:28:32,320
+But who knows one day Google 
+might change their TOS and go,
+
+572
+00:28:32,320 --> 00:28:34,000
+"Oh we're gonna start reading your notes."
+
+573
+00:28:34,000 --> 00:28:35,000
+Hopefully not.
+
+574
+00:28:35,000 --> 00:28:36,160
+Hopefully not.
+
+575
+00:28:36,160 --> 00:28:39,240
+And following that, we got another sketchy one
+
+576
+00:28:39,240 --> 00:28:42,120
+coming from Microsoft Sticky Notes.
+
+577
+00:28:42,120 --> 00:28:44,640
+Though the good part about 
+using Microsoft Sticky Notes
+
+578
+00:28:44,640 --> 00:28:47,200
+is that you can put it on top 
+of your screen on Windows.
+
+579
+00:28:47,200 --> 00:28:51,000
+And you can also do some changes 
+on the OneNote app on iOS.
+
+580
+00:28:51,000 --> 00:28:54,920
+However, the synchronization 
+is a bit wonky as hell
+
+581
+00:28:54,920 --> 00:28:58,880
+that sometimes the synchronization 
+just do not work at all.
+
+582
+00:28:58,880 --> 00:29:02,640
+Sometimes I type something really 
+really freaking long on my iPhone,
+
+583
+00:29:02,640 --> 00:29:04,200
+nothing left the phone.
+
+584
+00:29:04,200 --> 00:29:06,640
+Even though the app says it has.
+
+585
+00:29:06,640 --> 00:29:09,360
+Synchronization can be a bit janky here.
+
+586
+00:29:09,360 --> 00:29:14,760
+So I wouldn't recommend using that 
+unless you are absolutely a Windows fan.
+
+587
+00:29:14,760 --> 00:29:18,080
+So tread with caution for those two programs.
+
+588
+00:29:18,080 --> 00:29:19,200
+Right, moving on.
+
+589
+00:29:19,200 --> 00:29:20,600
+Home Management.
+
+590
+00:29:20,600 --> 00:29:21,720
+It's Home Assistant.
+
+591
+00:29:21,720 --> 00:29:22,720
+Yeah, that's pretty much it.
+
+592
+00:29:22,720 --> 00:29:24,040
+I have nothing else to say.
+
+593
+00:29:24,040 --> 00:29:28,160
+Because if you want cross-platform, Home 
+Assistant might be the best for you.
+
+594
+00:29:28,160 --> 00:29:31,400
+Though you could try out some other ones like say,
+
+595
+00:29:32,000 --> 00:29:35,160
+those that use Apple Home as their main platform.
+
+596
+00:29:35,160 --> 00:29:39,720
+But I still end up finding myself crawling 
+my way back to Home Assistant instead.
+
+597
+00:29:39,720 --> 00:29:44,600
+Because although Home Assistant might 
+be a little bit iOS unfriendly at times
+
+598
+00:29:44,600 --> 00:29:48,840
+because of the optimization that Apple 
+imposes in their operating system.
+
+599
+00:29:48,840 --> 00:29:52,240
+It's still quite useful when it works.
+
+600
+00:29:52,240 --> 00:29:57,160
+And it didn't really fail on me too hard so 
+I don't really see that much of a problem.
+
+601
+00:29:57,160 --> 00:29:58,360
+Right, moving on.
+
+602
+00:29:58,360 --> 00:30:00,160
+In terms of contact sync.
+
+603
+00:30:00,960 --> 00:30:04,520
+I don't really have experiences 
+anywhere else outside
+
+604
+00:30:04,520 --> 00:30:09,440
+because I didn't really want to keep 
+having a lot of point of management.
+
+605
+00:30:09,440 --> 00:30:12,000
+Especially when I'm managing 
+this channel all by myself.
+
+606
+00:30:12,000 --> 00:30:14,320
+I have plenty of load on my shoulders already.
+
+607
+00:30:14,320 --> 00:30:17,320
+So I've basically just used Google Contact Sync.
+
+608
+00:30:17,320 --> 00:30:21,200
+However, for those privacy conscious 
+people, you might want to stick around
+
+609
+00:30:21,200 --> 00:30:25,640
+a little bit to the end of the video for 
+what you may be interested in looking.
+
+610
+00:30:25,640 --> 00:30:27,200
+So, moving on.
+
+611
+00:30:27,200 --> 00:30:30,560
+In terms of cameras, there 
+really isn't any other camera app
+
+612
+00:30:30,560 --> 00:30:33,440
+that I really really like to use personally.
+
+613
+00:30:33,440 --> 00:30:36,320
+Aside from none other than ProShot.
+
+614
+00:30:36,320 --> 00:30:40,880
+ProShot basically makes you feel 
+like you're handling a DSLR.
+
+615
+00:30:40,880 --> 00:30:45,560
+Because most of its features do feel 
+kind of like a DSLR to some extent.
+
+616
+00:30:45,560 --> 00:30:48,320
+It's basically a DSLR in the form of an app.
+
+617
+00:30:48,320 --> 00:30:51,240
+Though of course the software 
+capability is confined
+
+618
+00:30:51,240 --> 00:30:53,840
+within the hardware capability of your device.
+
+619
+00:30:53,840 --> 00:30:56,880
+So your mileage may vary significantly.
+
+620
+00:30:56,880 --> 00:31:00,320
+However, as an iPhone user, 
+ProShot has been seriously
+
+621
+00:31:00,320 --> 00:31:04,320
+one of the amazing apps that gives 
+you the amount of flexibility.
+
+622
+00:31:04,320 --> 00:31:10,360
+Like say you want it strictly on a certain 
+aperture and a certain focal length.
+
+623
+00:31:10,360 --> 00:31:15,120
+And you want it at a certain 
+zoom and a certain setting even.
+
+624
+00:31:15,120 --> 00:31:17,080
+Like frame rate settings and so forth.
+
+625
+00:31:17,080 --> 00:31:19,680
+All of that are available in this one app.
+
+626
+00:31:19,680 --> 00:31:21,680
+It's genuinely amazing.
+
+627
+00:31:21,680 --> 00:31:24,880
+Big camera energy.
+
+628
+00:31:24,880 --> 00:31:26,680
+Please don't tell a certain someone about this.
+
+629
+00:31:26,680 --> 00:31:29,200
+If you're a very enthusiastic photographer,
+
+630
+00:31:29,200 --> 00:31:31,640
+I highly recommend this app no matter what.
+
+631
+00:31:31,640 --> 00:31:33,240
+Though there may be some other things
+
+632
+00:31:33,240 --> 00:31:36,240
+that you might be interested in like 
+filmography and stuff like that.
+
+633
+00:31:36,240 --> 00:31:38,800
+Then maybe Blackmagic camera might be your taste.
+
+634
+00:31:38,800 --> 00:31:43,040
+But ProShot is kind of like an 
+all-in-one Apple camera killer.
+
+635
+00:31:43,040 --> 00:31:45,680
+So, big ups Rise Up Games.
+
+636
+00:31:45,680 --> 00:31:48,520
+Seriously, I've used it for so long.
+
+637
+00:31:48,520 --> 00:31:52,680
+Like I got this app close to a 
+decade ago already at this point.
+
+638
+00:31:52,680 --> 00:31:56,080
+And they just keep growing and 
+it just keeps getting better.
+
+639
+00:31:56,080 --> 00:31:58,240
+And I haven't really been pissed at them so far.
+
+640
+00:31:58,240 --> 00:31:59,200
+So, big ups.
+
+641
+00:31:59,200 --> 00:32:00,360
+Moving on.
+
+642
+00:32:00,360 --> 00:32:02,040
+When it comes to photo editing,
+
+643
+00:32:02,040 --> 00:32:06,000
+this might be a bit of a sticky 
+situation to say the least.
+
+644
+00:32:06,000 --> 00:32:09,880
+I wouldn't recommend Photoshop Express 
+because in my opinion, it just sucks.
+
+645
+00:32:09,880 --> 00:32:12,160
+Sorry to those who use Photoshop Express.
+
+646
+00:32:12,160 --> 00:32:17,520
+And many of the other apps just kind of are wonky
+
+647
+00:32:17,520 --> 00:32:20,320
+in the way that they put watermarks.
+
+648
+00:32:20,320 --> 00:32:23,560
+Or they put a limit to the 
+resolution and stuff like that.
+
+649
+00:32:23,560 --> 00:32:25,960
+It genuinely pisses me off as a consumer.
+
+650
+00:32:25,960 --> 00:32:29,960
+Like a general consumer that 
+have bought such a device
+
+651
+00:32:29,960 --> 00:32:32,160
+only to pay even more price premium*.
+
+652
+00:32:32,160 --> 00:32:35,120
+It's kind of like you've 
+entered the most expensive place
+
+653
+00:32:35,120 --> 00:32:39,240
+only to pay for even more expensive 
+stuff that you don't really need.
+
+654
+00:32:39,240 --> 00:32:44,120
+So with that, this might be a bit 
+of a very, very harsh situation.
+
+655
+00:32:44,120 --> 00:32:45,600
+But if you're into Photoshop
+
+656
+00:32:45,600 --> 00:32:49,200
+and you still want all the 
+features in Photoshop, Photopea.
+
+657
+00:32:49,200 --> 00:32:54,360
+So, Photopea is basically, well, legally 
+distinct Photoshop to say the least.
+
+658
+00:32:54,360 --> 00:32:57,880
+And you can use them on your PC, you 
+can use it on your mobile device.
+
+659
+00:32:57,880 --> 00:33:00,600
+But if you want to use it on 
+your mobile device, however,
+
+660
+00:33:00,600 --> 00:33:05,480
+I highly recommend that you use 
+it with a mouse or a stylus.
+
+661
+00:33:05,480 --> 00:33:06,760
+Either of which.
+
+662
+00:33:06,760 --> 00:33:11,160
+Because you might end up misclicking 
+some stuff on the screen.
+
+663
+00:33:11,160 --> 00:33:15,000
+Considering how iPhone is kind of a 
+small screen if you think about it.
+
+664
+00:33:15,000 --> 00:33:21,040
+But Photopea's functionality is more or less 
+the same as the Adobe suite of programs*.
+
+665
+00:33:21,040 --> 00:33:25,800
+So, if you're looking to escape Adobe suite of 
+programs, Photopea might be one of your choice.
+
+666
+00:33:25,800 --> 00:33:27,800
+That's really it for photo editing, honestly.
+
+667
+00:33:27,800 --> 00:33:30,920
+And last but not least, if 
+you're into video editing
+
+668
+00:33:30,920 --> 00:33:34,640
+and you want the top of the class video editing.
+
+669
+00:33:34,640 --> 00:33:38,720
+And you want to break free from the 
+Apple ecosystem, namely Logic Pro.
+
+670
+00:33:38,720 --> 00:33:40,920
+The only other solution for you is
+
+671
+00:33:40,920 --> 00:33:45,520
+if you happen to use iPads, then 
+you would have DaVinci Resolve.
+
+672
+00:33:45,520 --> 00:33:49,680
+And DaVinci Resolve, interestingly, 
+you can export and import
+
+673
+00:33:49,680 --> 00:33:53,880
+your projects back and forth between 
+the computer version to the iPad.
+
+674
+00:33:53,880 --> 00:33:55,200
+Which is kind of freaking awesome.
+
+675
+00:33:55,200 --> 00:33:58,160
+So, say you were editing something 
+really, really important.
+
+676
+00:33:58,160 --> 00:34:00,780
+And then suddenly, your 
+entire family drags you out
+
+677
+00:34:00,780 --> 00:34:03,640
+because they accidentally 
+bought your tickets to Hawaii.
+
+678
+00:34:03,640 --> 00:34:04,640
+But you still want to edit,
+
+679
+00:34:04,640 --> 00:34:07,800
+but you don't want to carry your 
+bulky ass desktop or laptop.
+
+680
+00:34:07,800 --> 00:34:10,040
+But you got an iPad Pro, however,
+
+681
+00:34:10,040 --> 00:34:13,120
+DaVinci Resolve for iPad would 
+be an amazing choice for you.
+
+682
+00:34:13,120 --> 00:34:14,520
+However, if you're on an iPhone,
+
+683
+00:34:14,520 --> 00:34:17,320
+DaVinci Resolve does not exist for the iPhone.
+
+684
+00:34:17,320 --> 00:34:18,480
+Which is really, really sad
+
+685
+00:34:18,480 --> 00:34:22,320
+because I kind of really wanted Blackmagic Design.
+
+686
+00:34:22,320 --> 00:34:25,320
+I hope you port it to the iOS as well.
+
+687
+00:34:25,320 --> 00:34:29,520
+Because I genuinely want to edit my videos
+
+688
+00:34:29,520 --> 00:34:33,760
+without worrying about 
+completely different programs
+
+689
+00:34:33,760 --> 00:34:35,840
+when I'm on different platforms.
+
+690
+00:34:35,840 --> 00:34:37,440
+So, for the time being,
+
+691
+00:34:37,440 --> 00:34:40,840
+LumaFusion from LumaTouch is 
+kind of like a backup for that.
+
+692
+00:34:40,840 --> 00:34:44,720
+It's available on iPadOS, 
+it's available on iOS as well.
+
+693
+00:34:44,720 --> 00:34:48,840
+And as far as I've seen from 
+all the reviews outside so far,
+
+694
+00:34:48,840 --> 00:34:50,600
+and the screenshots I've seen so far,
+
+695
+00:34:50,600 --> 00:34:54,440
+it kind of feels like DaVinci 
+Resolve, but for iPhones.
+
+696
+00:34:54,440 --> 00:34:58,160
+So, though I have no personal 
+experience with LumaFusion yet,
+
+697
+00:34:58,160 --> 00:35:00,440
+but I'm looking forward to buy it eventually.
+
+698
+00:35:00,440 --> 00:35:04,440
+Please let me know of your experience 
+of LumaFusion in the comments below.
+
+699
+00:35:04,440 --> 00:35:06,320
+And with that said, that's pretty much it
+
+700
+00:35:06,320 --> 00:35:10,760
+for all of my choices for alternative solutions.
+
+701
+00:35:10,760 --> 00:35:15,320
+Now, for those who have stuck around in 
+this video that are very privacy conscious,
+
+702
+00:35:15,320 --> 00:35:17,880
+here's a page that I highly 
+recommend you check out.
+
+703
+00:35:17,880 --> 00:35:20,440
+There's this page called Awesome Privacy,
+
+704
+00:35:20,440 --> 00:35:25,120
+and it is a very massive list 
+for everything you need to know
+
+705
+00:35:25,120 --> 00:35:28,400
+about what you should avoid 
+and what you should have
+
+706
+00:35:28,400 --> 00:35:30,560
+if you're very conscious of privacy.
+
+707
+00:35:30,560 --> 00:35:34,520
+Say for example, I'm interested in 
+the two-factor authentication section.
+
+708
+00:35:34,520 --> 00:35:35,320
+Let's have a look.
+
+709
+00:35:35,320 --> 00:35:38,400
+Avoid using these apps that won't 
+let you export your key easily,
+
+710
+00:35:38,400 --> 00:35:40,400
+Authy and Google Authenticator.
+
+711
+00:35:40,400 --> 00:35:42,120
+However, there are some programs that
+
+712
+00:35:42,120 --> 00:35:46,120
+claims to have been able to 
+import from Google Authenticator.
+
+713
+00:35:46,120 --> 00:35:49,440
+I don't know about that, but 
+I guess that might be just
+
+714
+00:35:49,440 --> 00:35:52,400
+part of security vulnerabilities 
+on Google Authenticator.
+
+715
+00:35:52,400 --> 00:35:55,040
+But hey, we got Ente over here, that's awesome.
+
+716
+00:35:55,040 --> 00:35:57,160
+I wish they have added 2FAS onto the list.
+
+717
+00:35:57,160 --> 00:35:58,560
+And there are plenty more.
+
+718
+00:35:58,560 --> 00:35:59,680
+Say Android app stores,
+
+719
+00:35:59,680 --> 00:36:03,720
+you have FDroid or Obtanium 
+I would recommend personally.
+
+720
+00:36:03,720 --> 00:36:06,800
+Obtanium is basically just 
+fetches straight from the source.
+
+721
+00:36:06,800 --> 00:36:10,640
+Like say, if you have someone's app 
+that is directly hosted on GitHub
+
+722
+00:36:10,640 --> 00:36:14,600
+and FDroid and all the different places 
+that are kind of like git focused,
+
+723
+00:36:14,600 --> 00:36:18,880
+you can use Obtanium to get app updates 
+that way, which is kind of awesome.
+
+724
+00:36:18,880 --> 00:36:21,360
+Now say I want to look for mail services,
+
+725
+00:36:21,360 --> 00:36:25,920
+like say it would tell me to avoid 
+Gmail, Outlook, Yandex and Yahoo.
+
+726
+00:36:25,920 --> 00:36:29,880
+And instead look for ForwardMail, 
+ProtonMail, Tuta, Riseup and Mailfence.
+
+727
+00:36:30,480 --> 00:36:33,880
+And if you want to self-host yourself, 
+these are the options over here.
+
+728
+00:36:33,880 --> 00:36:36,160
+And then you got clients for it as well.
+
+729
+00:36:36,160 --> 00:36:42,120
+K9, which is a pretty good, basically 
+Mozilla Thunderbird, but Android?
+
+730
+00:36:42,120 --> 00:36:44,000
+It's made by Mozilla Foundation themselves.
+
+731
+00:36:44,000 --> 00:36:46,400
+I mean, not really made, they didn't create it.
+
+732
+00:36:46,400 --> 00:36:49,320
+They bought it and then they 
+maintained it and so forth.
+
+733
+00:36:49,320 --> 00:36:50,120
+Kind of like that.
+
+734
+00:36:50,120 --> 00:36:51,560
+So you get the idea.
+
+735
+00:36:51,560 --> 00:36:53,880
+Awesome Privacy is a really 
+awesome page to check out.
+
+736
+00:36:53,880 --> 00:36:57,040
+So I'll be linking it in the description below.
+
+737
+00:36:57,040 --> 00:36:58,640
+So please check it out.
+
+738
+00:36:58,640 --> 00:37:00,240
+And that is all I have for you today.
+
+739
+00:37:00,240 --> 00:37:01,720
+Thank you so much for watching.
+
+740
+00:37:01,720 --> 00:37:03,920
+And I hope you understand my thought process
+
+741
+00:37:03,920 --> 00:37:06,400
+for my choices of lists and stuff like that.
+
+742
+00:37:06,400 --> 00:37:07,880
+And if you do have your own suggestion
+
+743
+00:37:07,880 --> 00:37:11,600
+that you want to tell the other fellow 
+commenters about it or lurkers about it,
+
+744
+00:37:11,600 --> 00:37:15,200
+please comment it down below and 
+maybe let's discuss about it.
+
+745
+00:37:15,200 --> 00:37:17,400
+So it's been your girl, Mel.
+
+746
+00:37:17,400 --> 00:37:21,640
+And I hope to give more personal 
+knowledge of mine to you.
+
+747
+00:37:21,640 --> 00:37:24,983
+And I'll see you guys on the next video.
+
+748
+00:37:24,983 --> 00:37:27,520
+OtsuMelo deshita.
+See ya!
+
+749
+00:37:46,720 --> 00:37:49,120
+According to WebMD, you have cancer.
+

@@ -1,0 +1,1104 @@
+1
+00:00:03,320 --> 00:00:05,240
+Guess who's back?
+
+2
+00:00:05,240 --> 00:00:07,160
+Back again.
+
+3
+00:00:07,160 --> 00:00:09,600
+That's right, this Android phone's back once more,
+
+4
+00:00:09,600 --> 00:00:11,440
+for one more extra flash.
+
+5
+00:00:11,440 --> 00:00:14,600
+If you remember the last 
+time I was flashing PixelOS
+
+6
+00:00:14,600 --> 00:00:17,080
+and then suddenly I switched to crDroid.
+
+7
+00:00:17,080 --> 00:00:22,320
+So when I was on crDroid, I was a little 
+disappointed in myself at some point,
+
+8
+00:00:22,320 --> 00:00:27,200
+because PixelOS was draining batteries 
+and I did not bring it up on video.
+
+9
+00:00:27,200 --> 00:00:31,640
+So when the maintainer of PixelOS and crDroid,
+
+10
+00:00:31,640 --> 00:00:32,800
+at least for now,
+
+11
+00:00:32,800 --> 00:00:35,920
+spoke about it in the comments 
+of that previous Android video,
+
+12
+00:00:35,920 --> 00:00:37,480
+check it out, link in the description.
+
+13
+00:00:37,480 --> 00:00:39,360
+He said that he was working on some stuff
+
+14
+00:00:39,360 --> 00:00:41,040
+and needed a whole lot more polishing
+
+15
+00:00:41,040 --> 00:00:42,840
+before it goes out to the public.
+
+16
+00:00:42,840 --> 00:00:46,280
+It was around that week that he 
+was just about to roll it out.
+
+17
+00:00:46,280 --> 00:00:48,160
+Few days after the video goes out,
+
+18
+00:00:48,160 --> 00:00:51,440
+it happened to be the day that 
+he wanted to put it out as well.
+
+19
+00:00:51,440 --> 00:00:56,160
+So I wanted to try out Android 14 
+now, now that I'm done with crDroid,
+
+20
+00:00:56,160 --> 00:00:59,400
+because there really isn't much 
+for me to mess around in crDroid,
+
+21
+00:00:59,400 --> 00:01:03,280
+except for the fact that I do have 
+one personal complaint about crDroid.
+
+22
+00:01:03,280 --> 00:01:05,040
+Maybe it's a LineageOS thing,
+
+23
+00:01:05,040 --> 00:01:11,120
+but Dolby Atmos integration on Crdroid 
+and LineageOS are a little bit funky
+
+24
+00:01:11,120 --> 00:01:16,440
+in a way that when you're up on a certain 
+volume meter, it gets stupid loud,
+
+25
+00:01:16,440 --> 00:01:19,880
+but then you take it down a step, it 
+suddenly becomes really, really soft.
+
+26
+00:01:19,880 --> 00:01:23,080
+I don't know if it's something to do 
+with software compensations or something,
+
+27
+00:01:23,080 --> 00:01:26,200
+but it is something that I didn't really enjoy
+
+28
+00:01:26,200 --> 00:01:30,360
+accidentally disturbing the neighbors 
+while I'm watching YouTube on the toilet.
+
+29
+00:01:30,360 --> 00:01:35,280
+So I want to explore somewhere 
+deeper and look around Android 14,
+
+30
+00:01:35,280 --> 00:01:38,680
+because currently on this crDroid, 
+it's actually just Android 13.
+
+31
+00:01:38,680 --> 00:01:40,200
+So I want to take it up a step.
+
+32
+00:01:40,200 --> 00:01:41,040
+14.
+
+33
+00:01:41,040 --> 00:01:42,840
+Let's see what's new in 14.
+
+34
+00:01:42,840 --> 00:01:46,800
+Let's experiment with whatever that's 
+available for me and just have fun.
+
+35
+00:01:46,800 --> 00:01:50,160
+"Well, Mel, you said Android 
+is a freedom operating system.
+
+36
+00:01:50,160 --> 00:01:53,200
+That means you could just root and 
+mess around with something, right?"
+
+37
+00:01:53,200 --> 00:01:54,960
+Yeah, technically you're not wrong.
+
+38
+00:01:54,960 --> 00:01:57,280
+However, I have rooted for a while,
+
+39
+00:01:57,280 --> 00:02:02,680
+but it kind of brought me more personal 
+inconveniences than conveniences.
+
+40
+00:02:02,680 --> 00:02:05,720
+So like, say I want to root 
+to solve a certain problem,
+
+41
+00:02:05,720 --> 00:02:07,200
+but then comes another problem
+
+42
+00:02:07,200 --> 00:02:09,720
+and then I solve this problem 
+and then a new problem comes up.
+
+43
+00:02:09,720 --> 00:02:11,600
+It just keeps coming on and on and on.
+
+44
+00:02:11,600 --> 00:02:15,680
+It becomes a little bit impractical 
+for my daily use at some point.
+
+45
+00:02:15,680 --> 00:02:18,240
+While it does bring a whole lot of conveniences,
+
+46
+00:02:18,240 --> 00:02:21,960
+like say using our great sponsor SD Maid SE Pro
+
+47
+00:02:21,960 --> 00:02:27,000
+to clear up a whole lot of junk deeper 
+than what stock Android can get you.
+
+48
+00:02:27,000 --> 00:02:33,480
+But handling root related stuff like passing 
+SafetyNet and solving Dolby Atmos issues
+
+49
+00:02:33,480 --> 00:02:37,240
+and even just down to getting 
+fonts look just right for you.
+
+50
+00:02:37,240 --> 00:02:41,240
+It's starting to become really 
+technical that you start to weigh out
+
+51
+00:02:41,240 --> 00:02:44,880
+between how much time you spend on 
+researching and understanding it
+
+52
+00:02:44,880 --> 00:02:49,240
+to is it worth the amount 
+of time you spend doing it?
+
+53
+00:02:49,240 --> 00:02:50,480
+Is it rewarding?
+
+54
+00:02:50,480 --> 00:02:52,160
+It's basically what I want to say.
+
+55
+00:02:52,160 --> 00:02:54,480
+However, it started to become 
+less and less rewarding
+
+56
+00:02:54,480 --> 00:02:56,960
+and it started to become a lot more punishing.
+
+57
+00:02:56,960 --> 00:02:58,360
+Blame Google for that.
+
+58
+00:02:58,360 --> 00:03:02,600
+So instead, I'm just going to 
+go back to stock clean Android
+
+59
+00:03:02,600 --> 00:03:04,520
+and we're jumping to Pixel OS instead.
+
+60
+00:03:04,520 --> 00:03:08,120
+So if you do want instructions 
+for how I flashed to PixelOS,
+
+61
+00:03:08,120 --> 00:03:10,840
+check out that previous video 
+in the description below.
+
+62
+00:03:10,840 --> 00:03:13,440
+Because in this video, I'm 
+just going through like a vlog.
+
+63
+00:03:13,440 --> 00:03:18,480
+So as usual, we back everything up and 
+we're going to clean up everything here.
+
+64
+00:03:18,480 --> 00:03:20,240
+You don't really have to clean it up,
+
+65
+00:03:20,240 --> 00:03:25,000
+but I like to uninstall things first 
+before I leave this operating system.
+
+66
+00:03:25,000 --> 00:03:26,880
+Think of it as like a proper send off.
+
+67
+00:03:26,880 --> 00:03:29,000
+Like when you're about to move to a new house,
+
+68
+00:03:29,000 --> 00:03:32,680
+you would clean up the old house first 
+before you move into the new one, right?
+
+69
+00:03:32,680 --> 00:03:34,840
+So I like doing that pretty much.
+
+70
+00:03:34,840 --> 00:03:39,040
+And that's where I would like to 
+thank our great sponsor, SD Maid SE.
+
+71
+00:03:39,040 --> 00:03:41,160
+Especially my great friend 
+Darken, the guy who made it,
+
+72
+00:03:41,160 --> 00:03:45,320
+for sponsoring not just this video but 
+my entire life of content creation.
+
+73
+00:03:45,320 --> 00:03:48,920
+I wouldn't be here making all 
+these videos if it weren't for him.
+
+74
+00:03:48,920 --> 00:03:51,720
+However, even though it's just a one-time sponsor,
+
+75
+00:03:51,720 --> 00:03:55,560
+I still appreciate the app as if 
+it has helped me the entire life.
+
+76
+00:03:55,560 --> 00:03:57,960
+So please check him out in 
+the description below as well.
+
+77
+00:03:57,960 --> 00:04:01,120
+More about the app at the 
+end, at the sponsor segment.
+
+78
+00:04:01,120 --> 00:04:01,960
+Right.
+
+79
+00:04:01,960 --> 00:04:04,000
+Let's get right into…
+
+80
+00:04:04,000 --> 00:04:05,920
+Oh will you focus, baby?
+
+81
+00:04:05,920 --> 00:04:08,440
+Are you going to focus?
+
+82
+00:04:08,440 --> 00:04:09,360
+Right.
+
+83
+00:04:09,360 --> 00:04:13,280
+Let's get close enough and let's 
+start uninstalling some stuff.
+
+84
+00:04:13,280 --> 00:04:27,000
+So let's just yeet yeet yeet...
+
+85
+00:04:27,000 --> 00:04:33,640
+And we confirm deletion.
+
+86
+00:04:33,640 --> 00:04:34,200
+Look at that.
+
+87
+00:04:34,200 --> 00:04:39,280
+How it just clicks the uninstall button 
+for you and all you have to do is press OK.
+
+88
+00:04:39,280 --> 00:04:43,440
+Ain't that great?
+
+89
+00:04:43,440 --> 00:04:47,600
+Ooh, that's a lot of apps going away.
+
+90
+00:04:47,600 --> 00:04:49,240
+Ayyy, there we go.
+
+91
+00:04:49,240 --> 00:04:51,480
+We're back to really really clean one.
+
+92
+00:04:51,480 --> 00:04:52,820
+Heh heh heh.
+
+93
+00:04:52,820 --> 00:04:54,160
+Alright, fooling around aside.
+
+94
+00:04:54,160 --> 00:04:56,080
+We're going to get real serious.
+
+95
+00:04:56,080 --> 00:04:58,520
+And as always, I got them prepared already.
+
+96
+00:04:58,520 --> 00:05:01,200
+Since we're just jumping to PixelOS, 
+we're not really doing anything.
+
+97
+00:05:01,200 --> 00:05:02,960
+We just need the usual stuff.
+
+98
+00:05:02,960 --> 00:05:06,600
+Odin, PixelOS, and PixelOS Recovery.
+
+99
+00:05:06,600 --> 00:05:07,800
+How simple is that?
+
+100
+00:05:07,800 --> 00:05:09,280
+Right, let's get right into it.
+
+101
+00:05:09,280 --> 00:05:11,080
+I can't believe I'm going to be doing this
+
+102
+00:05:11,080 --> 00:05:13,040
+because I'm sitting at the edge of my chair
+
+103
+00:05:13,040 --> 00:05:17,680
+just squishing my camera stand like 
+how I would do to an anime degenerate.
+
+104
+00:05:17,680 --> 00:05:21,000
+And as always, the instructions 
+are always available on XDAForums.
+
+105
+00:05:21,000 --> 00:05:23,800
+Please do check it out when 
+you need more references.
+
+106
+00:05:23,800 --> 00:05:25,160
+And according to the instructions,
+
+107
+00:05:25,160 --> 00:05:28,240
+it says to make sure your 
+device's bootloader is unlocked.
+
+108
+00:05:28,240 --> 00:05:29,720
+Let's check that.
+
+109
+00:05:29,720 --> 00:05:32,280
+Wait a flippin' second, I 
+don't even need to check that.
+
+110
+00:05:32,280 --> 00:05:33,480
+It's already unlocked.
+
+111
+00:05:33,480 --> 00:05:37,480
+Because you need to have your bootloader 
+unlocked if you need to have custom OS.
+
+112
+00:05:37,480 --> 00:05:39,640
+However you can lock your bootloader,
+
+113
+00:05:39,640 --> 00:05:44,560
+but you would need to tell the bootloader 
+the signature of the OS it needs.
+
+114
+00:05:44,560 --> 00:05:50,080
+Which is usually a massive hassle, so 
+nobody really does that realistically.
+
+115
+00:05:50,080 --> 00:05:51,600
+So let's skip that.
+
+116
+00:05:51,600 --> 00:05:54,360
+Power off device and get into download mode.
+
+117
+00:05:54,360 --> 00:05:56,040
+Okay, let's get into download mode.
+
+118
+00:05:56,040 --> 00:05:57,160
+Here we go.
+
+119
+00:05:57,160 --> 00:05:58,880
+Let's press the power button.
+
+120
+00:05:58,880 --> 00:05:59,640
+Power off.
+
+121
+00:06:01,600 --> 00:06:03,160
+So much faster than before.
+
+122
+00:06:03,160 --> 00:06:05,400
+Download the recovery image for your device.
+
+123
+00:06:05,400 --> 00:06:07,360
+So we're going to be on PixelOS's website
+
+124
+00:06:07,360 --> 00:06:12,080
+and we're going to scroll down to Galaxy 
+Note 10+, at least that's for my device.
+
+125
+00:06:12,080 --> 00:06:15,640
+And we're going to get the recovery, 
+which will take us to SourceForge
+
+126
+00:06:15,640 --> 00:06:18,240
+and we get the latest version as usual.
+
+127
+00:06:18,240 --> 00:06:22,520
+Oh while you're here, you might as well download 
+the latest build as well of the ROM itself.
+
+128
+00:06:22,520 --> 00:06:23,600
+Don't forget that.
+
+129
+00:06:23,600 --> 00:06:29,560
+And over here we're going to need to 
+rename the image file to "recovery".
+
+130
+00:06:30,840 --> 00:06:33,680
+Keep in mind that this has 
+to be called "recovery.img"
+
+131
+00:06:34,400 --> 00:06:39,040
+because Odin is going to read 
+inside a layer of an archive
+
+132
+00:06:39,040 --> 00:06:42,240
+and know, "oh this goes straight 
+to recovery, okay I see."
+
+133
+00:06:42,240 --> 00:06:46,360
+Because for whatever weird reasons, we 
+can't put image files directly into Odin.
+
+134
+00:06:46,360 --> 00:06:49,840
+We have to archive it into an archive called tar.
+
+135
+00:06:49,840 --> 00:06:50,720
+How dumb is it?
+
+136
+00:06:50,720 --> 00:06:54,160
+Press okay and there should be 
+a resulting tar file as usual.
+
+137
+00:06:54,160 --> 00:07:00,000
+And now we open up Odin and we're going 
+to get this baby into download mode.
+
+138
+00:07:00,000 --> 00:07:06,680
+So volume up and down, which 
+I can mash with my fingers.
+
+139
+00:07:06,680 --> 00:07:09,560
+And the USB cable.
+
+140
+00:07:09,560 --> 00:07:11,280
+Eyyy...
+
+141
+00:07:11,280 --> 00:07:13,680
+Going into download mode by pressing volume up
+
+142
+00:07:13,680 --> 00:07:15,080
+and we're here as usual.
+
+143
+00:07:15,080 --> 00:07:20,200
+Now what we need to do is click AP, get 
+into that folder and click "recovery.tar".
+
+144
+00:07:20,800 --> 00:07:25,160
+It has to be on AP, keep in mind, 
+or else you'll brick your device.
+
+145
+00:07:25,160 --> 00:07:28,000
+And now we just send her.
+
+146
+00:07:28,000 --> 00:07:29,520
+Wee!
+
+147
+00:07:34,960 --> 00:07:38,920
+You would sometimes accidentally end up getting 
+back into your Android OS after flashing,
+
+148
+00:07:38,920 --> 00:07:40,480
+but that's perfectly fine.
+
+149
+00:07:40,480 --> 00:07:43,720
+As long as you still have access to 
+your recovery, that's perfectly fine.
+
+150
+00:07:43,720 --> 00:07:48,720
+Restart, recovery, we're taking this the lazy way.
+
+151
+00:07:48,720 --> 00:07:51,920
+While you wait, you can also close 
+Odin, we don't need that anymore.
+
+152
+00:07:51,920 --> 00:07:54,760
+But instead, we're going to need our terminal.
+
+153
+00:07:54,760 --> 00:07:56,400
+We'll get to you in a moment.
+
+154
+00:07:56,400 --> 00:08:00,120
+Okay, we're in PixelOS recovery as 
+you can clearly see, PixelOS up here.
+
+155
+00:08:00,120 --> 00:08:02,120
+And what we're going to do is [Factory reset],
+
+156
+00:08:02,120 --> 00:08:04,560
+which means we're going to wipe 
+everything real clean again,
+
+157
+00:08:04,560 --> 00:08:06,800
+just like I said in that video.
+
+158
+00:08:06,800 --> 00:08:11,280
+So here we go.
+
+159
+00:08:11,280 --> 00:08:15,800
+Format data.
+
+160
+00:08:15,800 --> 00:08:18,040
+Format cache.
+
+161
+00:08:18,040 --> 00:08:19,480
+Right, now that we're all cleaned up,
+
+162
+00:08:19,480 --> 00:08:22,360
+[Apply update] and [Apply from ADB].
+
+163
+00:08:22,360 --> 00:08:26,360
+And if you remember from the previous video 
+or any other Android flashing guide video,
+
+164
+00:08:26,360 --> 00:08:28,400
+then you would know by now.
+
+165
+00:08:28,400 --> 00:08:35,680
+[adb sideload]
+
+166
+00:08:35,680 --> 00:08:37,200
+Then the file name.
+
+167
+00:08:37,200 --> 00:08:41,480
+And we send her.
+
+168
+00:08:41,480 --> 00:08:44,040
+Now with PixelOS, GApps is built in.
+
+169
+00:08:44,040 --> 00:08:48,520
+So we don't really need to install 
+MindTheGApps at all, so we just wait here.
+
+170
+00:08:48,520 --> 00:08:50,240
+And then we'll be done by then.
+
+171
+00:08:50,240 --> 00:08:51,480
+It's real dead simple.
+
+172
+00:08:51,480 --> 00:08:56,000
+If you want a root, you might 
+also want to flash Magisk as well.
+
+173
+00:08:56,000 --> 00:08:59,440
+Uhhhhhhhhhh.
+
+174
+00:08:59,440 --> 00:09:00,280
+Uhhhhhhhhhhhh.
+
+175
+00:09:00,280 --> 00:09:04,440
+Gosh, if flashing could be any faster, honestly.
+
+176
+00:09:04,440 --> 00:09:07,160
+I'm talking about you, Apple and Google.
+
+177
+00:09:07,160 --> 00:09:08,480
+Gosh.
+
+178
+00:09:08,480 --> 00:09:09,160
+Oh, fuck.
+
+179
+00:09:09,160 --> 00:09:10,480
+I'm going to stop complaining.
+
+180
+00:09:10,480 --> 00:09:11,960
+I'm just going to sit here and wait.
+
+181
+00:09:11,960 --> 00:09:13,680
+Maybe drink some water.
+
+182
+00:09:13,680 --> 00:09:19,160
+I don't have my tea this time.
+
+183
+00:09:19,160 --> 00:09:24,000
+Six thousand years later.
+
+184
+00:09:24,000 --> 00:09:25,840
+Ah, finally, we're done.
+
+185
+00:09:25,840 --> 00:09:29,360
+Now we just Format data once more.
+
+186
+00:09:32,600 --> 00:09:34,400
+And just reboot.
+
+187
+00:09:34,400 --> 00:09:36,280
+And in theory, we should have a clean PixelOS,
+
+188
+00:09:37,040 --> 00:09:48,600
+and everything will be happily ever after.
+
+189
+00:09:48,600 --> 00:09:50,920
+Just as I thought you were about to be finished,
+
+190
+00:09:50,920 --> 00:09:54,840
+that was almost misleadingly fast.
+
+191
+00:09:54,840 --> 00:09:58,000
+Damn, the loading bar takes a 
+while for you to come out, eh?
+
+192
+00:09:58,000 --> 00:09:59,320
+You cheeky little bastard.
+
+193
+00:10:03,120 --> 00:10:04,040
+Oh, that was fast.
+
+194
+00:10:04,040 --> 00:10:05,440
+There was no warning right there.
+
+195
+00:10:05,440 --> 00:10:06,880
+What the fuck?
+
+196
+00:10:06,880 --> 00:10:10,080
+Okay, let's get through the setup as usual.
+
+197
+00:10:10,080 --> 00:10:12,600
+Hopefully this should be fast.
+
+198
+00:10:12,600 --> 00:10:17,840
+I really just want to finish recording 
+and start playing Blue Archive again.
+
+199
+00:10:17,840 --> 00:10:19,880
+Oh, you bet it will take a few minutes.
+
+200
+00:10:19,880 --> 00:10:23,720
+Gosh darn.
+
+201
+00:10:23,720 --> 00:10:25,560
+Oh, finally.
+
+202
+00:10:25,560 --> 00:10:27,400
+Finally, we're moving.
+
+203
+00:10:27,400 --> 00:10:30,680
+My camera is almost running 
+out of batteries, holy shit.
+
+204
+00:10:30,680 --> 00:10:31,880
+I'll get to you later,
+
+205
+00:10:31,880 --> 00:10:33,280
+and I'll get to you later,
+
+206
+00:10:33,280 --> 00:10:33,880
+later.
+
+207
+00:10:33,880 --> 00:10:37,640
+Screw your locations.
+
+208
+00:10:37,640 --> 00:10:39,320
+There we go.
+
+209
+00:10:39,320 --> 00:10:39,820
+PixelOS.
+
+210
+00:10:40,640 --> 00:10:41,600
+That's pretty much it.
+
+211
+00:10:41,600 --> 00:10:43,480
+There's really not much for me to say.
+
+212
+00:10:43,480 --> 00:10:46,320
+It's just your old bog standard PixelOS.
+
+213
+00:10:46,320 --> 00:10:48,760
+But now I'm going to set this up off camera,
+
+214
+00:10:48,760 --> 00:10:50,640
+and that's pretty much it.
+
+215
+00:10:50,640 --> 00:10:52,240
+Thank you all so much for watching.
+
+216
+00:10:52,240 --> 00:10:56,480
+Be sure to subscribe, be sure to 
+press like, all the usual yada yada.
+
+217
+00:10:56,480 --> 00:10:59,320
+And I hope you enjoy my other types of content,
+
+218
+00:10:59,320 --> 00:11:02,120
+which are gaming content, VTubing content.
+
+219
+00:11:02,120 --> 00:11:05,080
+And I appreciate the massive 
+amount of new subscribers
+
+220
+00:11:05,080 --> 00:11:08,080
+that I've been getting from 
+that previous Android video.
+
+221
+00:11:08,080 --> 00:11:11,480
+So thank you all so so so so so much for watching.
+
+222
+00:11:11,480 --> 00:11:13,880
+And with that said, it's ya girl Melori,
+
+223
+00:11:13,880 --> 00:11:17,920
+and I'll catch you guys on 
+the next video or stream.
+
+224
+00:11:17,920 --> 00:11:18,880
+Otsu-Melo!
+
+225
+00:11:18,880 --> 00:11:20,240
+See ya!
+
+226
+00:11:20,240 --> 00:11:24,680
+Oh yeah, with that said, be sure to 
+check out our sponsor, SD Maid SE.
+
+227
+00:11:24,680 --> 00:11:29,240
+Here you go.
+
+228
+00:11:36,760 --> 00:11:38,760
+Tired of slowness and long loading?
+
+229
+00:11:38,760 --> 00:11:40,680
+Want to make more space for your stuff?
+
+230
+00:11:40,680 --> 00:11:42,720
+Well SD Maid SE is here to help.
+
+231
+00:11:42,720 --> 00:11:47,000
+SD Maid SE is a junk cleaner made 
+by an indie developer named Darken.
+
+232
+00:11:47,000 --> 00:11:50,720
+Some apps tend to leave leftover files we 
+don't need after we're done using them.
+
+233
+00:11:50,720 --> 00:11:53,200
+That's where SD Maid SE comes in to help.
+
+234
+00:11:53,200 --> 00:11:55,720
+Now you can do that manually, but time is money.
+
+235
+00:11:55,720 --> 00:11:58,720
+With SD Maid SE, you can 
+automate a good deal of that,
+
+236
+00:11:58,720 --> 00:12:01,960
+and leave precious times to the 
+things that really matter the most.
+
+237
+00:12:01,960 --> 00:12:03,560
+Unlike other system junk cleaners,
+
+238
+00:12:03,560 --> 00:12:07,560
+SD Maid SE does not collect any 
+form of personally identifiable info
+
+239
+00:12:07,560 --> 00:12:10,680
+that could be sold to scummy 
+data miners for profit.
+
+240
+00:12:10,680 --> 00:12:14,040
+Nor does it bombard you with a 
+fuckton of ads that waste your time.
+
+241
+00:12:14,040 --> 00:12:15,720
+Like I said, time is money.
+
+242
+00:12:15,720 --> 00:12:20,440
+SD Maid SE heavily relies on the generosity 
+of the community to stay alive and going.
+
+243
+00:12:20,440 --> 00:12:22,560
+App improvements happen with 
+the help and contribution
+
+244
+00:12:22,560 --> 00:12:25,240
+from the great community in GitHub and Discord.
+
+245
+00:12:25,240 --> 00:12:28,800
+So if there's any bug with 
+the app, you're never alone.
+
+246
+00:12:28,800 --> 00:12:29,800
+What are you waiting for?
+
+247
+00:12:29,800 --> 00:12:31,640
+Get your phone cleaned with SD Maid SE
+
+248
+00:12:31,640 --> 00:12:35,080
+on the Google Play Store or 
+GitHub in the description below.
+
+249
+00:12:35,080 --> 00:12:37,280
+Oh, maybe I should clean my phone screen too.
+
+250
+00:12:37,280 --> 00:12:38,680
+With that, thanks to Darken Development
+
+251
+00:12:38,680 --> 00:12:41,120
+for encouraging me to walk 
+forward in content creation.
+
+252
+00:12:41,120 --> 00:12:42,143
+Catch yanext time!
+

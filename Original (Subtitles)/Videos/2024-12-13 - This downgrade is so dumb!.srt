@@ -1,0 +1,445 @@
+1
+00:00:02,500 --> 00:00:06,160
+Oh look, we got a brand new member of the family.
+
+2
+00:00:06,166 --> 00:00:09,300
+Kon-Melo, it's ya Tech Wizardess girl, MeloriTensei!
+
+3
+00:00:09,300 --> 00:00:14,310
+And today, we got a Samsung Galaxy A08.
+
+4
+00:00:14,316 --> 00:00:17,430
+Wait a second, that's an A06, not an 8.
+
+5
+00:00:17,433 --> 00:00:19,430
+God, I'm misremembering things.
+
+6
+00:00:19,433 --> 00:00:22,060
+And today, we got a Galaxy A06.
+
+7
+00:00:22,066 --> 00:00:24,310
+So let's get into the story right now.
+
+8
+00:00:24,316 --> 00:00:27,860
+So, MamaMel was looking for a new phone.
+
+9
+00:00:27,866 --> 00:00:32,480
+Because her current phone, the Galaxy S10 that I've mentioned some time ago,
+
+10
+00:00:32,483 --> 00:00:34,380
+in a few videos ago I guess,
+
+11
+00:00:34,383 --> 00:00:38,000
+the battery degradation is getting worse.
+
+12
+00:00:38,000 --> 00:00:41,130
+And it's starting to reach the point where it's unbearable
+
+13
+00:00:41,133 --> 00:00:45,710
+and carrying a battery bank is a necessity.
+
+14
+00:00:45,716 --> 00:00:48,700
+So she figured, well, it's been quite some time.
+
+15
+00:00:48,700 --> 00:00:52,660
+She's been holding onto the phone for like probably five years now.
+
+16
+00:00:52,666 --> 00:00:56,730
+So it's about time we get a phone change.
+
+17
+00:00:56,733 --> 00:00:58,730
+So we did some phone shopping.
+
+18
+00:00:58,733 --> 00:01:02,860
+And under my supervision, I kind of recommended a Nothing Phone 2a.
+
+19
+00:01:02,866 --> 00:01:07,010
+However, there is someone in the family that's not too thrilled
+
+20
+00:01:07,016 --> 00:01:09,980
+looking at the price of the Nothing Phone 2a.
+
+21
+00:01:09,983 --> 00:01:11,460
+And that's PapaMel.
+
+22
+00:01:11,466 --> 00:01:15,010
+PapaMel believes that the phone he's currently holding onto,
+
+23
+00:01:15,016 --> 00:01:16,590
+which we'll get to in a moment,
+
+24
+00:01:16,599 --> 00:01:18,710
+is too overpowered for his use.
+
+25
+00:01:18,716 --> 00:01:22,400
+So he figured he should just hand down that phone to MamaMel
+
+26
+00:01:22,400 --> 00:01:25,010
+and he gets a far cheaper phone.
+
+27
+00:01:25,016 --> 00:01:27,290
+At this point, by the time you hear this,
+
+28
+00:01:27,299 --> 00:01:29,510
+you would know that this is a downgrade.
+
+29
+00:01:29,516 --> 00:01:32,830
+So before we talk about that phone, let's get into this first.
+
+30
+00:01:32,833 --> 00:01:35,530
+We're gonna get into the unboxing.
+
+31
+00:01:36,866 --> 00:01:38,280
+Oh, where's the phone?
+
+32
+00:01:38,283 --> 00:01:42,760
+Well, that's because I've done prior testing and now the phone's not here.
+
+33
+00:01:42,766 --> 00:01:44,400
+But everything underneath is still here.
+
+34
+00:01:44,400 --> 00:01:46,730
+So let's get into this one first.
+
+35
+00:01:46,733 --> 00:01:50,200
+We got this SIM eject tool, which I won't really be using
+
+36
+00:01:50,200 --> 00:01:53,360
+because I already got one from the iFixit toolkit.
+
+37
+00:01:53,366 --> 00:01:58,030
+It is just some simple old quick start guide and that's pretty much it.
+
+38
+00:01:58,033 --> 00:02:00,400
+It's nothing too complex, I guess.
+
+39
+00:02:00,400 --> 00:02:02,680
+Right, so let's get onto the phone.
+
+40
+00:02:02,683 --> 00:02:07,930
+And we're gonna set up the phone so we can do exactly what we need to do.
+
+41
+00:02:07,933 --> 00:02:10,530
+Enter the Galaxy A06.
+
+42
+00:02:10,533 --> 00:02:12,580
+Now, I've also done a few things prior.
+
+43
+00:02:12,583 --> 00:02:15,810
+So I've got myself a new silicone case,
+
+44
+00:02:15,816 --> 00:02:17,590
+cheapo case that you can find in AliExpress.
+
+45
+00:02:17,599 --> 00:02:23,160
+And over the front, we got a cheapo tempered glass, also from AliExpress.
+
+46
+00:02:23,166 --> 00:02:25,680
+Because that's how low we're going,
+
+47
+00:02:25,683 --> 00:02:28,960
+especially with PapaMel complaining about prices left and right.
+
+48
+00:02:28,966 --> 00:02:30,530
+So you may be wondering to yourself,
+
+49
+00:02:30,533 --> 00:02:35,410
+why don't you just pick up like a cheaper phone that is like of a Chinese brand?
+
+50
+00:02:35,416 --> 00:02:40,030
+That's primarily because I don't really quite trust Chinese companies with their ROMs,
+
+51
+00:02:40,033 --> 00:02:43,400
+especially with advertising and privacy and stuff like that.
+
+52
+00:02:43,400 --> 00:02:45,110
+And updates as well.
+
+53
+00:02:45,116 --> 00:02:47,910
+So like the quality of the updates.
+
+54
+00:02:47,916 --> 00:02:53,410
+So in those matters, I've ended up finding myself back to Samsung multiple freaking times,
+
+55
+00:02:53,416 --> 00:02:55,830
+no matter how much I want to leave them.
+
+56
+00:02:55,833 --> 00:02:59,060
+But regardless, let's boot it up.
+
+57
+00:03:01,800 --> 00:03:03,900
+Welcome!
+
+58
+00:03:06,133 --> 00:03:08,430
+Easy setup with another device.
+
+59
+00:03:08,433 --> 00:03:11,840
+Sign in automatically and copy settings and accounts.
+
+60
+00:03:11,849 --> 00:03:13,860
+Enter...
+
+61
+00:03:13,866 --> 00:03:17,630
+A phone that looks awfully similar.
+
+62
+00:03:17,633 --> 00:03:21,680
+So this right here is a Samsung Galaxy A15,
+
+63
+00:03:21,683 --> 00:03:24,130
+which has pretty much the same case,
+
+64
+00:03:24,133 --> 00:03:26,380
+the same tempered glass,
+
+65
+00:03:26,383 --> 00:03:28,460
+just on a different model.
+
+66
+00:03:28,466 --> 00:03:31,610
+Do you see how much of a joke this is?
+
+67
+00:03:31,616 --> 00:03:35,030
+PapaMel is willing to go that stupid far
+
+68
+00:03:35,033 --> 00:03:38,710
+to pick up a phone downgrade of this caliber.
+
+69
+00:03:38,716 --> 00:03:42,260
+So this phone is going to be MamaMel's phone eventually.
+
+70
+00:03:42,266 --> 00:03:44,130
+And that phone's going to be Papa Mel's.
+
+71
+00:03:44,133 --> 00:03:45,010
+Wow.
+
+72
+00:03:45,016 --> 00:03:47,330
+What a crazy world I'm living in today.
+
+73
+00:03:47,333 --> 00:04:00,030
+(Ye olde usual setup...)
+
+74
+00:04:05,833 --> 00:04:08,860
+Dear Lord, this phone is hitching a lot.
+
+75
+00:04:08,866 --> 00:04:12,730
+Look at the sheer speed of this.
+
+76
+00:04:12,733 --> 00:04:15,310
+Yeah, um, barely moving at all.
+
+77
+00:04:15,316 --> 00:04:17,380
+Oh, God.
+
+78
+00:04:17,383 --> 00:04:22,830
+Yeah, because of this hitching, I'm gonna give it some time to chill and
+
+79
+00:04:22,833 --> 00:04:26,180
+wait for it to finish transferring.
+
+80
+00:04:28,816 --> 00:04:35,480
+Full "casual" cover for members only. (Due to how trash
+I think my singing is) OG BGM: Vanfan & Rainych Ran
+
+81
+00:04:35,483 --> 00:04:37,410
+Yoru asa made
+(Day to night to morning)
+
+82
+00:04:37,416 --> 00:04:39,600
+Zutto soba ni ite
+(Keep with me in the moment)
+
+83
+00:04:39,600 --> 00:04:41,780
+Aizu wo shitatte [mo]
+(I'd let you had I known It)
+
+84
+00:04:41,783 --> 00:04:43,960
+Iwanai no?
+(Why don't you say so?)
+
+85
+00:04:43,966 --> 00:04:46,250
+(Quack)
+After a session...
+
+86
+00:04:46,250 --> 00:04:48,350
+So it's been a few minutes has passed.
+
+87
+00:04:48,350 --> 00:04:52,880
+And as you can see, I'm still struggling to transfer
+
+88
+00:04:52,883 --> 00:04:57,890
+chat backups from WeChat manually, as they instructed to.
+
+89
+00:04:57,899 --> 00:05:01,810
+And, um, well, as you can see at the time,
+(06:58H JST)
+
+90
+00:05:01,816 --> 00:05:06,330
+it's not exactly the time that I usually record in.
+
+91
+00:05:06,333 --> 00:05:13,100
+So, yeah, um, and PapaMel is probably gonna be awake anytime soon.
+
+92
+00:05:13,100 --> 00:05:16,280
+So I better get this done ASAP.
+
+93
+00:05:16,283 --> 00:05:22,210
+So I'm gonna put the camera down and actually get to real work.
+
+94
+00:05:22,216 --> 00:05:26,430
+But yeah, with that said, thank you so much for watching.
+
+95
+00:05:26,433 --> 00:05:30,140
+Thank you so much for chilling with me and watching me go through this
+
+96
+00:05:30,149 --> 00:05:33,480
+crazy little process just for funs and giggles.
+
+97
+00:05:33,483 --> 00:05:36,860
+And I don't know, PapaMel doing a shitty downgrade.
+
+98
+00:05:36,866 --> 00:05:39,330
+But yeah, I'm just gonna leave it at that.
+
+99
+00:05:39,333 --> 00:05:41,310
+Hopefully it gets done ASAP.
+
+100
+00:05:41,316 --> 00:05:43,210
+I need to catch some sleep.
+
+101
+00:05:43,216 --> 00:05:43,980
+But with that said.
+
+102
+00:05:43,983 --> 00:05:45,300
+OtsuMelo Deshita.
+
+103
+00:05:45,300 --> 00:05:50,980
+It's 7am JST and I am feeling really fucking eepy right now.
+
+104
+00:05:50,983 --> 00:05:52,810
+Have a good night, y'all.
+
+105
+00:05:52,816 --> 00:05:55,980
+Weeeeeeeeeeeeee~
+
+106
+00:05:58,916 --> 00:06:05,880
+[Ko-fi] Thank you for supporting me financially!
+Members: Jo, Xandra, Aerostatik, Natalie. | One-off: Owa-san
+
+107
+00:06:05,883 --> 00:06:13,980
+[MeloriTensei 転性メロリ] Thank you for watching!
+Check out my other contents!
+
+108
+00:06:14,466 --> 00:06:17,180
+This is the most torturous phone I've got to be honest.
+
+109
+00:06:17,183 --> 00:06:20,000
+It's so bad.
+

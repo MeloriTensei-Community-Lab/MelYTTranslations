@@ -1,0 +1,972 @@
+1
+00:00:02,000 --> 00:00:05,040
+There's something a familiar YouTuber once says.
+
+2
+00:00:05,049 --> 00:00:06,360
+USB.
+
+3
+00:00:06,366 --> 00:00:09,110
+Kon-Melo, it's ya Tech Wizardess girl, MeloriTensei.
+
+4
+00:00:09,116 --> 00:00:13,060
+And this right here is my personal USB
+
+5
+00:00:13,066 --> 00:00:16,210
+that has clutched me through all of university.
+
+6
+00:00:16,216 --> 00:00:18,860
+So if you're wondering what's inside this USB,
+
+7
+00:00:18,866 --> 00:00:20,780
+it contains a set of applications
+
+8
+00:00:20,783 --> 00:00:24,330
+that helped me through it because we got stupid thing called
+
+9
+00:00:24,333 --> 00:00:26,710
+university rules on the computer.
+
+10
+00:00:26,716 --> 00:00:29,250
+So what do you mean by that Mel?
+
+11
+00:00:29,250 --> 00:00:33,390
+Past Mel back in university, had to use computers
+
+12
+00:00:33,399 --> 00:00:36,810
+that were provided by the university in the computer lab
+
+13
+00:00:36,816 --> 00:00:38,310
+and something like that.
+
+14
+00:00:38,316 --> 00:00:41,110
+Imagine this, like lil Mel's just walking around
+
+15
+00:00:41,116 --> 00:00:45,980
+and she needs to grab a quick file from say
+
+16
+00:00:45,983 --> 00:00:48,030
+a network attached storage from the university,
+
+17
+00:00:48,033 --> 00:00:50,410
+but it's only accessible by those computers.
+
+18
+00:00:50,416 --> 00:00:51,710
+So I got to grab those.
+
+19
+00:00:51,716 --> 00:00:53,530
+In theory, I would just grab the files,
+
+20
+00:00:53,533 --> 00:00:55,950
+take it to my laptop and do the work there.
+
+21
+00:00:55,950 --> 00:00:59,030
+But what if I'm just, all I'm doing is just editing a file
+
+22
+00:00:59,033 --> 00:01:01,510
+or something like a notepad or something like that.
+
+23
+00:01:01,516 --> 00:01:03,780
+And now I got to grab notes from say,
+
+24
+00:01:03,783 --> 00:01:08,090
+probably my student's website from their own servers,
+
+25
+00:01:08,099 --> 00:01:10,810
+like a school servers, something like that.
+
+26
+00:01:10,816 --> 00:01:12,380
+What if I want to do all that?
+
+27
+00:01:12,383 --> 00:01:13,060
+Okay.
+
+28
+00:01:13,066 --> 00:01:14,110
+It should be pretty easy.
+
+29
+00:01:14,116 --> 00:01:17,180
+You remember the password, right?
+
+30
+00:01:17,233 --> 00:01:18,080
+Right?
+
+31
+00:01:18,083 --> 00:01:20,680
+Now this is where I hit a roadblock.
+
+32
+00:01:20,683 --> 00:01:26,010
+So it's 2020 at a time and people started adopting the use of something
+
+33
+00:01:26,016 --> 00:01:28,810
+we known as password managers.
+
+34
+00:01:28,816 --> 00:01:32,540
+So I started scrambling all my passwords and um,
+
+35
+00:01:32,549 --> 00:01:35,060
+lo and behold, it came biting at me
+
+36
+00:01:35,066 --> 00:01:39,930
+that I have to type every single passwords each time on those computers.
+
+37
+00:01:39,933 --> 00:01:44,380
+And I have to spend like probably what a whole minute to type my password down.
+
+38
+00:01:44,383 --> 00:01:45,760
+Yeah, that's fucking insane.
+
+39
+00:01:45,766 --> 00:01:47,110
+Unfortunately, no.
+
+40
+00:01:47,116 --> 00:01:49,130
+Well, in case you're wondering what took a whole minute,
+
+41
+00:01:49,133 --> 00:01:51,030
+it's a 16 character passcode.
+
+42
+00:01:51,033 --> 00:01:56,040
+So not to mention you got case sensitivity, numbers, symbols,
+
+43
+00:01:56,049 --> 00:01:57,280
+they're all in factor.
+
+44
+00:01:57,283 --> 00:01:59,830
+So it took me that long to type.
+
+45
+00:01:59,833 --> 00:02:00,760
+Yeah.
+
+46
+00:02:00,766 --> 00:02:04,060
+Little man had to go like grab a keyboard and go,
+
+47
+00:02:04,066 --> 00:02:06,930
+Oh, let me just, uh, shift, percent,
+
+48
+00:02:06,933 --> 00:02:09,330
+uh, small T wait, no, go back.
+
+49
+00:02:09,333 --> 00:02:11,280
+A big T.
+
+50
+00:02:11,283 --> 00:02:13,080
+Yeah.
+
+51
+00:02:13,083 --> 00:02:15,830
+Um, that, that's kind of the problem I brand into.
+
+52
+00:02:15,833 --> 00:02:18,260
+And I didn't want to go through all that all the time,
+
+53
+00:02:18,266 --> 00:02:20,830
+because what if someone needs the computer really quickly
+
+54
+00:02:20,833 --> 00:02:23,610
+because there's a limited count of computers at some point,
+
+55
+00:02:23,616 --> 00:02:26,930
+or maybe I just want to be quick because I hate wasting time.
+
+56
+00:02:26,933 --> 00:02:31,580
+This, this USB has saved me for a very, very long time.
+
+57
+00:02:31,583 --> 00:02:35,160
+And it saved me a lot of times that I otherwise wouldn't have.
+
+58
+00:02:35,166 --> 00:02:36,930
+So let's have a look at what's inside.
+
+59
+00:02:36,933 --> 00:02:39,910
+Let's grab this and plug it in, I guess.
+
+60
+00:02:39,916 --> 00:02:42,340
+Oh, before I'm plugging it in, in case you're wondering,
+
+61
+00:02:42,349 --> 00:02:43,590
+I'm a big fan of tea.
+
+62
+00:02:43,599 --> 00:02:46,560
+This is just an off-topic stuff, but I kind of like to show, well...
+
+63
+00:02:46,566 --> 00:02:48,060
+Think about Craft Computing.
+
+64
+00:02:48,066 --> 00:02:51,610
+You know how Craft Computing always has a beer at the end of videos.
+
+65
+00:02:51,616 --> 00:02:55,110
+Well how about have a tea for myself?
+
+66
+00:02:55,116 --> 00:02:56,250
+Ahmad tea.
+
+67
+00:02:56,250 --> 00:02:59,330
+Well, I'm just a big fan of drinking teas in general.
+
+68
+00:02:59,333 --> 00:03:03,160
+So, so this is just one of my choices of the moment
+
+69
+00:03:03,166 --> 00:03:07,550
+because I'm not too big of a person who buys a lot of tea at one time
+
+70
+00:03:07,550 --> 00:03:10,210
+and then drink them all at the same time.
+
+71
+00:03:10,216 --> 00:03:12,910
+I would be a psychopath if I'd be drinking that much.
+
+72
+00:03:12,916 --> 00:03:16,130
+But the boxes of tea that I currently have right now is
+
+73
+00:03:16,133 --> 00:03:18,630
+a chamomile lemongrass version.
+
+74
+00:03:18,633 --> 00:03:21,330
+And I gotta be honest, it's kind of very refreshing
+
+75
+00:03:21,333 --> 00:03:23,260
+and it gives you that calm vibes.
+
+76
+00:03:23,266 --> 00:03:28,180
+And while you're editing, it just brings you down to tranquility sometimes
+
+77
+00:03:28,183 --> 00:03:29,530
+while you're editing.
+
+78
+00:03:29,533 --> 00:03:34,610
+It's not so stressful and yeah, I guess I just enjoy it in general.
+
+79
+00:03:34,616 --> 00:03:37,660
+However, if you're wondering what's my top favorite tea,
+
+80
+00:03:37,666 --> 00:03:41,330
+it would be the Taiwanese High Mountain Oolongs.
+
+81
+00:03:41,333 --> 00:03:44,310
+Those give a serious massive punch.
+
+82
+00:03:44,316 --> 00:03:46,580
+It's kind of like an alternative to coffee
+
+83
+00:03:46,583 --> 00:03:48,610
+where the coffee gives you the energy punch
+
+84
+00:03:48,616 --> 00:03:50,190
+except in tea form.
+
+85
+00:03:50,199 --> 00:03:53,980
+So that's kind of how I feel about Taiwanese High Mountain.
+
+86
+00:03:53,983 --> 00:03:56,050
+Right, all the tea yapping out of the way,
+
+87
+00:03:56,050 --> 00:03:57,960
+let's get back to the main part of the video.
+
+88
+00:03:57,966 --> 00:03:59,110
+EEEEGH!
+
+89
+00:03:59,116 --> 00:03:59,710
+dadun~
+
+90
+00:03:59,716 --> 00:04:01,530
+da-DON~
+
+91
+00:04:01,533 --> 00:04:06,910
+Right, I got my USB plugged in and let's see what's inside.
+
+92
+00:04:07,716 --> 00:04:10,530
+Oh, um, there's nothing here.
+
+93
+00:04:10,533 --> 00:04:11,780
+Right.
+
+94
+00:04:11,783 --> 00:04:15,000
+If you know me as a person who does a lot of experiments with tech,
+
+95
+00:04:15,000 --> 00:04:17,710
+you know that I tend to clean up my USB a lot.
+
+96
+00:04:17,716 --> 00:04:21,130
+Yeah, um, those are one of those days, you know.
+
+97
+00:04:21,133 --> 00:04:24,100
+That means I think I probably have lost everything.
+
+98
+00:04:24,100 --> 00:04:25,160
+Well fear no more!
+
+99
+00:04:25,166 --> 00:04:26,760
+We could probably just minimize that
+
+100
+00:04:26,766 --> 00:04:29,510
+and open up the very program that we need.
+
+101
+00:04:29,516 --> 00:04:31,130
+It's called PortableApps.
+
+102
+00:04:31,133 --> 00:04:36,160
+So PortableApps.com allows you to have portable versions of your favorite apps
+
+103
+00:04:36,166 --> 00:04:39,190
+in the USB or whatever hard drive you're going to carry around.
+
+104
+00:04:39,199 --> 00:04:44,810
+It's basically meant to be like a mini program of your choice wherever you go.
+
+105
+00:04:44,816 --> 00:04:47,910
+It works on drives, it works on clouds, it works on anything,
+
+106
+00:04:47,916 --> 00:04:51,410
+it works on, well, anything you can put it in, it works.
+
+107
+00:04:51,416 --> 00:04:53,480
+With a small little caveat,
+
+108
+00:04:53,483 --> 00:04:56,680
+I've only had prior experience with the Windows version of the app,
+
+109
+00:04:56,683 --> 00:05:01,110
+so I can't really tell you anything about the Linux version or the Mac version
+
+110
+00:05:01,116 --> 00:05:06,310
+because they say it also works with it via crossover, WineSkin, WineBottler, PlayOnMac.
+
+111
+00:05:06,316 --> 00:05:09,310
+So your mileage may vary when you're on those platforms.
+
+112
+00:05:09,316 --> 00:05:11,010
+However, we're gonna get into here
+
+113
+00:05:11,016 --> 00:05:14,000
+and we're gonna start with downloading PortableApps.com
+
+114
+00:05:14,000 --> 00:05:16,910
+and soon enough, we're gonna have an installer.
+
+115
+00:05:16,916 --> 00:05:18,160
+After some time...
+
+116
+00:05:18,166 --> 00:05:21,760
+So once you're done, open up the installer as per usual and...
+
+117
+00:05:21,766 --> 00:05:26,010
+Oh look, Mallory is British.
+
+118
+00:05:27,133 --> 00:05:30,080
+Hahahahah, get the goofy ahh reference? No? Yeah... I know...
+
+119
+00:05:30,083 --> 00:05:35,890
+Okay, right, let's click on next and agree to the terms and yada yada yada.
+
+120
+00:05:35,899 --> 00:05:41,730
+And what we're gonna do is click on a new copy, a new installation,
+
+121
+00:05:41,733 --> 00:05:44,600
+and it's gonna ask you what type of installation you're gonna put it in,
+
+122
+00:05:44,600 --> 00:05:49,510
+in a cloud, in a portable, or like local, all users, or anywhere you want.
+
+123
+00:05:49,516 --> 00:05:50,890
+We're gonna pick portable.
+
+124
+00:05:50,899 --> 00:05:55,410
+And it's gonna ask you which drive, which in our case would be the D drive.
+
+125
+00:05:55,416 --> 00:05:56,510
+Haha, D.
+
+126
+00:05:56,516 --> 00:05:57,830
+Alright, let's press install.
+
+127
+00:05:57,833 --> 00:06:00,580
+Now we're gonna wait for it to finish installing.
+
+128
+00:06:00,583 --> 00:06:04,430
+And then following that, it's gonna ask if you wanna run the program.
+
+129
+00:06:04,433 --> 00:06:07,160
+And once you start, it opens up something like this.
+
+130
+00:06:07,166 --> 00:06:09,180
+You got the about page, and then you got something
+
+131
+00:06:09,183 --> 00:06:13,710
+that looks a little awfully like Windows 7 kind of start menu,
+
+132
+00:06:13,716 --> 00:06:16,060
+except everything PortableApps related.
+
+133
+00:06:16,066 --> 00:06:18,380
+I'm gonna close that for now because what we're gonna do
+
+134
+00:06:18,383 --> 00:06:20,250
+is we're gonna go to, oh,
+
+135
+00:06:20,250 --> 00:06:22,630
+it has done it for us.
+
+136
+00:06:22,633 --> 00:06:25,210
+I was gonna click on it but it didn't, it didn't let me,
+
+137
+00:06:25,216 --> 00:06:27,010
+it just opened it up itself.
+
+138
+00:06:27,016 --> 00:06:30,260
+Right, so we're gonna start grabbing things that we want.
+
+139
+00:06:30,266 --> 00:06:33,530
+So say for example I want my Chrome and Firefox,
+
+140
+00:06:33,533 --> 00:06:37,660
+so we just go scrolling through the list and uh, internet.
+
+141
+00:06:37,666 --> 00:06:41,300
+We got Firefox Portable right here, we just tick that,
+
+142
+00:06:41,300 --> 00:06:45,880
+and then say um, I probably want something like
+
+143
+00:06:45,883 --> 00:06:48,860
+Telegram desktop if you happen to use Telegram,
+
+144
+00:06:48,866 --> 00:06:51,030
+and download whatever you want.
+
+145
+00:06:51,033 --> 00:06:54,050
+There's even OBS Studio as well, that's surprising.
+
+146
+00:06:54,050 --> 00:06:58,610
+And if you need VLC, they, they do have VLC.
+
+147
+00:06:58,616 --> 00:07:03,230
+So you can see that there's a massive choice of applications that you can use,
+
+148
+00:07:03,233 --> 00:07:06,430
+however I did not use all of them unfortunately.
+
+149
+00:07:06,433 --> 00:07:09,480
+I did use a few, particularly Firefox.
+
+150
+00:07:09,483 --> 00:07:10,780
+And I think that's pretty much it.
+
+151
+00:07:10,783 --> 00:07:14,760
+Otherwise, it's kind of like my utility USB if anything.
+
+152
+00:07:14,766 --> 00:07:18,160
+But yeah, with that said, I'm gonna show you what I actually have,
+
+153
+00:07:18,166 --> 00:07:21,460
+because I fucking lied to you in the beginning.
+
+154
+00:07:21,466 --> 00:07:26,030
+I did not wipe my drive without knowing that, that I have my shit there.
+
+155
+00:07:26,033 --> 00:07:27,630
+I have backed it all up.
+
+156
+00:07:27,633 --> 00:07:32,000
+So I'm gonna bring them all back and then I'm gonna present to you what I got.
+
+157
+00:07:32,000 --> 00:07:38,030
+Right, so I've opened up my, my particular copy of PortableApps, and um,
+
+158
+00:07:38,033 --> 00:07:40,390
+well it's been quite a while since I last updated anything,
+
+159
+00:07:40,399 --> 00:07:44,380
+so there's some updates that it automatically came up as I opened it up.
+
+160
+00:07:44,383 --> 00:07:46,310
+So let's press install on those.
+
+161
+00:07:46,316 --> 00:07:48,130
+So it does most of it for you,
+
+162
+00:07:48,133 --> 00:07:54,110
+however there are times where they will ask you to confirm your agreement to the EULA,
+
+163
+00:07:54,116 --> 00:07:59,030
+because some apps require you to agree to the EULA before proceeding.
+
+164
+00:07:59,033 --> 00:08:03,730
+So this process of installing apps are not 100% unattended,
+
+165
+00:08:03,733 --> 00:08:05,750
+some of which requires your EULA attention.
+
+166
+00:08:05,750 --> 00:08:07,430
+So please take note of that.
+
+167
+00:08:07,433 --> 00:08:11,930
+So um, if you're planning on doing anything else while you're installing,
+
+168
+00:08:11,933 --> 00:08:15,440
+please make sure to check back on your computer when you're doing that.
+
+169
+00:08:15,449 --> 00:08:18,560
+Some more time later...
+
+170
+00:08:18,566 --> 00:08:21,430
+Right, with the update done, I'm gonna click finish,
+
+171
+00:08:21,433 --> 00:08:24,230
+and we can bring back our things.
+
+172
+00:08:24,233 --> 00:08:29,480
+And now, I'm not sure if you can imagine what kind of person I am, but…
+
+173
+00:08:29,483 --> 00:09:11,630
+(Boss music INTENSIFIES)
+
+174
+00:09:11,633 --> 00:09:15,130
+Yeah, um, I've downloaded everything.
+
+175
+00:09:15,183 --> 00:09:18,310
+To the point that, when I click this button,
+
+176
+00:09:18,316 --> 00:09:21,830
+I'm only left with 3 programs to download brand new.
+
+177
+00:09:21,833 --> 00:09:23,600
+I'll take care of that off camera.
+
+178
+00:09:23,600 --> 00:09:27,230
+But what's more important is that you can fit a lot of programs.
+
+179
+00:09:27,233 --> 00:09:31,950
+There's about over 50 gigs, just programs only.
+
+180
+00:09:31,950 --> 00:09:33,580
+That's freaking insane.
+
+181
+00:09:33,583 --> 00:09:39,310
+It's like, you can just grab a 64 gig USB and throw everything on it,
+
+182
+00:09:39,316 --> 00:09:44,180
+and booyah, you got yourself a hyper-utility USB for anything.
+
+183
+00:09:44,183 --> 00:09:48,310
+Like tech support for your grandma, tech support for yourself,
+
+184
+00:09:48,316 --> 00:09:52,140
+or a quick emergency schoolwork by borrowing someone's PC
+
+185
+00:09:52,149 --> 00:09:56,060
+and then not installing it onto their computer so you can use your own.
+
+186
+00:09:56,066 --> 00:10:00,180
+There's so many different things you can do with it, and there's everything.
+
+187
+00:10:00,183 --> 00:10:01,460
+Like Notepad++,
+
+188
+00:10:01,466 --> 00:10:07,060
+they got even LibreOffice as well, so you can do some of the office works.
+
+189
+00:10:07,066 --> 00:10:11,950
+It's just super, super flexible as a program.
+
+190
+00:10:11,950 --> 00:10:17,260
+And if you feel like it, you could probably also install your own portable apps
+
+191
+00:10:17,266 --> 00:10:18,530
+and chuck it into the apps folder,
+
+192
+00:10:18,533 --> 00:10:20,180
+but I'm not really too sure how that works
+
+193
+00:10:20,183 --> 00:10:25,060
+because I installed an older version of OBS and threw it in,
+
+194
+00:10:25,066 --> 00:10:27,200
+and it somehow showed up for me.
+
+195
+00:10:27,200 --> 00:10:31,130
+But not in my current case, but it did show up in the older case.
+
+196
+00:10:31,133 --> 00:10:34,610
+Not sure about today though, however, but your mileage may vary.
+
+197
+00:10:34,616 --> 00:10:38,230
+So this thing, considering being portable,
+
+198
+00:10:38,233 --> 00:10:42,630
+which also means that if you load Firefox on it, it's not gonna save into AppData,
+
+199
+00:10:42,633 --> 00:10:44,780
+it saves into its local folder as well,
+
+200
+00:10:44,783 --> 00:10:47,880
+so that means I could also save my password managers in there,
+
+201
+00:10:47,883 --> 00:10:51,380
+and I could get stuff copied and pasted very quickly
+
+202
+00:10:51,383 --> 00:10:54,630
+without having to worry about needing to install another program.
+
+203
+00:10:54,633 --> 00:10:58,210
+Uh, but Mel, doesn't that mean you're installing a program
+
+204
+00:10:58,216 --> 00:11:01,530
+or using a third-party program on a computer?
+
+205
+00:11:01,533 --> 00:11:04,200
+Technically, it's using third-party programs,
+
+206
+00:11:04,200 --> 00:11:08,680
+however, in my university, it said nothing about installing anything,
+(Correction: What I meant is that it said nothing about...)
+
+207
+00:11:08,683 --> 00:11:11,160
+so I technically didn't install anything to the computer.
+("running third party programs" just "installing" is no-no..)
+
+208
+00:11:11,166 --> 00:11:15,060
+I've only installed it to my USB for use on the USB,
+
+209
+00:11:15,066 --> 00:11:19,060
+and I'm only piggybacking the processing power from the desktop
+
+210
+00:11:19,066 --> 00:11:20,910
+that the university provided,
+
+211
+00:11:20,916 --> 00:11:24,380
+which technically, I'm still in the right of doing that.
+
+212
+00:11:24,383 --> 00:11:30,450
+But yeah, this is how this one tool has clutched my entire university life.
+
+213
+00:11:30,450 --> 00:11:33,130
+You may wonder to yourself, why don't you just bring your own laptop?
+
+214
+00:11:33,133 --> 00:11:35,810
+Well that's because my laptop battery was dead at the time.
+
+215
+00:11:35,816 --> 00:11:43,280
+Yeah, um, about that, um, you can see where I was going with that.
+
+216
+00:11:43,283 --> 00:11:47,060
+But yeah, I don't think there's much for me to yap about and show about,
+
+217
+00:11:47,066 --> 00:11:50,930
+but it is something that I would like to show and tell and yap about
+
+218
+00:11:50,933 --> 00:11:53,480
+primarily because I think it's worth showing
+
+219
+00:11:53,483 --> 00:11:56,350
+and it's kind of a cool concept in my opinion.
+
+220
+00:11:56,350 --> 00:11:58,200
+So that's pretty much it.
+
+221
+00:11:58,200 --> 00:12:00,130
+With that said, thank you all so much for watching.
+
+222
+00:12:00,133 --> 00:12:03,350
+Be sure to subscribe, be sure to press like, notification bell.
+
+223
+00:12:03,350 --> 00:12:04,560
+Want more tech videos?
+
+224
+00:12:04,566 --> 00:12:05,710
+Check out my videos tab.
+
+225
+00:12:05,716 --> 00:12:08,140
+If you want more gaming, check out the live tab.
+
+226
+00:12:08,149 --> 00:12:11,460
+And um, if you want to hang out with me, check out the discord,
+
+227
+00:12:11,466 --> 00:12:14,700
+and we probably talk about a lot of different stuff and stuff like that.
+
+228
+00:12:14,700 --> 00:12:17,350
+If you would like to support me financially, check out my Ko-fi
+
+229
+00:12:17,350 --> 00:12:22,130
+because none of these, like the computer I'm using, the equipment I'm using is free,
+
+230
+00:12:22,133 --> 00:12:27,310
+so hopefully we can be financially sustainable to be able to maintain
+
+231
+00:12:27,316 --> 00:12:29,960
+all these hardware that I'm currently using for filming.
+
+232
+00:12:29,966 --> 00:12:32,130
+But anyways, with that said, thank you all so much for watching,
+
+233
+00:12:32,133 --> 00:12:34,110
+and OtsuMelo deshita (It's been ya girl, Mel).
+
+234
+00:12:34,116 --> 00:12:35,610
+See ya!
+
+235
+00:12:35,616 --> 00:12:40,110
+Have a good day or night or whatever the time zone is at your place.
+
+236
+00:12:40,116 --> 00:12:42,660
+See ya!
+
+237
+00:12:46,250 --> 00:12:53,480
+[Ko-fi] Thank you for supporting me financially!
+Members: Jo, Natalie, Aerostatik, Xandra~ | One-off: Owa-San
+
+238
+00:12:53,933 --> 00:13:01,110
+[MeloriTensei 転性メロリ] Thank you for watching!
+Check out my other contents!
+
+239
+00:13:02,649 --> 00:13:05,350
+Kay, top down camera done!
+
+240
+00:13:05,350 --> 00:13:08,660
+UGH UGH UGH UGH I almost dropped that fucking camera.
+
+241
+00:13:08,666 --> 00:13:10,640
+HAHAHAHA
+
+242
+00:13:10,649 --> 00:13:14,180
+I'm not dropping that camera ever again.
+

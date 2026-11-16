@@ -1,0 +1,536 @@
+1
+00:00:01,540 --> 00:00:03,580
+Well would you look at that!
+
+2
+00:00:03,980 --> 00:00:08,000
+Another case of being unlucky as MeloriTensei.
+
+3
+00:00:09,420 --> 00:00:15,380
+KonMelo, today I'm going to be recording this completely unedited.
+
+4
+00:00:16,260 --> 00:00:23,480
+Because I'm going to talk about whatever happened the day before this video upload I guess.
+
+5
+00:00:23,480 --> 00:00:28,880
+So what happened was that I was streaming Zenless Zone Zero for the launch day stream.
+
+6
+00:00:29,020 --> 00:00:33,020
+So I was really really excited for what comes out for that game.
+
+7
+00:00:33,400 --> 00:00:40,120
+However, I was completely beset by sudden shutdowns that were just…
+
+8
+00:00:41,120 --> 00:00:44,640
+It just goes black, everything goes black, USB goes out, everything goes out.
+
+9
+00:00:44,780 --> 00:00:46,480
+Basically the whole motherboard goes out.
+
+10
+00:00:46,780 --> 00:00:49,880
+But weirdly enough, the power LED is still on.
+
+11
+00:00:50,840 --> 00:00:52,500
+It got me real curious.
+
+12
+00:00:52,500 --> 00:00:55,740
+So what I thought to myself is…
+
+13
+00:00:58,740 --> 00:01:03,480
+"I'm going to try to figure it out using a separate installation."
+
+14
+00:01:03,720 --> 00:01:07,960
+So I took everything down, took out my drives and everything, and used a spare drive to install.
+
+15
+00:01:08,540 --> 00:01:11,080
+And get this, I was installing on a HDD.
+
+16
+00:01:12,060 --> 00:01:18,880
+So it was crazy slow, not to mention when we're doing this on Windows 11, it's almost impossible to set things up there.
+
+17
+00:01:18,880 --> 00:01:24,080
+But I still got it anyway, and I did a really long series of tests.
+
+18
+00:01:24,680 --> 00:01:27,220
+I've gone through like 30 whole minutes of recordings.
+
+19
+00:01:27,860 --> 00:01:31,160
+I mean no, not just recording, streaming even.
+
+20
+00:01:31,620 --> 00:01:35,540
+I've done 30 whole minutes of streaming, and it was like, "huh, nothing happened."
+
+21
+00:01:36,520 --> 00:01:37,260
+Weird, isn't it?
+
+22
+00:01:38,000 --> 00:01:40,720
+So I was streaming to a test private stream.
+
+23
+00:01:41,860 --> 00:01:49,160
+Just to make sure that the setup that I was recreating the error from was almost mirror, like one on one, the same.
+
+24
+00:01:49,560 --> 00:01:51,940
+So I got VSeeFace, everything on.
+
+25
+00:01:53,080 --> 00:01:54,340
+So nothing happened.
+
+26
+00:01:54,820 --> 00:02:01,000
+So I thought to myself, could it be that by reseating the GPU, things have fixed again?
+
+27
+00:02:01,340 --> 00:02:05,120
+Because honestly, I genuinely don't know what could make a GPU fall out.
+
+28
+00:02:05,680 --> 00:02:09,500
+Like, I got it real secured with screws and everything.
+
+29
+00:02:09,500 --> 00:02:16,600
+I mean, of course I don't have a GPU stand that most 4080 or 4090 people start using.
+
+30
+00:02:18,440 --> 00:02:20,400
+But how could it be possible?
+
+31
+00:02:21,140 --> 00:02:28,760
+Because I got my motherboard fresh just a couple months ago, like probably some three months ago or something.
+
+32
+00:02:28,860 --> 00:02:29,780
+Sometime around then.
+
+33
+00:02:30,480 --> 00:02:33,520
+So I thought to myself, this is really, really, really fucking weird.
+
+34
+00:02:33,860 --> 00:02:38,200
+So I put back everything, thinking that it could not be a GPU problem.
+
+35
+00:02:38,200 --> 00:02:41,760
+I put everything back, all my drives back to where it was.
+
+36
+00:02:42,680 --> 00:02:46,660
+And as you can see with my background, this is still my stream chatting background.
+
+37
+00:02:47,440 --> 00:02:49,740
+As you can see, everything is perfectly fine.
+
+38
+00:02:49,920 --> 00:02:51,920
+So I thought, let's do another series of tests.
+
+39
+00:02:52,120 --> 00:02:56,040
+Let's run the same game, do the same stream, do the same test.
+
+40
+00:02:56,700 --> 00:02:59,960
+Maybe even add an extra few loads, run a few YouTube videos on top of it.
+
+41
+00:03:00,380 --> 00:03:01,020
+Do everything.
+
+42
+00:03:02,120 --> 00:03:02,580
+What?
+
+43
+00:03:03,360 --> 00:03:05,740
+Nothing fucking crashed for a full hour straight.
+
+44
+00:03:05,740 --> 00:03:11,140
+30 minutes of ZZZ, 30 minutes of Valorant, nothing fucking happened.
+
+45
+00:03:15,760 --> 00:03:17,440
+Get this, nothing changed.
+
+46
+00:03:17,580 --> 00:03:19,920
+I have not even shut down any of my background services.
+
+47
+00:03:20,120 --> 00:03:20,720
+Nothing changed.
+
+48
+00:03:21,380 --> 00:03:24,700
+Nothing changed from prior, except for the fact that I reseated the GPU.
+
+49
+00:03:25,620 --> 00:03:27,000
+Just how fucking crazy is that?
+
+50
+00:03:27,360 --> 00:03:28,300
+Is it because of my GPU?
+
+51
+00:03:28,560 --> 00:03:29,500
+Is it because of my drives?
+
+52
+00:03:29,860 --> 00:03:32,820
+Because these are the only two components I've touched so far.
+
+53
+00:03:32,820 --> 00:03:36,620
+So I'm starting to lose my goddamn mind right now.
+
+54
+00:03:36,740 --> 00:03:41,380
+I really wish that these two are not the culprits.
+
+55
+00:03:42,040 --> 00:03:48,940
+Because currently, what's in my mind right now is a possible power supply failure as well.
+
+56
+00:03:49,140 --> 00:03:55,840
+Because to those OGs who have known this channel for a very long time,
+
+57
+00:03:55,960 --> 00:04:00,440
+you would have known the great tragic death of my PC just last year.
+
+58
+00:04:01,380 --> 00:04:10,160
+So around that time, what happened was that I shot the motherboard real dead.
+
+59
+00:04:10,440 --> 00:04:11,820
+So the PCIe slots were dead.
+
+60
+00:04:12,220 --> 00:04:15,380
+That's the whole point of me changing the whole motherboard and the new processor.
+
+61
+00:04:15,840 --> 00:04:18,260
+So that's where I got it at March this year.
+
+62
+00:04:20,580 --> 00:04:23,220
+So it's not the motherboard problem again.
+
+63
+00:04:23,220 --> 00:04:31,160
+I don't think it's the GPU because I've been doing content for consistently three whole months now,
+
+64
+00:04:31,280 --> 00:04:33,100
+up until that ZZZ-Z stream.
+
+65
+00:04:34,260 --> 00:04:35,280
+Oh my god, I could not speak.
+
+66
+00:04:35,840 --> 00:04:40,320
+Up until the ZZZ stream, there were no issues.
+
+67
+00:04:41,080 --> 00:04:49,060
+Like playing One-Armed Cook, One-Armed Robber, Genshin Impact, a whole slew of other games.
+
+68
+00:04:50,040 --> 00:04:51,620
+None of that ever happened.
+
+69
+00:04:53,400 --> 00:05:00,000
+So my only possible, well, theory is only of the two.
+
+70
+00:05:00,500 --> 00:05:05,500
+Either the GPU is getting shaken off by the subwoofers of my speakers,
+
+71
+00:05:06,840 --> 00:05:08,940
+which I don't know how that's possible.
+
+72
+00:05:09,220 --> 00:05:10,540
+By a microscopic level?
+
+73
+00:05:12,320 --> 00:05:14,080
+Honestly, everything's clicked in.
+
+74
+00:05:14,320 --> 00:05:15,180
+I'm not even joking.
+
+75
+00:05:16,240 --> 00:05:19,980
+This is by far the weirdest problem I have ever faced in my life.
+
+76
+00:05:19,980 --> 00:05:23,960
+And I really do not want to go through that ever again.
+
+77
+00:05:25,600 --> 00:05:27,760
+So, this may be a video for help.
+
+78
+00:05:28,220 --> 00:05:33,420
+I'm terribly sorry for those who are not able to contribute financially.
+
+79
+00:05:34,180 --> 00:05:37,580
+But to those who can, please check out my Ko-Fi or Throne.
+
+80
+00:05:38,620 --> 00:05:42,860
+Depending on the links you click, there might be different goals.
+
+81
+00:05:42,860 --> 00:05:47,260
+So if you like my long-term goal of doing a complete upgrade,
+
+82
+00:05:47,380 --> 00:05:51,240
+like a complete swap of every part that I can think of, check out my Throne.
+
+83
+00:05:51,660 --> 00:05:55,900
+Otherwise, if you're looking to maybe give me some funds for repair,
+
+84
+00:05:56,020 --> 00:05:59,240
+even though the goal is currently at the massive upgrade,
+
+85
+00:05:59,400 --> 00:06:04,500
+I might use this money to possibly repair and upkeep this PC instead.
+
+86
+00:06:06,100 --> 00:06:07,860
+Unless you specify in the message.
+
+87
+00:06:08,660 --> 00:06:10,560
+But yeah.
+
+88
+00:06:11,740 --> 00:06:16,660
+To those who are not able to contribute financially, it's perfectly fine.
+
+89
+00:06:17,600 --> 00:06:18,680
+It's a thought that counts.
+
+90
+00:06:19,520 --> 00:06:25,940
+But it would also be nice if you could share my other content.
+
+91
+00:06:26,260 --> 00:06:30,220
+Like say, videos, streams, stuff like that.
+
+92
+00:06:30,280 --> 00:06:32,560
+Just to gain some awareness to this video.
+
+93
+00:06:33,340 --> 00:06:35,240
+Try not to share directly to this video first.
+
+94
+00:06:35,240 --> 00:06:39,540
+I like people to enjoy my content first before they look into this video.
+
+95
+00:06:40,380 --> 00:06:42,180
+So if you do come across this video,
+
+96
+00:06:44,680 --> 00:06:47,500
+as a long-standing fan of MeloriTensei,
+
+97
+00:06:50,300 --> 00:06:53,140
+I hope for the best for this channel, if anything.
+
+98
+00:06:55,840 --> 00:06:58,800
+Because I don't really have a cash flow.
+
+99
+00:06:59,480 --> 00:07:01,740
+Nor do I have any form of income.
+
+100
+00:07:01,740 --> 00:07:05,860
+So there's really nothing sustaining me right now.
+
+101
+00:07:07,800 --> 00:07:11,500
+To those who have found this video through recommendations algorithm,
+
+102
+00:07:11,820 --> 00:07:13,420
+please do check out all my other content.
+
+103
+00:07:14,660 --> 00:07:16,200
+I hope you enjoy my content.
+
+104
+00:07:16,280 --> 00:07:19,740
+If you do like my content and you want to contribute to my channel,
+
+105
+00:07:21,860 --> 00:07:23,980
+into improving everything,
+
+106
+00:07:24,160 --> 00:07:27,260
+because most of the time I like putting my money back into my setup.
+
+107
+00:07:27,260 --> 00:07:30,920
+Because if there's anything that makes me happy,
+
+108
+00:07:31,140 --> 00:07:35,960
+it's the joy of discovering tech and experimenting with things.
+
+109
+00:07:36,120 --> 00:07:40,560
+However, this is one of those times where I might end up hitting a limit.
+
+110
+00:07:40,960 --> 00:07:46,920
+A mental limit for what I can handle when it comes to diagnosing problems.
+
+111
+00:07:47,320 --> 00:07:49,180
+In financial situations like this.
+
+112
+00:07:51,760 --> 00:07:54,120
+If this problem persists,
+
+113
+00:07:54,120 --> 00:07:57,560
+I mean I'm talking about the sudden shutdowns,
+
+114
+00:07:59,100 --> 00:08:02,040
+I would be playing 50-50 with my life.
+
+115
+00:08:03,060 --> 00:08:08,080
+I'll be sinking my bank account to send it to someone to look into this problem.
+
+116
+00:08:09,200 --> 00:08:12,140
+And I may or may not be able to get it fixed by then.
+
+117
+00:08:14,200 --> 00:08:16,540
+But for now, as I currently see,
+
+118
+00:08:17,420 --> 00:08:23,120
+it seems like the issue may have been in the clear.
+
+119
+00:08:23,120 --> 00:08:26,380
+I can't really say for sure that it is quote-unquote "resolved".
+
+120
+00:08:27,200 --> 00:08:29,860
+Like "DEFINITIVELY resolved".
+
+121
+00:08:32,340 --> 00:08:36,680
+But yeah, I'm basically in quite a fragile situation right now for this channel,
+
+122
+00:08:36,960 --> 00:08:40,340
+and for my computer, and my entire content creation life.
+
+123
+00:08:44,000 --> 00:08:48,460
+Check out the two links in my channel.
+
+124
+00:08:53,120 --> 00:08:57,000
+There won't be videos next week as well, and maybe in the next few weeks probably.
+
+125
+00:08:57,560 --> 00:09:05,000
+Because I'm still going to be focusing on the original goals of the hiatus that I called.
+
+126
+00:09:05,560 --> 00:09:12,520
+Which is to unite my assets and also subtitle my last and only video that I have to subtitle left.
+
+127
+00:09:13,540 --> 00:09:16,760
+Which is the One-Armed Cook video.
+
+128
+00:09:17,920 --> 00:09:23,080
+So yeah, once that's done, then I'll be back to making videos again.
+
+129
+00:09:23,840 --> 00:09:24,600
+Streams?
+
+130
+00:09:24,960 --> 00:09:30,640
+About streams though, I'll be doing some tests all along this week.
+
+131
+00:09:32,720 --> 00:09:42,940
+Hopefully by Friday, I'll be able to determine whether I can continue streaming on that Saturday or not.
+
+132
+00:09:45,620 --> 00:09:51,940
+But yeah, with that said, it's your girl, Melori Valentine.
+
+133
+00:09:54,000 --> 00:09:57,040
+I'll catch you on the next post, I guess.
+
+134
+00:09:58,960 --> 00:09:59,480
+OtsuMelo.
+
